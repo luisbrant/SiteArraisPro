@@ -1,10 +1,12 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "br.com.arraispro.app",
-    "sha256_cert_fingerprints": [
-      "BE:7C:6A:55:40:FC:56:94:66:C9:D2:0B:E3:9B:95:E5:33:03:3D:BE:CA:75:69:78:08:3D:23:4D:A4:76:15:BD"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.arraispro.app",
+      "sha256_cert_fingerprints": [
+        "85:B4:D6:21:65:C2:DE:E8:D1:A0:79:AD:53:7D:E4:25:47:71:8E:E1:F7:18:DE:FB:AA:39:23:97:47:2E:61:A6"
+      ]
+    }
   }
-}]
+]
