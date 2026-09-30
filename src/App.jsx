@@ -24,7 +24,7 @@ export default function App() {
           </nav>
           
           {/* Botão de topo mais chamativo no desktop */}
-          <a href="#download" className="bg-blue-600 hover:bg-blue-500 text-white font-semibold py-2 px-6 rounded-full transition shadow-md whitespace-nowrap">
+          <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=header_cta" target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-500 text-white font-semibold py-2 px-6 rounded-full transition shadow-md whitespace-nowrap">
             Baixe Grátis no Google Play
           </a>
           
@@ -50,12 +50,12 @@ export default function App() {
             
             <div className="flex flex-col gap-3 mt-6 w-full items-center md:items-start relative z-10">
               <div className="flex flex-col sm:flex-row gap-4 items-center w-full sm:w-auto">
-                <a href="https://play.google.com/store/apps/details?id=com.arraispro" target="_blank" rel="noopener noreferrer" className="group relative flex items-center justify-center gap-2 bg-gradient-to-r from-blue-600 to-blue-500 hover:from-blue-500 hover:to-blue-400 text-white font-bold py-4 px-8 rounded-xl transition-all duration-300 hover:scale-105 shadow-xl shadow-blue-500/40 w-full sm:w-auto text-lg overflow-hidden">
+                <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=hero_cta" target="_blank" rel="noopener noreferrer" className="group relative flex items-center justify-center gap-2 bg-gradient-to-r from-blue-600 to-blue-500 hover:from-blue-500 hover:to-blue-400 text-white font-bold py-4 px-8 rounded-xl transition-all duration-300 hover:scale-105 shadow-xl shadow-blue-500/40 w-full sm:w-auto text-lg overflow-hidden">
                   <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out"></div>
                   <svg className="w-6 h-6 relative z-10" viewBox="0 0 24 24" fill="currentColor"><path d="M5 2.5v19l15.5-9.5L5 2.5zm2 3.8l9.8 5.7-9.8 5.7V6.3z"/></svg>
                   <span className="relative z-10">Baixe grátis</span>
                 </a>
-                <a href="https://play.google.com/store/apps/details?id=com.arraispro" target="_blank" rel="noopener noreferrer" className="hidden sm:block hover:scale-105 transition-transform duration-300">
+                <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=hero_badge" target="_blank" rel="noopener noreferrer" className="hidden sm:block hover:scale-105 transition-transform duration-300">
                   <img alt="Disponível no Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" className="h-[68px]" />
                 </a>
               </div>
@@ -288,7 +288,7 @@ export default function App() {
                   <span className="text-green-500 font-bold">✓</span> Resultado por tema com pontos para reforço
                 </li>
               </ul>
-              <a href="https://play.google.com/store/apps/details?id=com.arraispro" target="_blank" rel="noopener noreferrer" className="w-full block text-center bg-transparent border-2 border-blue-600 text-blue-600 hover:bg-blue-50 font-bold py-4 rounded-xl transition-all shadow-sm">
+              <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=pricing_free" target="_blank" rel="noopener noreferrer" className="w-full block text-center bg-transparent border-2 border-blue-600 text-blue-600 hover:bg-blue-50 font-bold py-4 rounded-xl transition-all shadow-sm">
                 Baixe Grátis e Comece
               </a>
             </div>
@@ -329,7 +329,7 @@ export default function App() {
               </ul>
               <div className="flex flex-col gap-3">
                 <p className="text-sm text-blue-200 text-center mb-1 font-medium">Desbloqueie todo o conteúdo agora:</p>
-                <a href="https://play.google.com/store/apps/details?id=com.arraispro" target="_blank" rel="noopener noreferrer" className="w-full block text-center bg-gradient-to-r from-blue-600 to-blue-400 hover:from-blue-500 hover:to-blue-300 text-white font-black py-4 rounded-xl transition-all duration-300 shadow-xl shadow-blue-500/40 hover:scale-[1.02] text-lg uppercase tracking-wide">
+                <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=pricing_pro" target="_blank" rel="noopener noreferrer" className="w-full block text-center bg-gradient-to-r from-blue-600 to-blue-400 hover:from-blue-500 hover:to-blue-300 text-white font-black py-4 rounded-xl transition-all duration-300 shadow-xl shadow-blue-500/40 hover:scale-[1.02] text-lg uppercase tracking-wide">
                   Desbloquear Versão Pro
                 </a>
                 <p className="text-center text-xs text-blue-300 font-medium flex items-center justify-center gap-1">
@@ -402,7 +402,7 @@ export default function App() {
           {/* Mini-CTA após FAQ */}
           <div className="mt-12 text-center">
             <p className="text-slate-500 mb-4">Ainda restam dúvidas? Teste você mesmo.</p>
-            <a href="https://play.google.com/store/apps/details?id=com.arraispro" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-500 text-white font-semibold py-3 px-8 rounded-full transition shadow-lg shadow-blue-500/20">
+            <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=faq_cta" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-500 text-white font-semibold py-3 px-8 rounded-full transition shadow-lg shadow-blue-500/20">
               Experimente →
             </a>
           </div>
@@ -418,7 +418,7 @@ export default function App() {
           <p className="text-lg text-slate-300 mb-8 leading-relaxed">
             Tenha acesso imediato a simulados, trilhas gamificadas e a uma apostila completa de 8 módulos, desenvolvida rigorosamente com base no conteúdo programático oficial da Marinha — tudo na palma da sua mão. Baixe gratuitamente e comece agora mesmo.
           </p>
-          <a href="https://play.google.com/store/apps/details?id=com.arraispro" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-3 bg-blue-600 hover:bg-blue-500 text-white font-bold py-4 px-10 rounded-full shadow-xl shadow-blue-600/30 transition text-lg">
+          <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=final_cta" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-3 bg-blue-600 hover:bg-blue-500 text-white font-bold py-4 px-10 rounded-full shadow-xl shadow-blue-600/30 transition text-lg">
             <svg className="w-6 h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M5 2.5v19l15.5-9.5L5 2.5zm2 3.8l9.8 5.7-9.8 5.7V6.3z"/></svg>
             Baixe Grátis no Google Play
           </a>
@@ -444,7 +444,7 @@ export default function App() {
       {/* FLOATING CTA — Botão fixo no rodapé (Mobile Only, definido em App.css) */}
       <div className="floating-cta md:hidden">
         <a 
-          href="https://play.google.com/store/apps/details?id=com.arraispro" 
+          href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=sticky_cta" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-500 text-white font-bold py-3.5 rounded-xl shadow-lg shadow-blue-600/30 transition text-base w-full"
