@@ -264,5 +264,258 @@ Tirar a habilitação nunca foi tão fácil. Com as Escolas Náuticas estruturad
 
 Não estrague seu verão. Baixe o ArraisPro, prepare-se para a prova e navegue com total paz de espírito!
 `
+  },
+  {
+    id: 6,
+    slug: 'como-e-a-prova-da-marinha-arrais-amador',
+    title: 'Como é a prova da Marinha para Arrais Amador? (Formato e regras)',
+    description: 'Descubra como funciona o exame teórico, quantas questões tem, qual a nota de corte e o que você precisa levar no dia.',
+    date: '2026-09-30',
+    author: 'Equipe ArraisPro',
+    content: \`
+# Como é a prova da Marinha para Arrais Amador?
+
+O momento que mais gera ansiedade nos candidatos é, sem dúvida, o dia da prova teórica na Capitania dos Portos. Muitas pessoas têm medo de reprovar, mas a verdade é que, entendendo o formato do exame, o processo se torna muito mais tranquilo.
+
+Neste artigo, detalhamos tudo o que você precisa saber sobre o funcionamento da prova da Marinha do Brasil para Arrais Amador e Motonauta.
+
+---
+
+## Formato do Exame
+
+Independentemente de você estar prestando apenas para Arrais Amador, apenas para Motonauta, ou para os dois juntos, o formato base da prova teórica é o mesmo:
+
+* **Quantidade de questões:** 40 questões.
+* **Estilo:** Múltipla escolha (geralmente com 4 ou 5 alternativas, sendo apenas uma correta).
+* **Duração:** O candidato tem, no máximo, **2 horas** para finalizar a prova e entregar o gabarito.
+
+### Nota de Corte (Quantas preciso acertar?)
+
+A Marinha exige um índice de acerto de **50%**. Ou seja, das 40 questões, você precisa acertar no mínimo **20 questões** para ser considerado "Apto" (aprovado). 
+Vale ressaltar que a nota não vai no seu documento. Acertar 20 ou acertar 40 tem o exato mesmo efeito prático: você ganha a sua habilitação.
+
+## O que cai na prova?
+
+O conteúdo programático é definido pela NORMAM-211 (Arrais) e NORMAM-212 (Motonauta). As questões são divididas em:
+1. RIPEAM (Luzes, Marcas e Sinais Sonoros)
+2. Balizamento (Sinais náuticos)
+3. Regras de Manobra e Navegação
+4. Primeiros Socorros
+5. Combate a Incêndio
+6. Sobrevivência no Mar e Meteorologia básica
+
+## Regras para o Dia da Prova
+
+* **O que levar:** Documento de identidade original com foto (CNH, RG), comprovante de inscrição e caneta esferográfica de corpo transparente (azul ou preta).
+* **O que NÃO levar:** Celulares, smartwatches, bonés, óculos escuros e calculadoras. É expressamente proibido o uso de qualquer equipamento eletrônico. O celular deverá ficar desligado.
+* **Traje:** As organizações militares têm regras rígidas de vestimenta. **Não vá de bermuda, regata ou chinelo.** Use calça comprida, sapato fechado (ou tênis) e camisa/camiseta com manga. O descumprimento do traje impede a sua entrada.
+
+## Quando sai o resultado?
+Antigamente, as provas eram corrigidas manualmente e demoravam dias. Hoje, muitas Capitanias utilizam provas eletrônicas (no computador) ou leitura óptica imediata. O resultado (Apto / Inapto) costuma sair na mesma hora ou, no máximo, em 48 horas no sistema.
+
+A melhor forma de não ter surpresas no dia é treinar com o **ArraisPro**. Nossos simulados seguem rigorosamente a estrutura da Marinha, acostumando seu cérebro ao formato de 40 questões!
+\`
+  },
+  {
+    id: 7,
+    slug: 'simulado-arrais-amador-gratis-atualizado',
+    title: 'Onde fazer o Simulado Arrais Amador grátis e atualizado?',
+    description: 'Pare de usar PDFs velhos. Conheça a melhor plataforma online para testar seus conhecimentos antes da prova da Capitania.',
+    date: '2026-09-30',
+    author: 'Equipe ArraisPro',
+    content: \`
+# Onde fazer o Simulado Arrais Amador grátis e atualizado?
+
+Se você perguntar a qualquer despachante náutico ou marinheiro experiente qual é o segredo para passar de primeira no exame da Marinha, a resposta será unânime: **Faça simulados!**
+
+Ler a teoria é importante, mas é resolvendo questões que você decora as famosas "pegadinhas" do RIPEAM e os padrões de balizamento.
+
+---
+
+## O perigo dos PDFs antigos
+
+Muitas escolas náuticas ainda enviam um arquivo em PDF chamado "Simuladão da Marinha" contendo 100 ou 200 questões. O grande problema é que a maioria desses PDFs circula na internet há mais de 10 anos. 
+As leis mudaram (a antiga NORMAM 03 virou NORMAM-211), as penalidades mudaram, mas os PDFs gratuitos da internet continuam ensinando o gabarito errado.
+
+## A Solução: Aplicativo ArraisPro
+
+Para resolver esse problema, nós criamos o **ArraisPro**, a ferramenta definitiva e sempre atualizada para a sua preparação.
+
+### Por que o ArraisPro é a melhor escolha?
+
+1. **Maior Banco de Questões do Brasil:** Mais de 1.000 questões recentes extraídas e adaptadas de provas reais de diversas Capitanias dos Portos do país.
+2. **Gabaritos Comentados:** Errou uma questão sobre boia de perigo isolado? O aplicativo não só te dá a resposta certa, mas te explica o *porquê*, com imagens e resumos teóricos.
+3. **Simulados idênticos à prova real:** O app gera provas dinâmicas de 40 questões com contagem regressiva de tempo, igual ao dia do exame.
+4. **Modo Revisão (Foco nos seus erros):** O algoritmo detecta os temas que você mais erra e cria simulados específicos só com as suas fraquezas, garantindo que você feche as lacunas antes da prova.
+5. **Completamente na palma da mão:** Você pode resolver 5 questões na fila do banco ou 40 questões antes de dormir. O aplicativo funciona offline para os recursos principais.
+
+### Como testar de graça?
+
+Nós sabemos que a qualidade do nosso material fala por si. Por isso, você pode baixar o ArraisPro gratuitamente na Google Play Store e já começar a resolver o simulado diagnóstico grátis para saber qual é o seu nível atual de conhecimento.
+
+Não coloque sua GRU e o seu tempo em risco. [Clique aqui para baixar o ArraisPro](#) e simule com inteligência!
+\`
+  },
+  {
+    id: 8,
+    slug: 'questoes-mais-reprovam-prova-arrais-motonauta',
+    title: 'As 10 questões que mais reprovam na prova de Arrais e Motonauta',
+    description: 'Uma análise exclusiva dos erros mais comuns cometidos pelos candidatos no RIPEAM e no Balizamento Náutico.',
+    date: '2026-09-30',
+    author: 'Equipe ArraisPro',
+    content: \`
+# As questões que mais reprovam na prova de Arrais e Motonauta
+
+Analisando a taxa de acertos de milhares de alunos dentro do **ArraisPro**, nós identificamos um padrão. Embora o conteúdo seja vasto, a esmagadora maioria dos candidatos erra questões baseadas em "pegadinhas" semânticas e luzes de navegação.
+
+Neste artigo, destrinchamos as maiores armadilhas da prova da Marinha.
+
+---
+
+## 1. O cruzamento (Quem tem a preferência?)
+
+**A pegadinha:** A prova descreve duas lanchas se cruzando, mas coloca ângulos complexos para te confundir. 
+**A regra:** No mar, a regra de ouro do RIPEAM é similar ao trânsito terrestre: quem avista a outra embarcação a **Boreste (direita)** deve manobrar para desviar. Ou seja, se o barco vermelho está à sua direita, a preferência é dele.
+
+## 2. Roda a Roda (Bico a Bico)
+
+**A pegadinha:** O que fazer quando dois barcos vêm de frente um para o outro (roda a roda)? Muita gente responde "parar" ou "dar a ré".
+**A regra:** Ambas as embarcações devem guinar (virar) para **Boreste (direita)**.
+
+## 3. As Cores do Balizamento na Região B (Brasil)
+
+O Brasil adota o sistema IALA Região B. A confusão clássica acontece porque a prova pergunta:
+*"Ao entrar em um porto (vindo do mar), de que lado fica a boia verde?"*
+**A regra:** Na Região B, ao entrar no porto, a cor **Verde fica a bombordo (esquerda)** e a cor **Encarnada (Vermelha) fica a boreste (direita)**.
+
+## 4. Luzes de Navegação (Barco a remo)
+
+A Marinha adora perguntar quais luzes uma pequena embarcação a remo deve exibir à noite. As opções sempre têm lanternas coloridas complexas.
+**A regra:** Embarcações a remo não precisam de luzes de bordos (verde/vermelha), apenas de uma **lanterna de luz branca** pronta para ser exibida a tempo de evitar colisão.
+
+## 5. Boia de Perigo Isolado
+
+**A pegadinha:** Qual é a cor da boia de perigo isolado e o que ela significa? O candidato costuma confundir com águas seguras ou novo perigo.
+**A regra:** Ela é **Preta com uma ou mais faixas horizontais Encarnadas (vermelhas)**. Significa que há um perigo pontual (como uma pedra ou casco afundado) bem ali, mas a água em volta é navegável. O topo tem duas esferas pretas.
+
+## 6. Distância de banhistas (Linha base)
+
+**A pegadinha:** Qual a distância mínima que uma lancha ou jet ski pode navegar da linha base da praia?
+**A regra:** **200 metros.** Embarcações a motor não podem se aproximar mais que 200m de praias com banhistas. E lembre-se: jet ski só pode se aproximar da areia de forma perpendicular e a, no máximo, 3 nós de velocidade.
+
+---
+
+Não seja mais uma vítima das pegadinhas da banca examinadora. No **ArraisPro**, nós temos filtros por "Nível Difícil" e "RIPEAM" para você treinar exaustivamente apenas essas questões até que elas fiquem óbvias!
+\`
+  },
+  {
+    id: 9,
+    slug: 'como-se-inscrever-capitania-dos-portos-prova',
+    title: 'Como se inscrever na Capitania dos Portos para a prova teórica',
+    description: 'Guia de despachante: como emitir a GRU, juntar os documentos e agendar o seu exame prático na Marinha sem dor de cabeça.',
+    date: '2026-09-30',
+    author: 'Equipe ArraisPro',
+    content: \`
+# Como se inscrever na Capitania dos Portos para a prova teórica
+
+Você já completou as horas obrigatórias de aula prática na sua Escola Náutica. O que falta agora é dar entrada na documentação junto à Marinha do Brasil para realizar a prova teórica.
+
+Muitas escolas oferecem o serviço de despachante cobrando uma taxa extra. Se você quiser economizar e fazer o processo por conta própria, basta seguir o nosso guia.
+
+---
+
+## Passo 1: Emissão da GRU (Guia de Recolhimento da União)
+
+O primeiro passo é pagar a taxa de inscrição.
+1. Acesse o site da **Diretoria de Portos e Costas (DPC)**.
+2. Procure pela aba "Serviços da Capitania / Emissão de GRU".
+3. Selecione a opção "Inscrição para Exame de Habilitação de Amador".
+4. Preencha seus dados, imprima o boleto (valor em torno de R$ 42,00) e pague em um banco conveniado (preferencialmente Banco do Brasil ou Pix, se disponível).
+*Atenção:* Guarde o comprovante de pagamento físico.
+
+## Passo 2: Juntar a documentação (O Dossiê)
+
+A Marinha exige que você leve os documentos organizados (e com cópias autenticadas, dependendo da delegacia, então sempre ligue antes para confirmar se eles aceitam conferir o original na hora).
+
+O Dossiê básico contém:
+1. **Ficha de Inscrição** preenchida e assinada (disponível no site da DPC).
+2. **Cópia da CNH** válida (que serve como atestado médico de aptidão física). Caso não tenha CNH, leve o RG + Atestado Médico para Prática Náutica (padrão DPC).
+3. **Cópia do CPF e Identidade**.
+4. **Comprovante de Residência** (com CEP válido) recente.
+5. **Atestado de Embarque:** O certificado em papel oficial que a sua Escola Náutica te entregou.
+6. A **GRU paga e o comprovante**.
+
+## Passo 3: Ida à Capitania ou Agência Fluvial
+
+Vá pessoalmente à Capitania dos Portos, Delegacia ou Agência Fluvial responsável pela sua região. Geralmente, o atendimento ao público tem horários restritos (ex: apenas de manhã das 8h30 às 11h30). Chegue cedo.
+
+Você vai protocolar seus documentos. Se tudo estiver correto, o atendente militar irá registrar você no sistema.
+
+## Passo 4: O Agendamento
+
+A maioria das Capitanias permite que você agende a data da prova no momento da entrega dos documentos, informando as datas disponíveis no calendário da corporação. Outras capitanias publicam a data no site.
+Sempre pergunte: *"Qual será a data e a hora do meu exame?"* e exija o protocolo de inscrição.
+
+**Pronto!** O processo burocrático acabou. Agora, a sua única missão é baixar o aplicativo **ArraisPro** e focar 100% na resolução de simulados até o dia do exame.
+\`
+  },
+  {
+    id: 10,
+    slug: 'o-que-estudar-vespera-prova-marinha',
+    title: 'O que estudar na véspera da prova da Marinha (Checklist final)',
+    description: 'Faltam 24 horas para o exame. Veja quais temas revisar de última hora e o que fazer para garantir a calma e a aprovação.',
+    date: '2026-09-30',
+    author: 'Equipe ArraisPro',
+    content: \`
+# O que estudar na véspera da prova da Marinha (Checklist)
+
+Faltam apenas 24 horas para o seu exame na Capitania dos Portos. Você provavelmente já fez os simulados no app **ArraisPro**, já leu a apostila e já manobrou a lancha na aula prática. 
+
+Porém, a véspera de qualquer prova costuma gerar ansiedade. A regra de ouro é: **não tente aprender assuntos novos na véspera.** O foco deve ser puramente na memória de curto prazo (Decoreba Estratégica).
+
+---
+
+## O que focar de última hora? (Memória Curta)
+
+Deixe a véspera para revisar listas e coisas visuais que podem sumir da memória sob pressão.
+
+### 1. Sinais Sonoros (Apitos)
+Decore os apitos longos e curtos. Eles caem em toda prova e dependem de memória bruta.
+* 1 apito curto: "Estou guinando para boreste"
+* 2 apitos curtos: "Estou guinando para bombordo"
+* 3 apitos curtos: "Estou dando máquinas atrás"
+* 5 ou mais apitos curtos (série): Não entendi sua manobra / Perigo (Dúvida)
+
+### 2. Luzes de Navegação
+Revise rapidamente os ângulos das luzes.
+* Luz de Mastro (Branca): 225º
+* Luz de Boreste (Verde): 112.5º
+* Luz de Bombordo (Vermelha): 112.5º
+* Luz de Alcançado (Branca): 135º
+
+### 3. Coletes Salva-vidas
+Isso despenca na prova! Revise as classes rapidamente:
+* Classe I: Mar aberto (navegação oceânica)
+* Classe II: Navegação costeira
+* Classe III: Navegação interior (rios, lagos, lagoas) - O mais comum para Arrais.
+* Classe IV: Trabalho (boias, roupas operacionais)
+* Classe V: Esporte e recreio (esqui aquático, windsurf)
+
+## Checklist Prático para o dia D
+
+Não adianta saber tudo de teoria e ser barrado na porta da Capitania.
+Prepare as suas roupas e documentos na noite anterior:
+
+* [ ] Documento de identidade original (CNH ou RG).
+* [ ] Protocolo de Inscrição da Capitania.
+* [ ] Duas canetas esferográficas azuis ou pretas (tubo transparente).
+* [ ] Calça comprida (jeans ou sarja).
+* [ ] Sapato fechado (tênis).
+* [ ] Camisa ou camiseta de manga.
+
+*Lembrete Militar:* Capitanias não aceitam a entrada com shorts, bermudas, regatas ou chinelos, mesmo em cidades litorâneas quentes.
+
+Com tudo pronto, durma bem e confie na sua preparação. Se você bateu os 80% de acerto consistente nos simulados do **ArraisPro**, a aprovação é apenas um detalhe burocrático. Boa sorte e bons ventos!
+\`
   }
 ];
