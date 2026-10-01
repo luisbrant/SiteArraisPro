@@ -19,12 +19,12 @@ export default function BlogPost() {
     <div className="min-h-screen bg-white font-sans text-slate-800 flex flex-col">
       <Helmet>
         <title>{post.title} | Blog ArraisPro</title>
-        <meta name="description" content={post.excerpt} />
+        <meta name="description" content={post.description} />
         <link rel="canonical" href={`https://www.arraispro.com.br/blog/${post.slug}`} />
         
         {/* Open Graph / Social Media */}
         <meta property="og:title" content={`${post.title} | Blog ArraisPro`} />
-        <meta property="og:description" content={post.excerpt} />
+        <meta property="og:description" content={post.description} />
         <meta property="og:type" content="article" />
         <meta property="og:url" content={`https://www.arraispro.com.br/blog/${post.slug}`} />
         <meta property="og:site_name" content="ArraisPro" />
@@ -35,7 +35,7 @@ export default function BlogPost() {
             "@context": "https://schema.org",
             "@type": "Article",
             "headline": post.title,
-            "description": post.excerpt,
+            "description": post.description,
             "author": {
               "@type": "Person",
               "name": post.author || "ArraisPro"
