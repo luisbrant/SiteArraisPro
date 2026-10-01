@@ -185,7 +185,7 @@ export default function Home() {
           </div>
           <div className="px-4 py-2 sm:py-0">
             <p className="text-3xl md:text-4xl font-black text-white mb-2">Programa</p>
-            <p className="text-xs md:text-sm text-blue-100 font-medium">Baseado na NORMAM</p>
+            <p className="text-xs md:text-sm text-blue-100 font-medium">Baseado nas NORMAM-211 e 212</p>
           </div>
           <div className="px-4 py-2 sm:py-0">
             <p className="text-3xl md:text-4xl font-black text-white mb-2">15</p>
