@@ -12,13 +12,13 @@ export default function Home() {
       </Helmet>
 
       {/* 1. HEADER - OTIMIZADO PARA DESKTOP E MOBILE */}
+      {/* 1. HEADER - OTIMIZADO PARA DESKTOP E MOBILE */}
       <header className="sticky top-0 z-50 bg-white border-b border-slate-200 shadow-sm">
-        {/* Reduzimos o padding vertical da barra (py-2) para compensar o aumento da logo */}
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-2 md:py-3 flex justify-between items-center">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 md:py-6 flex justify-between items-center">
           
           <div className="flex items-center">
-            {/* Removido o 'scale' (que causava o vazamento). Usando margem negativa (-my-4) para "comer" o padding transparente da imagem original */}
-            <img src="/logo.png" alt="ArraisPro Logo" className="h-24 md:h-28 lg:h-32 w-auto object-contain -my-4" />
+            {/* Logo gigante com espaço real na página para não vazar do cabeçalho */}
+            <img src="/logo.png" alt="ArraisPro Logo" className="h-32 md:h-40 lg:h-48 w-auto object-contain" />
           </div>
           
           {/* Menu Desktop */}

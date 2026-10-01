@@ -55,10 +55,10 @@ export default function BlogPost() {
       </Helmet>
 
       {/* HEADER */}
-      <header className="bg-white border-b border-slate-200 shadow-sm py-2 md:py-3">
+      <header className="bg-white border-b border-slate-200 shadow-sm py-4 md:py-6">
         <div className="max-w-3xl mx-auto px-6 flex justify-between items-center">
           <Link to="/">
-            <img src="/logo.png" alt="ArraisPro Logo" className="h-24 md:h-28 lg:h-32 w-auto object-contain -my-4" />
+            <img src="/logo.png" alt="ArraisPro Logo" className="h-32 md:h-40 lg:h-48 w-auto object-contain" />
           </Link>
           <Link to="/blog" className="text-blue-600 font-bold hover:text-blue-800 transition text-sm md:text-base">
             &larr; Voltar para o Blog
