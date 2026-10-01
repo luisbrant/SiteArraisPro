@@ -39,10 +39,10 @@ export default function BlogList() {
       </Helmet>
 
       {/* HEADER SIMPLES */}
-      <header className="bg-white border-b border-slate-200 shadow-sm py-6">
+      <header className="bg-white border-b border-slate-200 shadow-sm py-3">
         <div className="max-w-4xl mx-auto px-6 flex justify-between items-center">
           <Link to="/">
-            <img src="/logo.png" alt="ArraisPro Logo" className="h-20 md:h-24 w-auto object-contain transform scale-125 md:scale-150 origin-left" />
+            <img src="/logo.png" alt="ArraisPro Logo" className="h-24 md:h-28 w-auto object-contain -my-4" />
           </Link>
           <Link to="/" className="text-blue-600 font-bold hover:text-blue-800 transition">
             &larr; Voltar ao site
