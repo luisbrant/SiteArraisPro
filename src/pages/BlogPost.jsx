@@ -11,6 +11,7 @@ export default function BlogPost() {
   const post = blogPosts.find((p) => p.slug === slug && !p.draft);
 
   // Se não encontrou o post ou se for um rascunho, exibe tela de não encontrado
+  if (!post) {
     return <Navigate to="/blog" replace />;
   }
 
