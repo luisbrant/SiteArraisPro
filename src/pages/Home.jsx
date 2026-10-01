@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Helmet } from 'react-helmet-async';
+import { Link } from 'react-router-dom';
 import '../App.css'; // ajustado import
 
 export default function Home() {
@@ -504,9 +505,9 @@ export default function Home() {
         <div className="max-w-6xl mx-auto flex flex-col items-center gap-6">
           <img src="/logo.png" alt="ArraisPro" className="h-10 opacity-60 hover:opacity-100 transition" />
           <div className="flex gap-6 justify-center">
-            <span className="hover:text-white transition cursor-not-allowed opacity-50" title="Página pendente de criação pelo proprietário">Termos de Uso</span>
-            <span className="hover:text-white transition cursor-not-allowed opacity-50" title="Página pendente de criação pelo proprietário">Política de Privacidade</span>
-            <span className="hover:text-white transition cursor-not-allowed opacity-50" title="Página pendente de criação pelo proprietário">Suporte</span>
+            <Link to="/termos-de-uso" className="hover:text-white transition">Termos de Uso</Link>
+            <Link to="/politica-de-privacidade" className="hover:text-white transition">Política de Privacidade</Link>
+            <Link to="/suporte" className="hover:text-white transition">Suporte</Link>
           </div>
           <p className="max-w-xl mx-auto mt-4 text-xs opacity-60">
             Aviso legal: O ArraisPro é um aplicativo independente, de cunho estritamente educacional, criado para auxiliar os candidatos nos estudos. Não possuímos qualquer vínculo governamental com a Marinha do Brasil.
