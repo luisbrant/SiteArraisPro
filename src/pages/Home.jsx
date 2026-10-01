@@ -16,8 +16,8 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 md:py-6 flex justify-between items-center">
           
           <div className="flex items-center">
-            {/* Logo menor no mobile para não quebrar layout */}
-            <img src="/logo.png" alt="ArraisPro Logo" className="h-10 md:h-16 lg:h-20 w-auto object-contain" />
+            {/* Logo ajustada para mobile: h-14 garante proporção mais premium */}
+            <img src="/logo.png" alt="ArraisPro Logo" className="h-14 md:h-16 lg:h-20 w-auto object-contain" />
           </div>
           
           {/* Menu Desktop */}
@@ -35,14 +35,14 @@ export default function Home() {
           
           {/* Hamburger Icon para Mobile */}
           <button 
-            className="lg:hidden p-2 text-slate-600 hover:text-blue-600 focus:outline-none"
+            className="lg:hidden p-2 text-slate-800 hover:text-blue-600 focus:outline-none transition-colors"
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
             aria-label="Abrir menu"
           >
             {isMobileMenuOpen ? (
               <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg>
             ) : (
-              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" /></svg>
+              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M4 6h16M4 12h16M4 18h16" /></svg>
             )}
           </button>
         </div>

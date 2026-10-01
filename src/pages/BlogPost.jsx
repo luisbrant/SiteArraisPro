@@ -58,7 +58,7 @@ export default function BlogPost() {
       <header className="bg-white border-b border-slate-200 shadow-sm py-4 md:py-6">
         <div className="max-w-3xl mx-auto px-6 flex justify-between items-center">
           <Link to="/">
-            <img src="/logo.png" alt="ArraisPro Logo" className="h-8 md:h-10 w-auto" />
+            <img src="/logo.png" alt="ArraisPro Logo" className="h-10 md:h-12 w-auto" />
           </Link>
           <Link to="/blog" className="text-blue-600 font-bold hover:text-blue-800 transition text-sm md:text-base">
             &larr; Voltar para o Blog
