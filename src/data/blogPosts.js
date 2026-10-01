@@ -2,857 +2,1271 @@ export const blogPosts = [
   {
     id: 1,
     slug: 'diferenca-arrais-amador-e-motonauta',
-    title: 'Qual a diferença entre Arrais Amador e Motonauta?',
-    description: 'Entenda de uma vez por todas as diferenças entre as duas principais habilitações náuticas e descubra qual delas é a ideal para você.',
+    title: 'Arrais-Amador ou Motonauta: qual a diferença?',
+    description: 'Entenda o que Arrais-Amador e Motonauta permitem conduzir, como diferem os exames e qual habilitação escolher para lancha ou moto aquática.',
     date: '2026-01-15',
     author: 'Equipe ArraisPro',
     content: `
-# Qual a diferença entre Arrais Amador e Motonauta?
+# Qual a diferença entre Arrais-Amador e Motonauta?
 
-Se você está pensando em entrar para o mundo náutico e aproveitar os finais de semana na água, com certeza já se deparou com estes dois termos: **Arrais Amador (ARA)** e **Motonauta (MTA)**. 
+**Arrais-Amador é a categoria para conduzir embarcações de esporte e recreio nos limites da navegação interior, exceto motos aquáticas. Motonauta é a habilitação específica para conduzir moto aquática**, também nos limites da navegação interior.
 
-Mas afinal, qual é a diferença entre eles e qual você deve escolher? 
+Portanto, a primeira pergunta é simples: você quer conduzir uma lancha, uma moto aquática ou os dois tipos de embarcação?
 
-Neste guia rápido, vamos esclarecer de forma definitiva para que você não erre na hora de fazer sua inscrição na Capitania dos Portos (Marinha do Brasil).
+## Arrais-Amador ou Motonauta: qual escolher?
 
----
+| Seu objetivo | Habilitação necessária |
+|---|---|
+| Conduzir uma lancha ou outra embarcação abrangida pela categoria na navegação interior | Arrais-Amador |
+| Conduzir uma moto aquática (jet ski) | Motonauta |
+| Conduzir lancha e moto aquática | Arrais-Amador e Motonauta |
 
-## 1. Arrais Amador (ARA)
+### Arrais-Amador: para embarcações de esporte e recreio
 
-A carteira de Arrais Amador é a habilitação mais procurada do Brasil. Ela funciona como a "Categoria B" dos carros, mas para o mar.
+A habilitação de **Arrais-Amador (ARA)** permite conduzir embarcações de esporte e recreio dentro dos limites da navegação interior. Ela é a categoria a considerar, por exemplo, se você pretende conduzir uma lancha nessas condições.
 
-* **O que permite pilotar:** Embarcações de esporte e recreio (lanchas, veleiros, botes) nos limites da navegação interior (rios, lagos, lagoas, baías, angras e enseadas).
-* **O que NÃO permite pilotar:** Jet skis (motos aquáticas) e navios de uso comercial/pesca profissional.
-* **Idade mínima:** 18 anos.
+**Ter Arrais-Amador não autoriza, por si só, a condução de moto aquática.** Quem também deseja conduzir esse tipo de embarcação precisa observar a exigência da categoria Motonauta.
 
-Se o seu objetivo é comprar ou alugar uma lancha para passear com a família e amigos, **esta é a habilitação certa.**
+### Motonauta: para moto aquática
 
-## 2. Motonauta (MTA)
+A habilitação de **Motonauta (MTA)** é destinada à condução de moto aquática nos limites da navegação interior. Ela não substitui Arrais-Amador para conduzir uma lancha.
 
-A carteira de Motonauta é específica para uma única categoria de embarcação. Funciona como a "Categoria A" (motos) da CNH terrestre.
+Além da habilitação, o condutor deve observar as regras próprias de segurança e operação da moto aquática previstas na NORMAM-212/DPC.
 
-* **O que permite pilotar:** Exclusivamente **Motos Aquáticas (Jet Skis)**, também nos limites da navegação interior.
-* **O que NÃO permite pilotar:** Lanchas, botes com motor de popa, veleiros, etc.
-* **Idade mínima:** 18 anos.
+## É possível obter as duas categorias?
 
-Se você só quer sentir a adrenalina de pilotar um jet ski sozinho ou com um garupa, **esta é a sua escolha.**
+Sim. Se você pretende conduzir tanto lancha quanto moto aquática, deve atender aos requisitos aplicáveis às duas habilitações.
 
----
+Antes de se inscrever, confirme na Capitania, Delegacia ou Agência responsável quais atestados de treinamento, documentos e procedimentos de exame se aplicam ao seu caso. **Não presuma que o treinamento de uma categoria substitua o da outra.**
 
-## Posso tirar as duas juntas?
+## As provas são iguais?
 
-**Sim!** Inclusive, este é o caminho mais recomendado pela Marinha e pelas escolas náuticas. 
+Não. O exame de **Arrais-Amador tem 40 questões**, enquanto o exame de **Motonauta, quando feito separadamente, tem 20 questões**. Cada categoria possui seu programa de preparação.
 
-Quando você opta por fazer as duas (Arrais + Motonauta) simultaneamente:
-1. Você faz apenas **uma prova teórica** unificada (40 questões em vez de 40 para cada).
-2. Paga as taxas administrativas apenas uma vez.
-3. Faz as aulas práticas de lancha e jet ski no mesmo fim de semana.
+Para Arrais-Amador, consulte a **NORMAM-211/DPC e seu Anexo 5-A**. Para Motonauta, consulte a **NORMAM-212/DPC e seu Anexo 3-C**. Se você pretende solicitar as duas categorias, confira o procedimento de inscrição e exame aplicável à sua situação antes de agendar a prova.
 
-## Como é a prova da Marinha?
+## Como começar a estudar?
 
-A prova teórica é composta por **40 questões de múltipla escolha**. Para ser aprovado, você precisa acertar 50% da prova (20 questões). 
+Escolha primeiro a categoria correspondente à embarcação que deseja conduzir. Em seguida, estude o programa do exame e pratique questões para identificar os assuntos que precisam de revisão.
 
-O edital oficial (NORMAM-211) exige conhecimentos sobre:
-* RIPEAM (Regulamento Internacional para Evitar Abalroamentos no Mar)
-* Balizamento Náutico
-* Marinharia e Nós
-* Primeiros Socorros
-* Combate a Incêndio
-* Sobrevivência no Mar
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para você praticar e acompanhar seu desempenho.
 
-### O jeito mais fácil de passar
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
-Não se assuste com o tamanho do edital. Mais de 80% da prova é composta por regras lógicas que se repetem.
-
-A melhor estratégia é **estudar fazendo simulados**. 
-
-Com o aplicativo **ArraisPro**, você tem acesso a mais de 1.000 questões baseadas em provas reais da Marinha, flashcards para memorizar as luzes de navegação e a nossa Apostila completa em PDF.
-
-[Baixe o ArraisPro gratuitamente na Google Play Store](#) e comece hoje mesmo sua jornada rumo à sua carteira náutica! ⚓
+*O ArraisPro não possui vínculo ou endosso da Marinha do Brasil.*
     `
   },
   {
     id: 2,
     slug: 'passo-a-passo-carteira-arrais-amador-2026',
-    title: 'Passo a passo atualizado para tirar a carteira de Arrais Amador (2026)',
-    description: 'Um guia completo e simplificado com todas as etapas, documentos e aulas exigidas pela Marinha do Brasil neste ano.',
+    title: 'Como tirar a carteira de Arrais-Amador: passo a passo',
+    description: 'Saiba como obter a carteira de Arrais-Amador: treinamento náutico, documentos, inscrição, prova teórica e emissão da habilitação.',
     date: '2026-02-10',
     author: 'Equipe ArraisPro',
     content: `
-# Passo a passo atualizado para tirar a carteira de Arrais Amador (2026)
+# Como tirar a carteira de Arrais-Amador: passo a passo
 
-Tirar a carteira de Arrais Amador (e Motonauta) é o passaporte para seus melhores finais de semana na água. Mas o processo burocrático da Marinha do Brasil costuma deixar muitos iniciantes confusos. 
+Para obter a carteira de **Arrais-Amador**, você precisa cumprir os requisitos da categoria, realizar o treinamento náutico exigido, apresentar a documentação, inscrever-se para o exame e ser aprovado.
 
-Seja para pilotar uma lancha da família, um bote ou alugar uma embarcação nas férias, nós preparamos este guia atualizado para 2026 detalhando cada etapa do processo.
+A habilitação de Arrais-Amador permite conduzir embarcações de esporte e recreio nos limites da navegação interior, **exceto motos aquáticas**. Se você também pretende conduzir um jet ski, verifique os requisitos da categoria Motonauta.
 
----
+Veja as etapas gerais do processo e confirme os detalhes de atendimento na Capitania, Delegacia ou Agência onde fará sua inscrição.
 
-## 1. O Exame Médico e Atestados
+## 1. Confira os requisitos para Arrais-Amador
 
-Antes de qualquer coisa, você precisa provar que tem aptidão física para pilotar. Você precisará de um **Atestado Médico de Aptidão Física e Mental** específico para amadores.
-*Dica de Ouro:* Se você possui uma CNH (Carteira Nacional de Habilitação) de carro ou moto dentro da validade, a Marinha aceita uma cópia autenticada dela como substituto absoluto ao atestado médico!
+O candidato a Arrais-Amador deve ter **pelo menos 18 anos** e cumprir os requisitos de inscrição e habilitação previstos pela Marinha.
 
-## 2. Aulas Práticas Obrigatórias (Escola Náutica)
+Antes de começar, defina qual embarcação pretende conduzir. A carteira de Arrais-Amador não substitui a habilitação de Motonauta para conduzir moto aquática.
 
-Hoje **é obrigatório** realizar aulas práticas em uma Escola Náutica ou Marina credenciada pela Capitania dos Portos (conforme a NORMAM-211).
-* **Para Arrais Amador (Lancha):** Mínimo de 6 horas de aula prática.
-* **Para Motonauta (Jet Ski):** Mínimo de 3 horas de aula prática.
+## 2. Realize o treinamento náutico
 
-Após concluir as aulas, a escola emitirá um **Atestado de Embarque**, documento fundamental para a sua inscrição.
+O candidato deve realizar o treinamento previsto para Arrais-Amador e obter o respectivo **Atestado de Treinamento Náutico**, necessário à inscrição no exame.
 
-## 3. Inscrição na Capitania dos Portos
+Procure um estabelecimento ou pessoa física habilitada para oferecer o treinamento e emitir o atestado conforme as exigências da Marinha. Antes de contratar, confirme a carga horária, as atividades teóricas e práticas e a forma de emissão do documento.
 
-Com os documentos em mãos (CNH, Atestado de Embarque, RG, CPF e Comprovante de Residência), você (ou seu despachante) dará entrada na inscrição na Capitania mais próxima. Será gerada uma GRU (Guia de Recolhimento da União) de valor irrisório (menos de R$ 50) para agendar o exame.
+**Atenção:** não descreva toda a carga horária do treinamento como “aulas práticas”. O programa distingue atividades teóricas e prática a bordo.
 
-## 4. O Exame Teórico da Marinha
+## 3. Separe a documentação
 
-Aqui é onde o bicho pega. Você fará uma prova objetiva de **40 questões** abrangendo RIPEAM, Balizamento, Primeiros Socorros, Incêndio e Marinharia. Para passar, é preciso acertar no mínimo 50% (20 questões). 
+Consulte a lista exigida pela Capitania, Delegacia ou Agência responsável. O processo inclui documentos de identificação, CPF, comprovante de residência, comprovante de aptidão psicofísica e o atestado de treinamento náutico, além dos formulários e comprovantes aplicáveis.
 
-### Como garantir a aprovação de primeira?
-Não caia na armadilha de tentar ler PDFs gigantes e desatualizados. A forma mais eficaz de estudar é **fazendo simulados idênticos à prova**.
+O **atestado médico pode ser dispensado mediante apresentação de CNH válida**, observadas as condições previstas na norma. Confira a documentação aceita antes de protocolar a inscrição.
 
-O aplicativo **ArraisPro** foi criado exatamente para isso. Com ele, você estuda através do maior banco de questões comentadas do Brasil e trilhas gamificadas. [Baixe gratuitamente na Play Store clicando aqui](#) e comece a treinar.
+## 4. Faça a inscrição para o exame
 
-## 5. Pegando a Carteira (CHA)
+Siga as instruções da unidade responsável para apresentar os documentos, recolher a taxa por meio da **Guia de Recolhimento da União (GRU)** e agendar o exame.
 
-Sendo aprovado, sua **CHA (Carteira de Habilitação de Amador)** será emitida. Hoje em dia, além do documento físico, a Marinha disponibiliza a versão digital pelo sistema "Gov.br". A validade é de 10 anos!
-`
+Não é necessário contratar um despachante para estudar ou usar o ArraisPro. Caso opte por ajuda para o processo administrativo, confirme previamente os serviços oferecidos e os custos envolvidos.
+
+Consulte também a [página oficial do serviço de habilitação de amadores](https://www.gov.br/pt-br/servicos/solicitar-carteira-de-habilitacao-para-se-tornar-um-navegador-amador-ou-ascender-de-categoria).
+
+## 5. Prepare-se para a prova teórica
+
+O exame de **Arrais-Amador tem 40 questões**. Estude o programa da categoria previsto na NORMAM-211/DPC e no Anexo 5-A, incluindo os assuntos de navegação e segurança exigidos para a prova.
+
+Leia a teoria, resolva questões e revise as explicações dos erros. Essa combinação ajuda a perceber quais temas você ainda não domina, em vez de apenas decorar alternativas.
+
+Se o seu objetivo é conduzir **moto aquática**, lembre-se de que Motonauta possui exigências e programa próprios na NORMAM-212/DPC. O exame de Motonauta, quando realizado separadamente, tem **20 questões**.
+
+## 6. Acompanhe a emissão da CHA
+
+Após a aprovação e o cumprimento das exigências do processo, acompanhe a emissão da **Carteira de Habilitação de Amador (CHA)** pelos canais informados pela unidade da Marinha.
+
+A CHA tem, em regra, validade de **10 anos**. Conforme as condições de emissão, o documento também pode ficar disponível em formato digital no aplicativo gov.br.
+
+## Prepare-se com o ArraisPro
+
+O **ArraisPro** é um aplicativo educacional independente para quem estuda para as avaliações teóricas de Arrais-Amador e Motonauta. Nele, você encontra apostila, flashcards, quizzes e simulados com questões autorais para praticar e acompanhar seu desempenho.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não possui vínculo ou endosso da Marinha do Brasil.*
+    `
   },
   {
     id: 3,
     slug: 'quanto-custa-carteira-arrais-amador',
-    title: 'Quanto custa tirar a carteira de Arrais Amador no Brasil?',
-    description: 'Entenda todos os custos envolvidos: desde as taxas da Marinha até os valores médios cobrados pelas Escolas Náuticas.',
+    title: 'Quanto custa tirar Arrais-Amador ou Motonauta?',
+    description: 'Entenda quais despesas entram no custo da habilitação de Arrais-Amador ou Motonauta: treinamento, GRU, comprovação de aptidão e serviços opcionais.',
     date: '2026-03-05',
     author: 'Equipe ArraisPro',
     content: `
-# Quanto custa tirar a carteira de Arrais Amador no Brasil?
+# Quanto custa tirar a carteira de Arrais-Amador ou Motonauta?
 
-Uma das dúvidas mais comuns de quem está entrando para a náutica é o valor do investimento para se habilitar. Afinal, tirar a carteira de **Arrais Amador** ou **Motonauta** é caro?
+**Não existe um preço único para tirar Arrais-Amador ou Motonauta.** O valor final depende da categoria escolhida, do preço do treinamento náutico, da taxa correspondente ao serviço solicitado à Marinha e de despesas que podem ou não se aplicar ao seu caso.
 
-O custo final varia muito dependendo da sua região (cidade/estado) e de como você decide fazer o processo (sozinho ou via despachante). Abaixo, detalhamos todos os custos para que não haja surpresas.
+A melhor forma de evitar surpresas é pedir um orçamento detalhado antes de contratar o treinamento. Veja o que incluir na conta.
 
----
+## Quais custos entram no processo?
 
-## 1. Taxa da Marinha (GRU)
+| Despesa | É sempre necessária? | Como conferir o valor |
+|---|---|---|
+| Treinamento náutico da categoria desejada | O treinamento e o respectivo atestado fazem parte do processo de habilitação | Peça orçamento a um estabelecimento ou instrutor habilitado para a categoria |
+| GRU do serviço solicitado à Marinha | Há pagamento pelos serviços sujeitos à tabela de indenizações | Consulte a tabela vigente e as instruções da Capitania, Delegacia ou Agência responsável |
+| Atestado médico | Pode ser dispensado para quem apresenta CNH válida, conforme as condições da norma | Se necessário, consulte o valor cobrado pelo profissional ou clínica |
+| Despachante ou assessoria | Não é uma exigência para estudar nem uma despesa a presumir como obrigatória | Contrate apenas se quiser o serviço e após conferir o que está incluído |
+| Material de preparação | Depende da forma como você escolhe estudar | Compare os recursos disponíveis e as condições de acesso antes de contratar |
 
-A Marinha do Brasil cobra uma taxa administrativa para a realização da prova teórica e emissão da carteira. Esse é o único valor "tabelado" e federal.
-* **Valor atualizado (2026):** Aproximadamente **R$ 42,00 a R$ 45,00** por categoria. 
+## 1. Treinamento náutico
 
-Se você for fazer a prova de Arrais e Motonauta juntas, o valor será pago proporcionalmente, mas continua sendo extremamente barato.
+O treinamento costuma ser uma parte importante do orçamento, mas **a Marinha não estabelece um preço único cobrado por escolas ou instrutores**. Por isso, compare propostas para a categoria que você deseja obter: Arrais-Amador, Motonauta ou ambas.
 
-## 2. Atestado Médico
+Ao pedir orçamento, pergunte:
 
-Como comentamos em outros artigos, você precisa de um atestado de saúde. 
-* Se você for a uma clínica do trabalho: **R$ 50,00 a R$ 100,00**.
-* **Custo Zero:** Se você apresentar a sua CNH de carro/moto válida!
+- O treinamento é para Arrais-Amador, Motonauta ou as duas categorias?
+- Qual é a carga horária teórica e prática de cada uma?
+- O atestado de treinamento está incluído?
+- Há custos extras de combustível, uso da embarcação ou remarcação?
+- A GRU e algum serviço administrativo estão incluídos ou serão pagos à parte?
 
-## 3. Escola Náutica (Aulas Práticas)
+Não confunda carga horária **total** com horas **práticas**. As categorias têm programas e atestados próprios. Para Motonauta, o atestado previsto na NORMAM-212/DPC distingue treinamento teórico e treinamento prático.
 
-Aqui está o custo mais expressivo de todo o processo. Como as aulas práticas de lancha (6 horas) e jet ski (3 horas) são **obrigatórias**, você precisa contratar uma escola náutica credenciada.
-Os valores variam muito pelo custo de manutenção das lanchas, combustível e região do país.
+## 2. Taxa da Marinha: GRU
 
-* **Apenas Arrais (Lancha):** Entre R$ 800,00 e R$ 1.500,00.
-* **Apenas Motonauta (Jet Ski):** Entre R$ 600,00 e R$ 1.200,00.
-* **Pacote Arrais + Motonauta:** Entre R$ 1.100,00 e R$ 1.800,00 (Geralmente há um ótimo desconto ao fazer os dois).
+Os serviços de habilitação sujeitos a pagamento utilizam a **Guia de Recolhimento da União (GRU)**. Antes de pagar, confirme o serviço correto, o valor vigente e as instruções da unidade da Marinha responsável pelo seu processo.
 
-A maioria das escolas embute no valor os serviços de "despachante" (eles vão até a Capitania, pagam a GRU, agendam sua prova e buscam sua carteira). 
+Não use como referência definitiva o preço encontrado em um anúncio de escola ou em um artigo antigo: taxas podem ser atualizadas, e o orçamento da escola pode incluir — ou não — a GRU.
 
-## 4. O Material de Estudo (O Segredo Econômico)
+Consulte a [página oficial do serviço de habilitação de amadores](https://www.gov.br/pt-br/servicos/solicitar-carteira-de-habilitacao-para-se-tornar-um-navegador-amador-ou-ascender-de-categoria) e as orientações da sua Capitania, Delegacia ou Agência.
 
-As escolas geralmente te dão um PDF gratuito ou te obrigam a comprar uma apostila física cara. Se você for para a prova apenas com as aulas práticas, suas chances de reprovação na parte teórica (RIPEAM e Balizamento) são altas.
-Se você reprovar, terá que pagar a GRU novamente, perder dia de trabalho para ir à Capitania, etc. O retrabalho é caro.
+## 3. Atestado médico ou CNH válida
 
-**A solução definitiva e barata:**
-Invista **R$ 39,90** de taxa única para desbloquear o **App ArraisPro** na versão Premium. Você terá simulados infinitos, explicações e a Apostila Completa na palma da mão. É o melhor seguro contra reprovação que você pode comprar.
+O candidato precisa apresentar a comprovação de aptidão exigida para a habilitação. **Quem apresenta CNH dentro da validade pode ser dispensado do atestado médico**, observadas as condições previstas na norma.
 
-### Resumo dos Custos
-Na ponta do lápis, o investimento total para ter sua habilitação em 2026 ficará na casa de **R$ 1.200,00 a R$ 1.700,00**. Considerando que a carteira vale por 10 anos, é um valor excelente para a liberdade de poder navegar!
-`
+Se você precisar obter um atestado, inclua o preço cobrado pelo profissional ou clínica no seu planejamento. Confirme antes quais informações o documento deve conter e seu prazo de aceitação.
+
+## 4. Despachante e outros serviços opcionais
+
+Você pode encontrar pacotes que incluem ajuda com documentos, agendamento e acompanhamento do processo. Esses serviços têm preço próprio e **não devem ser confundidos com a taxa cobrada pela Marinha**.
+
+Peça uma proposta discriminada: treinamento, emissão do atestado, GRU, assessoria e eventuais despesas adicionais. Assim, você compara ofertas pelo que realmente entregam, e não apenas pelo preço anunciado.
+
+## Afinal, quanto devo reservar?
+
+Em vez de confiar em uma “média nacional” sem pesquisa de preços, faça esta conta com valores obtidos para a sua cidade:
+
+**Custo previsto = treinamento de cada categoria desejada + GRU aplicável + atestado médico, se necessário + serviços opcionais que você decidir contratar.**
+
+Se pretende tirar **Arrais-Amador e Motonauta**, peça um orçamento para as duas categorias e compare-o com os preços separados. Confirme quais treinamentos e atestados estão incluídos. Um pacote pode facilitar a contratação, mas não elimina automaticamente as exigências de cada habilitação.
+
+## E a preparação para a prova?
+
+O treinamento náutico exigido e o estudo para a prova são partes diferentes da sua preparação. Para organizar a revisão teórica, o **ArraisPro** reúne apostila, flashcards, quizzes e simulados com questões autorais voltados a Arrais-Amador e Motonauta.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro é um aplicativo educacional independente. Ele não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
+    `
   },
   {
     id: 4,
     slug: 'requisitos-idade-minima-arrais-motonauta',
-    title: 'Idade mínima e requisitos para pilotar jet ski e lanchas',
-    description: 'Saiba com que idade você ou seus filhos podem começar a pilotar e quais são os documentos exigidos pela Capitania dos Portos.',
+    title: 'Idade mínima para Arrais-Amador e Motonauta: requisitos',
+    description: 'Saiba a idade mínima para conduzir lancha ou moto aquática, entenda a regra para Veleiro e confira os documentos para obter Arrais-Amador ou Motonauta.',
     date: '2026-04-22',
     author: 'Equipe ArraisPro',
     content: `
-# Idade mínima e requisitos para pilotar jet ski e lanchas
+# Qual a idade mínima para pilotar lancha ou jet ski?
 
-A paixão pela água costuma passar de geração em geração. É muito comum pais quererem ensinar os filhos adolescentes a pilotar um jet ski (moto aquática) ou uma lancha durante as férias. 
+**Para obter a habilitação de Arrais-Amador ou Motonauta, o candidato deve ter pelo menos 18 anos.** Arrais-Amador é a categoria aplicável à condução de embarcações de esporte e recreio, como lanchas, nos limites da navegação interior. Motonauta é a habilitação específica para conduzir moto aquática, também chamada de jet ski.
 
-Porém, as regras da Marinha do Brasil são estritas. Pilotar embarcações não é brinquedo, exige responsabilidade e amparo legal. Neste artigo, desvendamos os requisitos de idade e documentação.
+A idade mínima é apenas um dos requisitos. Para conduzir, é preciso obter a habilitação correspondente à embarcação — não basta saber pilotar ou estar acompanhado por um adulto habilitado.
 
----
+## Menores de 18 anos podem pilotar lancha ou jet ski?
 
-## Qual a idade mínima para pilotar?
+**Não como condutores habilitados nas categorias Arrais-Amador ou Motonauta.** As regras de habilitação dessas categorias exigem idade mínima de 18 anos.
 
-Segundo as Normas da Autoridade Marítima (NORMAM), **a idade mínima obrigatória para prestar o exame e obter a habilitação de Arrais Amador ou Motonauta é 18 anos completos.**
+A autorização dos pais ou a emancipação não substitui esse requisito para a obtenção dessas habilitações. Há uma diferença importante entre **ser proprietário** de uma embarcação e estar **habilitado para conduzi-la**: uma situação não autoriza automaticamente a outra.
 
-Ao contrário dos Estados Unidos e alguns países da Europa, onde adolescentes podem obter licenças de navegação amadora, no Brasil **não existe emancipação, autorização dos pais ou "permissão especial"** para menores de 18 anos conduzirem embarcações motorizadas.
+## E a categoria Veleiro?
 
-### E barcos a remo ou vela?
-A regra foca na **propulsão a motor**. 
-* Para embarcações a vela (habilitação de Veleiro), a idade mínima cai para **8 anos**! Contudo, essa categoria possui inúmeras restrições de área de navegação e tamanho do barco.
+A categoria **Veleiro** possui uma regra de idade diferente: a habilitação pode ser solicitada a partir dos **8 anos**, sob responsabilidade do pai, tutor ou responsável legal e mediante o cumprimento dos requisitos próprios dessa categoria.
 
-## Quais os requisitos e documentos exigidos?
+Isso não significa que uma criança habilitada como Veleiro possa conduzir uma lancha ou uma moto aquática. **Veleiro, Arrais-Amador e Motonauta são categorias distintas**, com limites e procedimentos próprios.
 
-Se você já completou 18 anos, está pronto para iniciar. Aqui está a lista básica de documentos exigidos pela Capitania dos Portos no momento da inscrição:
+## O que é necessário para obter Arrais-Amador ou Motonauta?
 
-1. **Documento de Identidade oficial** (com foto) e dentro da validade.
-2. **CPF** (se já não estiver no documento de identidade).
-3. **Comprovante de Residência** (com até 90 dias de emissão, no seu nome ou no nome dos pais).
-4. **Atestado Médico de Aptidão Física e Mental** (que comprova visão e audição em boas condições).
-5. **Cópia autenticada da CNH (opcional):** Se você tem CNH (carro ou moto), ela substitui o atestado médico.
-6. **Atestado de Embarque:** Declaração emitida por uma Escola Náutica comprovando que você realizou a carga horária mínima de aulas práticas (6h para lanchas, 3h para jet skis).
+Além da idade mínima, o candidato precisa cumprir as exigências de treinamento, documentação, inscrição e exame da categoria desejada. Entre os documentos previstos nos processos estão:
 
-## Consequências legais
+1. Documento oficial de identificação e CPF.
+2. Comprovante de residência ou outra forma de comprovação aceita pela norma.
+3. Comprovação de aptidão psicofísica. A apresentação de **CNH válida pode dispensar o atestado médico**, nas condições previstas para a inscrição.
+4. **Atestado de Treinamento Náutico** correspondente à categoria pretendida.
+5. Requerimento e comprovante de pagamento da GRU aplicável ao serviço.
 
-Deixar um menor de 18 anos pilotar o seu jet ski ou a sua lancha, mesmo com você ao lado, é uma infração gravíssima. Caso a Capitania dos Portos ou a Polícia Ambiental o flagre, a embarcação será apreendida, você receberá multas altíssimas e poderá sofrer processos criminais, dependendo do risco causado.
+Confira a lista e o procedimento de atendimento da Capitania dos Portos, Delegacia ou Agência onde fará a inscrição. **O treinamento de Arrais-Amador não deve ser confundido com o treinamento específico para Motonauta.** Também não é correto tratar toda a carga horária de treinamento como aula prática: as atividades exigidas devem ser verificadas no programa de cada categoria.
 
-Não corra riscos. Espere os 18 anos, matricule-se em uma escola náutica credenciada e baixe o **ArraisPro** para dominar a teoria, garantir a habilitação rapidamente e navegar tranquilo dentro da lei.
-`
+## O que acontece se alguém conduzir sem a habilitação exigida?
+
+Conduzir uma embarcação sem a habilitação compatível pode resultar em **autuação e medidas administrativas previstas nas regras de tráfego aquaviário**. A providência adotada depende das circunstâncias constatadas na fiscalização; por isso, não é correto afirmar que toda abordagem resultará automaticamente em apreensão da embarcação.
+
+A regra prática é simples: espere atingir a idade mínima, obtenha a habilitação adequada à embarcação e respeite seus limites de navegação.
+
+## Como começar a preparação?
+
+Se você já tem 18 anos e pretende tirar Arrais-Amador ou Motonauta, comece conferindo os requisitos da sua categoria. Para estudar a parte teórica, o **ArraisPro** reúne apostila, flashcards, quizzes e simulados com questões autorais.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro é um aplicativo educacional independente. Não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
+    `
   },
   {
     id: 5,
     slug: 'multa-pilotar-barco-sem-habilitacao',
-    title: 'Posso pilotar barco sem habilitação? Conheça os riscos e multas.',
-    description: 'Entenda as severas consequências e as multas aplicadas pela Marinha para quem navega sem a carteira de Arrais ou Motonauta.',
+    title: 'Multa por pilotar lancha ou jet ski sem habilitação',
+    description: 'Saiba qual multa pode ser aplicada por conduzir lancha ou moto aquática sem habilitação e entenda as possíveis medidas da fiscalização naval.',
     date: '2026-05-18',
     author: 'Equipe ArraisPro',
     content: `
-# Posso pilotar barco ou jet ski sem habilitação? Riscos e Multas.
+# Posso pilotar lancha ou jet ski sem habilitação? Entenda a multa e os riscos
 
-Sabe aquele passeio em família no final de semana onde o dono da lancha ou do jet ski passa a chave e diz: *"Pode dar uma voltinha, é fácil, não tem polícia aqui"*? Essa "voltinha" inofensiva pode gerar uma das piores dores de cabeça jurídicas da sua vida.
+Um convidado pode assumir a direção da lancha ou do jet ski “só por alguns minutos”? **Em um passeio comum, não: quem conduz precisa ter a habilitação compatível com a embarcação.** O fato de o proprietário estar a bordo não transfere sua habilitação a outra pessoa.
 
-Neste artigo da equipe **ArraisPro**, vamos falar sério sobre as consequências legais e financeiras de pilotar sem a Carteira de Habilitação de Amador (CHA).
+A situação é diferente de um **treinamento náutico regular**, realizado nas condições previstas pelas normas para a formação do candidato. Um passeio informal não deve ser apresentado como se fosse uma aula supervisionada.
 
----
+## Qual habilitação é necessária?
 
-## 1. A Regra é Clara
+| Embarcação | Habilitação a considerar |
+|---|---|
+| Lancha ou outra embarcação de esporte e recreio nos limites da navegação interior | Arrais-Amador |
+| Moto aquática (jet ski) | Motonauta |
 
-O artigo 2º da Lei de Segurança do Tráfego Aquaviário (LESTA - Lei nº 9.537/97) e a NORMAM-211 são absolutas: **é expressamente proibido conduzir qualquer embarcação de esporte e recreio a motor sem a devida habilitação.**
+A categoria **Arrais-Amador não autoriza, por si só, a condução de moto aquática**. Da mesma forma, Motonauta não substitui a habilitação exigida para conduzir uma lancha. Além de possuir a categoria correta, o condutor deve respeitar os limites de navegação da sua habilitação.
 
-* Se for pilotar Lancha ou Bote com motor: Exige-se **Arrais Amador** (no mínimo).
-* Se for pilotar Jet Ski (Moto Aquática): Exige-se **Motonauta**.
+## Qual é a multa por conduzir sem habilitação?
 
-E não, a carteira de Arrais não te dá direito de pilotar Jet Ski se você não tiver feito as aulas e a prova de Motonauta, e vice-versa!
+O **artigo 11 do Regulamento de Segurança do Tráfego Aquaviário (RLESTA)** enquadra a conduta de “conduzir embarcação ou contratar tripulante sem habilitação para operá-la” e prevê **multa do Grupo E**.
 
-## 2. As Consequências e Multas
+O grupo indica uma **faixa**, não um valor fixo que toda pessoa multada pagará. O valor aplicável é definido no procedimento administrativo, observadas as regras do regulamento e as circunstâncias da infração. Não confunda esse caso com outras irregularidades documentais: **não ter a habilitação exigida** é diferente de **ser habilitado e não portar o documento**.
 
-A fiscalização nas águas brasileiras é feita pela **Capitania dos Portos, Delegacias e Agências da Marinha**. No verão e feriados prolongados, o efetivo de inspeção ("Inspeção Naval") aumenta drasticamente. 
+## A embarcação pode ser apreendida?
 
-Se você for parado conduzindo sem habilitação, veja o que acontece imediatamente:
+A legislação permite à autoridade marítima adotar medidas administrativas, incluindo **apreensão, retirada do tráfego ou impedimento da saída da embarcação**, conforme a situação constatada.
 
-### A) Apreensão da Embarcação
-A lancha ou jet ski não poderá continuar navegando. O veículo ficará retido pela Capitania até que um condutor habilitado se apresente. Se ninguém estiver disponível, a embarcação será apreendida e rebocada.
+Isso **não significa que toda abordagem de um condutor não habilitado resulte automaticamente em apreensão**. A fiscalização verifica a irregularidade e adota as providências cabíveis para o caso concreto. Medidas administrativas e eventual multa são questões relacionadas, mas não são a mesma coisa.
 
-### B) Multas Pesadas
-O valor da multa para quem navega sem habilitação é alto, podendo variar conforme o agravante, mas normalmente fica entre **R$ 800,00 e R$ 3.200,00** para a infração primária, podendo ser multiplicada. E adivinhe? A infração cai diretamente sobre o proprietário do jet ski ou da lancha, não sobre quem estava pilotando.
+## O proprietário também pode responder?
 
-### C) Responsabilidade Criminal
-Se durante essa "voltinha" acontecer um acidente envolvendo banhistas ou outras embarcações, o Ministério Público tratará o caso criminalmente. Como você assumiu o manche sem ter qualificação legal, responderá por dolo eventual (assumiu o risco de matar/lesionar), o que costuma levar a condenações de prisão e indenizações milionárias.
+A LESTA prevê responsabilização pelas infrações conforme as condições estabelecidas na lei. Por isso, o proprietário não deve entregar a condução da embarcação a alguém sem habilitação compatível.
 
-## 3. O Proprietário também é punido
+Mas é importante evitar uma afirmação automática como “o proprietário terá a carteira suspensa”. A identificação dos responsáveis e a aplicação de penalidades dependem da infração apurada e do procedimento correspondente, com direito de defesa.
 
-O dono do barco que **entrega a direção** a alguém não habilitado é tão culpado quanto quem conduz. Além de pagar as multas e perder a embarcação, o proprietário pode ter a sua própria habilitação suspensa por até 12 meses.
+Se ocorrer um acidente, os fatos também poderão ser examinados nas esferas competentes. **A simples falta de habilitação, por si só, não autoriza afirmar que haverá condenação civil ou criminal de todos os envolvidos.**
 
-### Vale a pena o risco?
+## Como evitar o problema?
 
-Tirar a habilitação nunca foi tão fácil. Com as Escolas Náuticas estruturadas e aplicativos como o **ArraisPro** (que tem simulados idênticos aos da Marinha para você não reprovar), você tira a carteira legalmente em poucas semanas.
+Antes de sair, confira se quem assumirá a condução possui **habilitação para aquele tipo de embarcação e para a área de navegação**. Se um familiar ou amigo ainda não é habilitado, oriente-o a seguir o processo de treinamento e exame da categoria adequada, em vez de praticar durante um passeio informal.
 
-Não estrague seu verão. Baixe o ArraisPro, prepare-se para a prova e navegue com total paz de espírito!
-`
+Para estudar a parte teórica, o **ArraisPro** reúne apostila, flashcards, quizzes e simulados com questões autorais voltados à preparação para Arrais-Amador e Motonauta.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro é um aplicativo educacional independente. Não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
+    `
   },
   {
     id: 6,
     slug: 'como-e-a-prova-da-marinha-arrais-amador',
-    title: 'Como é a prova da Marinha para Arrais Amador? (Formato e regras)',
-    description: 'Descubra como funciona o exame teórico, quantas questões tem, qual a nota de corte e o que você precisa levar no dia.',
+    title: 'Como é a prova de Arrais-Amador e Motonauta?',
+    description: 'Veja quantas questões há nas provas de Arrais-Amador e Motonauta, o tempo de exame, a nota mínima e o que conferir antes do dia da avaliação.',
     date: '2026-06-30',
     author: 'Equipe ArraisPro',
     content: `
-# Como é a prova da Marinha para Arrais Amador?
+# Como é a prova de Arrais-Amador e Motonauta?
 
-O momento que mais gera ansiedade nos candidatos é, sem dúvida, o dia da prova teórica na Capitania dos Portos. Muitas pessoas têm medo de reprovar, mas a verdade é que, entendendo o formato do exame, o processo se torna muito mais tranquilo.
+A prova teórica é uma etapa para obter a habilitação de Arrais-Amador ou Motonauta. **O formato depende da categoria:** Arrais-Amador tem 40 questões e Motonauta, quando o exame é realizado separadamente, tem 20.
 
-Neste artigo, detalhamos tudo o que você precisa saber sobre o funcionamento da prova da Marinha do Brasil para Arrais Amador e Motonauta.
+Saber a quantidade de questões, o tempo disponível e o programa da sua categoria ajuda a organizar o estudo e evita confusão na hora de se inscrever.
 
----
+## Quantas questões tem cada prova?
 
-## Formato do Exame
+| Categoria | Questões | Tempo máximo | Nota mínima |
+|---|---:|---:|---:|
+| Arrais-Amador | 40 | 2 horas | 5,0 em 10 |
+| Motonauta | 20 | 1 hora e 30 minutos | 5,0 em 10 |
 
-Independentemente de você estar prestando apenas para Arrais Amador, apenas para Motonauta, ou para os dois juntos, o formato base da prova teórica é o mesmo:
+As provas são objetivas. A nota mínima de **5,0 em 10** corresponde a **50% de acertos**: 20 questões corretas na prova de Arrais-Amador ou 10 na prova de Motonauta.
 
-* **Quantidade de questões:** 40 questões.
-* **Estilo:** Múltipla escolha (geralmente com 4 ou 5 alternativas, sendo apenas uma correta).
-* **Duração:** O candidato tem, no máximo, **2 horas** para finalizar a prova e entregar o gabarito.
+O exame pode seguir os procedimentos de aplicação previstos pela unidade responsável. Antes da data marcada, confira na sua Capitania, Delegacia ou Agência o local, o horário e as orientações específicas para os candidatos.
 
-### Nota de Corte (Quantas preciso acertar?)
+## O que cai na prova de Arrais-Amador?
 
-A Marinha exige um índice de acerto de **50%**. Ou seja, das 40 questões, você precisa acertar no mínimo **20 questões** para ser considerado "Apto" (aprovado). 
-Vale ressaltar que a nota não vai no seu documento. Acertar 20 ou acertar 40 tem o exato mesmo efeito prático: você ganha a sua habilitação.
+O programa de **Arrais-Amador** está no **Anexo 5-A da NORMAM-211/DPC**. Ele abrange conhecimentos necessários à condução de embarcações de esporte e recreio nos limites da navegação interior, incluindo assuntos de navegação, manobra e segurança.
 
-## O que cai na prova?
+Na preparação, dê atenção aos temas indicados no programa oficial, como regras para evitar abalroamentos, balizamento, marinharia, primeiros socorros e combate a incêndio. Use o anexo como referência para conferir o escopo completo, em vez de estudar apenas por uma lista resumida de assuntos.
 
-O conteúdo programático é definido pela NORMAM-211 (Arrais) e NORMAM-212 (Motonauta). As questões são divididas em:
-1. RIPEAM (Luzes, Marcas e Sinais Sonoros)
-2. Balizamento (Sinais náuticos)
-3. Regras de Manobra e Navegação
-4. Primeiros Socorros
-5. Combate a Incêndio
-6. Sobrevivência no Mar e Meteorologia básica
+## O que cai na prova de Motonauta?
 
-## Regras para o Dia da Prova
+O programa de **Motonauta** está no **Anexo 3-C da NORMAM-212/DPC**. Há temas de segurança e navegação relevantes para ambas as categorias, mas Motonauta também exige atenção aos conhecimentos próprios da condução de moto aquática.
 
-* **O que levar:** Documento de identidade original com foto (CNH, RG), comprovante de inscrição e caneta esferográfica de corpo transparente (azul ou preta).
-* **O que NÃO levar:** Celulares, smartwatches, bonés, óculos escuros e calculadoras. É expressamente proibido o uso de qualquer equipamento eletrônico. O celular deverá ficar desligado.
-* **Traje:** As organizações militares têm regras rígidas de vestimenta. **Não vá de bermuda, regata ou chinelo.** Use calça comprida, sapato fechado (ou tênis) e camisa/camiseta com manga. O descumprimento do traje impede a sua entrada.
+Por isso, quem vai prestar o exame de Motonauta não deve presumir que estudar apenas questões de Arrais-Amador cobre todo o programa da sua prova.
 
-## Quando sai o resultado?
-Antigamente, as provas eram corrigidas manualmente e demoravam dias. Hoje, muitas Capitanias utilizam provas eletrônicas (no computador) ou leitura óptica imediata. O resultado (Apto / Inapto) costuma sair na mesma hora ou, no máximo, em 48 horas no sistema.
+## O que conferir antes do dia do exame?
 
-A melhor forma de não ter surpresas no dia é treinar com o **ArraisPro**. Nossos simulados seguem rigorosamente a estrutura da Marinha, acostumando seu cérebro ao formato de 40 questões!
-`
+Consulte a convocação ou as orientações da unidade da Marinha onde você fará a prova. Verifique especialmente:
+
+- **Local e horário:** endereço, horário de apresentação e regras para atrasos.
+- **Identificação:** qual documento original será aceito para sua entrada.
+- **Material permitido:** se precisa levar caneta e quais objetos podem permanecer com você.
+- **Equipamentos eletrônicos:** como celular e relógio inteligente devem ser guardados durante a avaliação.
+- **Acesso à unidade:** orientações locais sobre vestimenta e entrada nas instalações.
+
+Essas informações operacionais podem variar conforme a unidade e a forma de aplicação. **Não substitua as instruções da sua convocação por dicas genéricas encontradas na internet.**
+
+## Como estudar para a prova?
+
+Comece pelo programa da categoria que você deseja obter. Depois, alterne a leitura da teoria com questões e simulados: ao errar, volte ao assunto correspondente e entenda a regra antes de tentar novamente.
+
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para você praticar e acompanhar seu desempenho.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
+    `
   },
   {
     id: 7,
     slug: 'simulado-arrais-amador-gratis-atualizado',
-    title: 'Onde fazer o Simulado Arrais Amador grátis e atualizado?',
-    description: 'Pare de usar PDFs velhos. Conheça a melhor plataforma online para testar seus conhecimentos antes da prova da Capitania.',
+    title: 'Simulado de Arrais-Amador e Motonauta: como estudar',
+    description: 'Aprenda a usar simulados de Arrais-Amador e Motonauta para identificar erros, revisar RIPEAM e balizamento e acompanhar sua preparação para a prova.',
     date: '2026-07-12',
     author: 'Equipe ArraisPro',
     content: `
-# Onde fazer o Simulado Arrais Amador grátis e atualizado?
+# Simulado de Arrais-Amador e Motonauta: como testar seus conhecimentos
 
-Se você perguntar a qualquer despachante náutico ou marinheiro experiente qual é o segredo para passar de primeira no exame da Marinha, a resposta será unânime: **Faça simulados!**
+**Um simulado ajuda você a descobrir o que já sabe e o que ainda precisa revisar antes da prova.** Ele é mais útil quando faz parte de um ciclo: estudar a teoria, responder às questões, analisar os erros e voltar aos assuntos que causaram dificuldade.
 
-Ler a teoria é importante, mas é resolvendo questões que você decora as famosas "pegadinhas" do RIPEAM e os padrões de balizamento.
+Para Arrais-Amador e Motonauta, comece pelo programa da sua categoria. O conteúdo de Arrais-Amador está na **NORMAM-211/DPC**; o de Motonauta, na **NORMAM-212/DPC**. As provas não são idênticas, então escolha questões adequadas ao exame que você pretende fazer.
 
----
+## Por que resolver simulados?
 
-## O perigo dos PDFs antigos
+A leitura apresenta as regras, mas responder a uma questão exige que você reconheça **quando e como aplicá-las**. Um erro sobre cruzamento entre embarcações, por exemplo, mostra que vale revisar a situação descrita no RIPEAM — não apenas decorar uma frase sobre “preferência”.
 
-Muitas escolas náuticas ainda enviam um arquivo em PDF chamado "Simuladão da Marinha" contendo 100 ou 200 questões. O grande problema é que a maioria desses PDFs circula na internet há mais de 10 anos. 
-As leis mudaram (a antiga NORMAM 03 virou NORMAM-211), as penalidades mudaram, mas os PDFs gratuitos da internet continuam ensinando o gabarito errado.
+O simulado também ajuda a organizar o tempo de resposta e a identificar padrões: você pode estar seguro em marinharia, mas ainda confundir sinais de balizamento ou luzes de navegação.
 
-## A Solução: Aplicativo ArraisPro
+**Simulado não substitui a teoria nem o treinamento náutico exigido para obter a habilitação.** Ele é uma ferramenta para verificar e orientar seu estudo.
 
-Para resolver esse problema, nós criamos o **ArraisPro**, a ferramenta definitiva e sempre atualizada para a sua preparação.
+## Como usar um simulado sem apenas decorar respostas
 
-### Por que o ArraisPro é a melhor escolha?
+1. **Escolha sua categoria.** Treine para Arrais-Amador, Motonauta ou ambas, conforme a habilitação que pretende obter.
+2. **Responda antes de consultar o conteúdo.** Isso permite perceber o que você consegue recuperar e aplicar por conta própria.
+3. **Analise cada erro.** Identifique qual regra ou conceito você confundiu e volte à parte correspondente da teoria.
+4. **Refaça o treino depois de revisar.** Acerte a questão por compreender a regra, não por lembrar a posição da alternativa.
+5. **Acompanhe os temas recorrentes.** Se RIPEAM ou balizamento continuam gerando erros, reserve mais tempo para esses assuntos.
 
-1. **Maior Banco de Questões do Brasil:** Mais de 1.000 questões recentes extraídas e adaptadas de provas reais de diversas Capitanias dos Portos do país.
-2. **Gabaritos Comentados:** Errou uma questão sobre boia de perigo isolado? O aplicativo não só te dá a resposta certa, mas te explica o *porquê*, com imagens e resumos teóricos.
-3. **Simulados idênticos à prova real:** O app gera provas dinâmicas de 40 questões com contagem regressiva de tempo, igual ao dia do exame.
-4. **Modo Revisão (Foco nos seus erros):** O algoritmo detecta os temas que você mais erra e cria simulados específicos só com as suas fraquezas, garantindo que você feche as lacunas antes da prova.
-5. **Completamente na palma da mão:** Você pode resolver 5 questões na fila do banco ou 40 questões antes de dormir. O aplicativo funciona offline para os recursos principais.
+## RIPEAM e balizamento: pratique com contexto
 
-### Como testar de graça?
+Em **RIPEAM**, observe o tipo de embarcação, a situação descrita e as condições em que a regra se aplica. Evite transformar um exemplo específico em uma regra válida para todos os encontros no mar.
 
-Nós sabemos que a qualidade do nosso material fala por si. Por isso, você pode baixar o ArraisPro gratuitamente na Google Play Store e já começar a resolver o simulado diagnóstico grátis para saber qual é o seu nível atual de conhecimento.
+Em **balizamento**, preste atenção ao tipo de sinal, às cores e ao sentido de referência indicado no enunciado. Quando houver ilustrações, use-as para aprender a reconhecer a situação — não apenas para memorizar cores isoladas.
 
-Não coloque sua GRU e o seu tempo em risco. [Clique aqui para baixar o ArraisPro](#) e simule com inteligência!
-`
+Questões de treino são úteis para praticar esses conteúdos, mas **não devem ser confundidas com questões oficiais da Marinha** quando são elaboradas por uma plataforma de estudos.
+
+## Como avaliar se um material está atualizado?
+
+Antes de confiar em uma resposta, veja se o material informa a norma usada e se a explicação corresponde à regra aplicável. Para sua preparação, confira o programa de **Arrais-Amador na NORMAM-211/DPC** e o de **Motonauta na NORMAM-212/DPC**.
+
+Um material antigo não está automaticamente errado em tudo; o problema é usar um gabarito sem verificar se a referência e a explicação continuam corretas.
+
+## Pratique com o ArraisPro
+
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com **questões autorais**.
+
+Nos simulados, você pode acompanhar o tempo e conferir o resultado para identificar os assuntos que precisam de mais revisão. Use essas informações para planejar a próxima sessão de estudo, em vez de olhar apenas a pontuação final.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
+    `
   },
   {
     id: 8,
     slug: 'questoes-mais-reprovam-prova-arrais-motonauta',
-    title: 'As 10 questões que mais reprovam na prova de Arrais e Motonauta',
-    description: 'Uma análise exclusiva dos erros mais comuns cometidos pelos candidatos no RIPEAM e no Balizamento Náutico.',
+    title: '6 regras de RIPEAM e balizamento para Arrais e Motonauta',
+    description: 'Revise seis situações de RIPEAM, balizamento e segurança perto de praias que exigem atenção na preparação para Arrais-Amador e Motonauta.',
     date: '2026-08-05',
     author: 'Equipe ArraisPro',
     content: `
-# As questões que mais reprovam na prova de Arrais e Motonauta
+# 6 regras de RIPEAM e balizamento para revisar antes da prova
 
-Analisando a taxa de acertos de milhares de alunos dentro do **ArraisPro**, nós identificamos um padrão. Embora o conteúdo seja vasto, a esmagadora maioria dos candidatos erra questões baseadas em "pegadinhas" semânticas e luzes de navegação.
+Algumas questões de Arrais-Amador e Motonauta não dependem apenas de lembrar uma cor ou uma palavra-chave. Para responder corretamente, você precisa identificar **a situação descrita**: que embarcações estão envolvidas, em que sentido navegam e quais condições fazem a regra valer.
 
-Neste artigo, destrinchamos as maiores armadilhas da prova da Marinha.
+Veja seis exemplos para revisar com atenção. **Esta não é uma lista estatística das questões que mais reprovam**, mas uma seleção de regras que vale estudar com seus respectivos contextos.
 
----
+## 1. Rumos cruzados: quem deve manobrar?
 
-## 1. O cruzamento (Quem tem a preferência?)
+Quando **duas embarcações de propulsão mecânica**, no visual uma da outra, se cruzam com **risco de abalroamento**, a embarcação que vê a outra por **boreste** deve manter-se fora do seu caminho. Se as circunstâncias permitirem, deve evitar cruzar a proa da outra embarcação.
 
-**A pegadinha:** A prova descreve duas lanchas se cruzando, mas coloca ângulos complexos para te confundir. 
-**A regra:** No mar, a regra de ouro do RIPEAM é similar ao trânsito terrestre: quem avista a outra embarcação a **Boreste (direita)** deve manobrar para desviar. Ou seja, se o barco vermelho está à sua direita, a preferência é dele.
+Atenção ao enunciado: essa regra não deve ser transformada em “quem está à direita sempre tem preferência”, sem considerar o tipo de embarcação e a situação de navegação.
 
-## 2. Roda a Roda (Bico a Bico)
+## 2. Roda a roda: para que lado guinar?
 
-**A pegadinha:** O que fazer quando dois barcos vêm de frente um para o outro (roda a roda)? Muita gente responde "parar" ou "dar a ré".
-**A regra:** Ambas as embarcações devem guinar (virar) para **Boreste (direita)**.
+Quando **duas embarcações de propulsão mecânica** se aproximam de frente ou quase de frente, de modo que exista risco de abalroamento, **ambas devem guinar para boreste**. Assim, passam uma pela outra por seus bordos de bombordo.
 
-## 3. As Cores do Balizamento na Região B (Brasil)
+Não confunda a situação de roda a roda com a de rumos cruzados. O primeiro passo é reconhecer como as embarcações se aproximam.
 
-O Brasil adota o sistema IALA Região B. A confusão clássica acontece porque a prova pergunta:
-*"Ao entrar em um porto (vindo do mar), de que lado fica a boia verde?"*
-**A regra:** Na Região B, ao entrar no porto, a cor **Verde fica a bombordo (esquerda)** e a cor **Encarnada (Vermelha) fica a boreste (direita)**.
+## 3. Sinais laterais na Região B
 
-## 4. Luzes de Navegação (Barco a remo)
+No sistema de balizamento marítimo adotado pelo Brasil, **Região B**, ao seguir o sentido convencional do balizamento — normalmente, vindo do mar em direção ao porto —, deixe o **sinal lateral encarnado (vermelho) por boreste** e o **verde por bombordo**.
 
-A Marinha adora perguntar quais luzes uma pequena embarcação a remo deve exibir à noite. As opções sempre têm lanternas coloridas complexas.
-**A regra:** Embarcações a remo não precisam de luzes de bordos (verde/vermelha), apenas de uma **lanterna de luz branca** pronta para ser exibida a tempo de evitar colisão.
+Antes de aplicar a regra, confira o sentido convencional indicado para a área. Não memorize apenas “vermelho à direita” sem saber **em que direção** o enunciado considera a navegação.
 
-## 5. Boia de Perigo Isolado
+## 4. Luzes de embarcação a remo
 
-**A pegadinha:** Qual é a cor da boia de perigo isolado e o que ela significa? O candidato costuma confundir com águas seguras ou novo perigo.
-**A regra:** Ela é **Preta com uma ou mais faixas horizontais Encarnadas (vermelhas)**. Significa que há um perigo pontual (como uma pedra ou casco afundado) bem ali, mas a água em volta é navegável. O topo tem duas esferas pretas.
+Uma embarcação a remo **pode exibir as luzes previstas para embarcações a vela**. Se não as exibir, deve ter pronta uma **lanterna elétrica ou farol com luz branca**, a ser mostrada com antecedência suficiente para evitar abalroamento.
 
-## 6. Distância de banhistas (Linha base)
+Portanto, dizer que embarcações a remo “só podem usar lanterna branca” está errado. A lanterna é a alternativa prevista na regra quando as outras luzes não são exibidas.
 
-**A pegadinha:** Qual a distância mínima que uma lancha ou jet ski pode navegar da linha base da praia?
-**A regra:** **200 metros.** Embarcações a motor não podem se aproximar mais que 200m de praias com banhistas. E lembre-se: jet ski só pode se aproximar da areia de forma perpendicular e a, no máximo, 3 nós de velocidade.
+## 5. Sinal de perigo isolado
 
----
+O sinal de perigo isolado indica um perigo de extensão limitada com **águas navegáveis ao redor**. Sua marca apresenta **cor preta com uma ou mais faixas largas horizontais encarnadas** e, quando dotada de marca de tope, **duas esferas pretas, uma sobre a outra**.
 
-Não seja mais uma vítima das pegadinhas da banca examinadora. No **ArraisPro**, nós temos filtros por "Nível Difícil" e "RIPEAM" para você treinar exaustivamente apenas essas questões até que elas fiquem óbvias!
-`
+“Águas navegáveis ao redor” não significa que você deve passar rente ao sinal. Identifique o perigo, consulte a carta e mantenha uma distância segura.
+
+## 6. Praia, banhistas e moto aquática
+
+Regras de afastamento de praias não devem ser resumidas a “toda embarcação a motor pode chegar até 200 metros”. Há normas para áreas seletivas, áreas reservadas a banhistas e procedimentos específicos de entrada e saída da água.
+
+Para **moto aquática em atividade de esporte e recreio**, a NORMAM-212/DPC estabelece navegação a partir de **200 metros da linha de base**. O trânsito entre o ponto de entrada ou saída da água e essa linha, nos sentidos de ida e volta, deve ocorrer **perpendicularmente e em velocidade baixa, abaixo de 3 nós**. Também devem ser observados os locais destinados à entrada e saída e as regras aplicáveis à área.
+
+**Não interprete esse corredor de trânsito como permissão para circular entre banhistas.** Regras locais podem complementar as exigências gerais.
+
+## Como transformar essas regras em acertos?
+
+Depois de estudar cada regra, resolva questões que mudem um detalhe do cenário: tipo de embarcação, posição relativa, direção do balizamento ou finalidade da aproximação à praia. Ao errar, volte ao texto da regra e identifique **qual condição você deixou passar**.
+
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para praticar e acompanhar seu desempenho.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
+    `
   },
   {
     id: 9,
     slug: 'como-se-inscrever-capitania-dos-portos-prova',
-    title: 'Como se inscrever na Capitania dos Portos para a prova teórica',
-    description: 'Guia de despachante: como emitir a GRU, juntar os documentos e agendar o seu exame prático na Marinha sem dor de cabeça.',
+    title: 'GRU e documentos para Arrais-Amador: como preparar',
+    description: 'Saiba como localizar a emissão da GRU para Arrais-Amador e confira os documentos, o atestado de treinamento e a comprovação de aptidão exigidos na inscrição.',
     date: '2026-09-10',
     author: 'Equipe ArraisPro',
     content: `
-# Como se inscrever na Capitania dos Portos para a prova teórica
+# Como emitir a GRU e preparar os documentos para Arrais-Amador
 
-Você já completou as horas obrigatórias de aula prática na sua Escola Náutica. O que falta agora é dar entrada na documentação junto à Marinha do Brasil para realizar a prova teórica.
+Depois de realizar o treinamento náutico de Arrais-Amador, você precisa preparar a documentação e seguir o procedimento de inscrição no exame da Capitania dos Portos, Delegacia ou Agência responsável.
 
-Muitas escolas oferecem o serviço de despachante cobrando uma taxa extra. Se você quiser economizar e fazer o processo por conta própria, basta seguir o nosso guia.
+**Não pague uma guia escolhida apenas pelo nome parecido com o serviço desejado.** Antes de emitir a GRU, confira as orientações da unidade onde fará sua inscrição, o serviço correto e o valor vigente.
 
----
+## Onde emitir a GRU para Arrais-Amador?
 
-## Passo 1: Emissão da GRU (Guia de Recolhimento da União)
+A **Guia de Recolhimento da União (GRU)** é utilizada para o pagamento dos serviços sujeitos à Tabela de Indenizações da Marinha. A emissão pode ser acessada pelos canais oficiais indicados pela Diretoria de Portos e Costas ou pela unidade responsável pelo atendimento.
 
-O primeiro passo é pagar a taxa de inscrição.
-1. Acesse o site da **Diretoria de Portos e Costas (DPC)**.
-2. Procure pela aba "Serviços da Capitania / Emissão de GRU".
-3. Selecione a opção "Inscrição para Exame de Habilitação de Amador".
-4. Preencha seus dados, imprima o boleto (valor em torno de R$ 42,00) e pague em um banco conveniado (preferencialmente Banco do Brasil ou Pix, se disponível).
-*Atenção:* Guarde o comprovante de pagamento físico.
+Siga esta sequência:
 
-## Passo 2: Juntar a documentação (O Dossiê)
+1. **Escolha a unidade da Marinha** onde pretende se inscrever e leia as instruções para o exame de Arrais-Amador.
+2. **Acesse o link de emissão de GRU indicado pela unidade.** Confira a organização militar destinatária, o serviço selecionado e os dados do candidato.
+3. **Verifique o valor apresentado** antes de concluir a emissão. Use a tabela vigente e as orientações oficiais, não um preço encontrado em artigo antigo.
+4. **Pague a guia e guarde o comprovante de pagamento.** Confira se a unidade exige que o pagamento já esteja compensado para agendar ou apresentar o pedido.
 
-A Marinha exige que você leve os documentos organizados (e com cópias autenticadas, dependendo da delegacia, então sempre ligue antes para confirmar se eles aceitam conferir o original na hora).
+Você pode começar pela [orientação oficial da DPC sobre emissão de GRU](https://www.marinha.mil.br/dpc/carta-de-servicos/emiss%C3%A3o-de-guias-de-recolhimento-da-uni%C3%A3o-gru). Se houver diferença entre instruções gerais e a página da unidade onde fará o exame, confirme o procedimento diretamente com essa unidade antes de pagar.
 
-O Dossiê básico contém:
-1. **Ficha de Inscrição** preenchida e assinada (disponível no site da DPC).
-2. **Cópia da CNH** válida (que serve como atestado médico de aptidão física). Caso não tenha CNH, leve o RG + Atestado Médico para Prática Náutica (padrão DPC).
-3. **Cópia do CPF e Identidade**.
-4. **Comprovante de Residência** (com CEP válido) recente.
-5. **Atestado de Embarque:** O certificado em papel oficial que a sua Escola Náutica te entregou.
-6. A **GRU paga e o comprovante**.
+## Quais documentos preparar?
 
-## Passo 3: Ida à Capitania ou Agência Fluvial
+A lista aplicável deve ser conferida nas instruções da sua Capitania, Delegacia ou Agência. Para a inscrição de Arrais-Amador, organize especialmente:
 
-Vá pessoalmente à Capitania dos Portos, Delegacia ou Agência Fluvial responsável pela sua região. Geralmente, o atendimento ao público tem horários restritos (ex: apenas de manhã das 8h30 às 11h30). Chegue cedo.
+- **Requerimento:** formulário exigido para o serviço, preenchido conforme as orientações da unidade.
+- **Identificação e CPF:** documento oficial com foto e comprovação do CPF, nas formas aceitas para o atendimento.
+- **Comprovante de residência:** documento admitido pela norma ou, quando cabível, declaração de residência.
+- **Aptidão psicofísica:** atestado médico exigido para o processo ou **CNH válida**, quando aceita para dispensá-lo.
+- **Atestado de Treinamento Náutico:** documento correspondente ao treinamento de Arrais-Amador.
+- **GRU e pagamento:** guia e comprovante conforme a etapa indicada pela unidade.
 
-Você vai protocolar seus documentos. Se tudo estiver correto, o atendente militar irá registrar você no sistema.
+**Atenção:** não presuma que o comprovante de residência precisa estar obrigatoriamente em seu nome ou ter sido emitido nos últimos 90 dias. A NORMAM-211 prevê formas específicas de comprovação, incluindo conta com vencimento ocorrido há até **120 dias** e, quando cabível, declaração de residência.
 
-## Passo 4: O Agendamento
+## A CNH substitui o atestado médico?
 
-A maioria das Capitanias permite que você agende a data da prova no momento da entrega dos documentos, informando as datas disponíveis no calendário da corporação. Outras capitanias publicam a data no site.
-Sempre pergunte: *"Qual será a data e a hora do meu exame?"* e exija o protocolo de inscrição.
+**Uma CNH dentro da validade pode dispensar a apresentação do atestado médico**, conforme as condições do processo de habilitação. CNH vencida não deve ser tratada como comprovante de aptidão válido apenas porque pode servir, em outras situações, como documento de identificação.
 
-**Pronto!** O processo burocrático acabou. Agora, a sua única missão é baixar o aplicativo **ArraisPro** e focar 100% na resolução de simulados até o dia do exame.
-`
+Se você precisar apresentar atestado médico, confira os requisitos antes da consulta: a norma prevê documento **emitido há menos de um ano**, com informação sobre o estado psicofísico e eventuais restrições.
+
+## Posso fazer a inscrição por procurador?
+
+Verifique as orientações da unidade sobre representação por procurador e os requisitos da procuração. Você também pode contratar apoio administrativo, se desejar, mas **um despachante não substitui o treinamento, os documentos nem a aprovação no exame**.
+
+Antes de entregar o processo, revise nomes, CPF, categoria solicitada, atestado de treinamento, serviço pago na GRU e comprovante de pagamento. Uma conferência simples evita retornar ao atendimento por erro de preenchimento.
+
+## Prepare-se para a prova
+
+Organizar a inscrição resolve a parte administrativa; estudar o programa do exame é outra etapa. O **ArraisPro** é um aplicativo educacional independente que reúne apostila, flashcards, quizzes e simulados com questões autorais para a preparação teórica de Arrais-Amador e Motonauta.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não emite GRUs ou habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
+    `
   },
   {
     id: 10,
     slug: 'o-que-estudar-vespera-prova-marinha',
-    title: 'O que estudar na véspera da prova da Marinha (Checklist final)',
-    description: 'Faltam 24 horas para o exame. Veja quais temas revisar de última hora e o que fazer para garantir a calma e a aprovação.',
+    title: 'O que revisar na véspera da prova de Arrais e Motonauta',
+    description: 'Confira um checklist para a véspera da prova de Arrais-Amador ou Motonauta: sinais sonoros, luzes, coletes e orientações para o dia do exame.',
     date: '2026-09-28',
     author: 'Equipe ArraisPro',
     content: `
-# O que estudar na véspera da prova da Marinha (Checklist)
+# O que revisar na véspera da prova de Arrais-Amador e Motonauta?
 
-Faltam apenas 24 horas para o seu exame na Capitania dos Portos. Você provavelmente já fez os simulados no app **ArraisPro**, já leu a apostila e já manobrou a lancha na aula prática. 
+Na véspera, vale priorizar os assuntos em que **você ainda erra** e reservar alguns minutos para conferir as informações práticas do exame. Não existe uma lista que substitua o programa da sua categoria: use este checklist como revisão rápida, não como resumo completo da prova.
 
-Porém, a véspera de qualquer prova costuma gerar ansiedade. A regra de ouro é: **não tente aprender assuntos novos na véspera.** O foco deve ser puramente na memória de curto prazo (Decoreba Estratégica).
+Antes de começar, confirme se você fará o exame de **Arrais-Amador**, cujo programa está na NORMAM-211/DPC, ou o de **Motonauta**, tratado pela NORMAM-212/DPC.
 
----
+## 1. Sinais sonoros de manobra e advertência
 
-## O que focar de última hora? (Memória Curta)
+A Regra 34 do RIPEAM traz sinais que dependem do **contexto**. Quando embarcações estão no visual uma da outra, revise estes sinais básicos de manobra de uma embarcação de propulsão mecânica:
 
-Deixe a véspera para revisar listas e coisas visuais que podem sumir da memória sob pressão.
+| Sinal | Significado |
+|---|---|
+| Um apito curto | Estou guinando para boreste |
+| Dois apitos curtos | Estou guinando para bombordo |
+| Três apitos curtos | Estou operando a propulsão a ré |
 
-### 1. Sinais Sonoros (Apitos)
-Decore os apitos longos e curtos. Eles caem em toda prova e dependem de memória bruta.
-* 1 apito curto: "Estou guinando para boreste"
-* 2 apitos curtos: "Estou guinando para bombordo"
-* 3 apitos curtos: "Estou dando máquinas atrás"
-* 5 ou mais apitos curtos (série): Não entendi sua manobra / Perigo (Dúvida)
+**Três apitos curtos não significam, necessariamente, que o casco já está se deslocando para trás.**
 
-### 2. Luzes de Navegação
-Revise rapidamente os ângulos das luzes.
-* Luz de Mastro (Branca): 225º
-* Luz de Boreste (Verde): 112.5º
-* Luz de Bombordo (Vermelha): 112.5º
-* Luz de Alcançado (Branca): 135º
+Há também o sinal de **pelo menos cinco apitos curtos e rápidos**: ele indica dúvida sobre a intenção ou a suficiência da manobra de outra embarcação quando ambas se aproximam no visual uma da outra.
 
-### 3. Coletes Salva-vidas
-Isso despenca na prova! Revise as classes rapidamente:
-* Classe I: Mar aberto (navegação oceânica)
-* Classe II: Navegação costeira
-* Classe III: Navegação interior (rios, lagos, lagoas) - O mais comum para Arrais.
-* Classe IV: Trabalho (boias, roupas operacionais)
-* Classe V: Esporte e recreio (esqui aquático, windsurf)
+Não confunda esses sinais com os usados em outros contextos, como visibilidade restrita.
 
-## Checklist Prático para o dia D
+## 2. Setores das luzes de navegação
 
-Não adianta saber tudo de teoria e ser barrado na porta da Capitania.
-Prepare as suas roupas e documentos na noite anterior:
+Para revisar as definições da Regra 21 do RIPEAM, associe cada luz ao seu setor de visibilidade:
 
-* [ ] Documento de identidade original (CNH ou RG).
-* [ ] Protocolo de Inscrição da Capitania.
-* [ ] Duas canetas esferográficas azuis ou pretas (tubo transparente).
-* [ ] Calça comprida (jeans ou sarja).
-* [ ] Sapato fechado (tênis).
-* [ ] Camisa ou camiseta de manga.
+| Luz | Cor e posição | Setor horizontal |
+|---|---|---:|
+| Luz de mastro | Branca, voltada para vante | 225° |
+| Luz de boreste | Verde | 112,5° |
+| Luz de bombordo | Encarnada (vermelha) | 112,5° |
+| Luz de alcançado | Branca, voltada para ré | 135° |
 
-*Lembrete Militar:* Capitanias não aceitam a entrada com shorts, bermudas, regatas ou chinelos, mesmo em cidades litorâneas quentes.
+Esses números descrevem **setores de visibilidade**. Eles não dizem, sozinhos, quais luzes toda embarcação deve exibir: a configuração exigida depende também do tipo e da situação da embarcação.
 
-Com tudo pronto, durma bem e confie na sua preparação. Se você bateu os 80% de acerto consistente nos simulados do **ArraisPro**, a aprovação é apenas um detalhe burocrático. Boa sorte e bons ventos!
-`
+## 3. Classes de coletes salva-vidas
+
+A NORMAM-211/DPC distingue as classes de equipamentos salva-vidas conforme seu emprego. Para uma revisão rápida:
+
+- **Classe I:** utilizada em embarcações empregadas na navegação oceânica.
+- **Classe II:** utilizada em embarcações empregadas na navegação costeira.
+- **Classe III:** fabricada para uso em embarcações empregadas na navegação interior.
+- **Classe IV:** destinada ao emprego prolongado por pessoas em determinados trabalhos com risco de queda na água.
+- **Classe V:** destinada a atividades e embarcações específicas previstas na norma, incluindo usos esportivos.
+
+**Não escolha um colete apenas pela palavra “interior” ou “esportivo”.** Confira a dotação exigida para o tipo de embarcação. Na navegação interior, a NORMAM-211 prevê, por exemplo, classes **III ou V** para embarcações miúdas e de médio porte, e **classe III** para embarcações de grande porte. Para moto aquática, a NORMAM-212 exige colete **classe III ou V**, nas condições nela estabelecidas.
+
+## 4. Confira as orientações do exame
+
+Separe alguns minutos para reler a convocação ou a página da Capitania, Delegacia ou Agência responsável. Verifique:
+
+- O **endereço** e o horário de apresentação.
+- O **documento de identificação** aceito.
+- Se há orientação para levar **caneta** ou outro material.
+- As regras locais para **celular e outros dispositivos**.
+- As condições de **acesso e vestimenta** da unidade.
+
+Evite tratar dicas de outra Capitania como regras universais: siga as instruções do local onde você fará a prova.
+
+## Como usar os últimos minutos de estudo?
+
+Faça uma rodada curta de questões dos assuntos em que ainda tem dúvidas. Ao errar, revise a regra correspondente e pare de repetir a questão quando perceber que está apenas memorizando a alternativa.
+
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para você revisar e acompanhar seu desempenho.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
+    `
   },
   {
     id: 11,
     slug: 'ripeam-descomplicado-regras-ouro',
-    title: 'RIPEAM Descomplicado: Regras de Ouro para Não Bater no Mar',
+    title: 'RIPEAM para Arrais-Amador: regras 5 a 8 explicadas',
     date: '2026-10-05T12:00:00',
     readTime: '6 min',
     draft: true,
-    excerpt: 'O Regulamento Internacional para Evitar Abalroamentos no Mar (RIPEAM) é a "lei de trânsito" das águas. Entenda o essencial.',
+    excerpt: 'Entenda quatro regras fundamentais do RIPEAM para a prova e para a navegação: vigilância, velocidade de segurança, risco de abalroamento e manobras.',
     content: `
-O **RIPEAM** (Regulamento Internacional para Evitar Abalroamentos no Mar) funciona como o Código de Trânsito para quem navega. Se você quer pilotar lanchas ou jet skis, conhecer essas regras é obrigatório para evitar acidentes (abalroamentos).
+# RIPEAM para iniciantes: vigilância, velocidade e risco de abalroamento
 
-Neste artigo, vamos simplificar as regras de ouro do RIPEAM.
+O **RIPEAM** é o Regulamento Internacional para Evitar Abalroamentos no Mar. Para quem estuda para Arrais-Amador ou Motonauta, algumas de suas regras ajudam a responder a uma pergunta prática: **como perceber um risco a tempo e agir para evitar uma colisão?**
 
-## 1. Mantenha Sempre Vigia
-A regra número um (Regra 5) exige que toda embarcação mantenha vigilância visual e auditiva constante. Não importa se você está navegando devagar em um dia ensolarado; você deve estar atento a outras embarcações, banhistas e obstáculos.
+Neste guia, você verá quatro regras fundamentais. Elas tratam de vigilância, velocidade de segurança, avaliação do risco e manobras para evitar abalroamento.
 
-## 2. Velocidade de Segurança
-A Regra 6 determina que você deve navegar a uma velocidade que permita tomar medidas adequadas e eficientes para evitar um abalroamento. 
-Para definir essa velocidade, considere:
-* Visibilidade (neblina, chuva).
-* Densidade do tráfego (muitos barcos ao redor).
-* Estado do mar e dos ventos.
+## Regra 5: mantenha vigilância
 
-## 3. Risco de Abalroamento
-Como saber se há risco de bater em outro barco? A técnica mais usada é a **marcação visual**. Se você observa outro barco se aproximando e o ângulo dele em relação a você não muda (marcação constante) enquanto a distância diminui, **existe risco de colisão**.
+Toda embarcação deve manter **vigilância apropriada por visão, audição e todos os meios disponíveis adequados às circunstâncias**. O objetivo é avaliar continuamente a situação ao redor e o risco de abalroamento.
 
-## 4. Manobras Claras e Antecipadas
-Se você precisa desviar (ceder passagem), faça isso **de forma clara e com bastante antecedência**. Pequenas alterações de rumo em cima da hora confundem o outro comandante e causam acidentes.
+Na prática, não basta olhar para a proa de vez em quando. Observe outros setores, ouça sinais sonoros e considere as limitações de visibilidade do local e da própria embarcação.
 
-### Estude pelo App!
-O RIPEAM é um dos temas que mais caem na prova de Arrais Amador. No **ArraisPro**, você encontra dezenas de questões ilustradas mostrando cenários reais de encontro entre barcos. **Baixe grátis** e teste seus conhecimentos!
+**Exemplo:** mesmo em um dia claro e com pouco tráfego, uma embarcação pode se aproximar por um setor que você não estava observando. A vigilância deve continuar durante toda a navegação.
+
+## Regra 6: navegue em velocidade de segurança
+
+A embarcação deve manter uma velocidade que permita tomar medidas apropriadas e eficazes para evitar abalroamento e **parar a uma distância adequada às circunstâncias**.
+
+Não existe uma velocidade única que seja segura em todas as situações. Ao avaliá-la, considere fatores como:
+
+- Visibilidade.
+- Densidade do tráfego.
+- Capacidade de manobra e distância necessária para parar.
+- Vento, mar e corrente.
+- Perigos à navegação e condições do local.
+
+Uma velocidade confortável em uma área livre pode ser inadequada perto de outras embarcações ou com visibilidade reduzida.
+
+## Regra 7: avalie o risco de abalroamento
+
+Use os meios disponíveis para determinar se existe risco de colisão. **Se houver dúvida, considere que o risco existe.**
+
+Um indício importante aparece quando a **marcação de outra embarcação permanece praticamente constante enquanto a distância diminui**. Isso indica que as trajetórias podem se encontrar.
+
+Mas cuidado: **não conclua que está tudo seguro apenas porque a marcação mudou**. Em determinadas aproximações, ainda pode haver risco. Continue observando a posição e a distância da outra embarcação.
+
+## Regra 8: manobre a tempo e confira o resultado
+
+Quando uma manobra for necessária para evitar abalroamento, ela deve ser feita **com antecedência**, de modo positivo e conforme as boas práticas de navegação. Se as circunstâncias permitirem, a alteração de rumo deve ser suficientemente clara para ser percebida pela outra embarcação.
+
+Evite depender de pequenas mudanças sucessivas que dificultem a interpretação da sua intenção. Depois de agir, **continue acompanhando a situação** até que a outra embarcação tenha passado e esteja suficientemente afastada.
+
+## Como estudar essas quatro regras?
+
+Em vez de decorar uma frase por regra, tente responder a esta sequência em cada questão:
+
+1. **Estou mantendo vigilância?** O que consigo ver, ouvir ou verificar pelos meios disponíveis?
+2. **Minha velocidade é segura?** Tenho tempo e espaço para agir?
+3. **Existe risco?** A distância diminui? Como evolui a marcação?
+4. **Minha ação resolveu a situação?** Continuei observando após a manobra?
+
+Essa sequência ajuda a interpretar cenários de prova sem transformar uma regra específica em uma resposta automática para qualquer encontro entre embarcações.
+
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para você praticar esses conceitos e acompanhar seu desempenho.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
     `
   },
   {
     id: 12,
     slug: 'entendendo-o-balizamento-maritimo',
-    title: 'Entendendo o Balizamento Marítimo: Sinais que Você Precisa Conhecer',
+    title: 'Balizamento IALA Região B: cores e sinais',
     date: '2026-10-07T12:00:00',
     readTime: '7 min',
     draft: true,
-    excerpt: 'Boias verdes e encarnadas (vermelhas)... O que elas significam? Descubra como funciona o sistema de balizamento.',
+    excerpt: 'Aprenda a identificar os sinais laterais da Região B, perigo isolado, águas seguras e canal preferencial para estudar balizamento náutico.',
     content: `
-O Sistema de Balizamento Marítimo é o conjunto de placas, boias e faróis que "desenham" as estradas na água. No Brasil, adotamos o sistema **IALA Região B**. Entender esse sistema é vital para não encalhar a sua lancha ou jet ski em bancos de areia.
+# Balizamento IALA Região B: como identificar os principais sinais
 
-## IALA Região B: A Regra Básica
-A regra de ouro do IALA Região B (usado nas Américas) é entender quem fica de que lado quando estamos **entrando em um porto** (ou subindo um rio, vindo do mar):
+O balizamento náutico ajuda o navegante a reconhecer canais, perigos e outras informações necessárias à navegação. **No Brasil, o sistema marítimo da IALA utiliza a Região B.**
 
-* **Boia Encarnada (Vermelha):** Fica a **boreste (direita)** do seu barco. Ela tem formato cônico e à noite pisca luz vermelha.
-* **Boia Verde:** Fica a **bombordo (esquerda)** do seu barco. Tem formato cilíndrico e à noite pisca luz verde.
+Para responder às questões de balizamento, não basta decorar “vermelho à direita”. Primeiro, identifique o **sentido convencional do balizamento** — normalmente, o sentido de quem vem do mar em direção ao porto, rio ou estuário. É em relação a esse sentido que os sinais laterais são descritos.
 
-*Dica de prova:* "Entrando no porto, o encarnado fica a boreste".
+## Sinais laterais: verde ou encarnado?
 
-## Boias de Perigo Isolado
-São boias pretas com faixas horizontais encarnadas e duas esferas pretas no topo. Elas indicam que há um perigo (como uma pedra ou casco soçobrado) exatamente embaixo da boia, mas que as águas ao redor são seguras.
+Seguindo o sentido convencional do balizamento na **Região B**:
 
-## Águas Seguras
-Boias com faixas verticais brancas e encarnadas. Indicam que há águas navegáveis em torno de todo o sinal. São usadas como sinal de aproximação ou meio de canal.
+| Sinal lateral | Lado em que deve ficar | Cor | Forma característica da boia |
+|---|---|---|---|
+| Bombordo | Bombordo (esquerda) | Verde | Cilíndrica |
+| Boreste | Boreste (direita) | Encarnada (vermelha) | Cônica, com o vértice para cima |
 
-## Bifurcação de Canal
-Boias que indicam que o canal se divide. Elas possuem cores verde e vermelha misturadas. A cor da **faixa central** indica o canal secundário (o caminho que você NÃO deve dar preferência caso queira seguir pela via principal).
+Os sinais também podem ter formato de **pilar ou charuto**. Quando possuem luz, a cor da luz lateral corresponde à cor do sinal: verde para bombordo e encarnada para boreste.
 
-### Fixe o Conteúdo
-Decorar boias pode ser chato, mas no app **ArraisPro** nós utilizamos simulados visuais. Você vê a imagem da boia e responde ao quiz. É a forma mais rápida de memorizar para a prova da Marinha!
+**Atenção:** se você estiver navegando no sentido contrário ao convencional, não aplique a frase “vermelho à direita” sem inverter a perspectiva. Observe o sentido indicado para aquele canal.
+
+## O que indica um sinal de perigo isolado?
+
+O sinal de **perigo isolado** marca um perigo de extensão limitada, com águas navegáveis ao redor. Ele tem **cor preta com uma ou mais faixas largas horizontais encarnadas** e **marca de tope formada por duas esferas pretas, uma acima da outra**.
+
+A existência de águas navegáveis ao redor **não é um convite para passar rente ao sinal**. Consulte a carta náutica e mantenha distância segura do perigo marcado.
+
+## Como reconhecer um sinal de águas seguras?
+
+O sinal de **águas seguras** indica que há águas navegáveis em torno da sua posição. Pode ser empregado, por exemplo, como sinal de meio de canal.
+
+Suas faixas são **verticais, encarnadas e brancas**. Quando há marca de tope, ela é **uma esfera encarnada**. Compare-o com o perigo isolado: um apresenta faixas **verticais encarnadas e brancas**; o outro, faixas **horizontais encarnadas sobre fundo preto** e duas esferas pretas.
+
+## Como funciona o canal preferencial?
+
+Quando um canal se bifurca, um **sinal lateral modificado** pode indicar qual dos caminhos é o preferencial. Observe a **cor principal do sinal e sua faixa larga horizontal**, sempre no sentido convencional do balizamento:
+
+| Canal preferencial | Aparência do sinal modificado |
+|---|---|
+| A bombordo | Encarnado com uma faixa larga horizontal verde |
+| A boreste | Verde com uma faixa larga horizontal encarnada |
+
+O nome “canal preferencial a bombordo” ou “a boreste” indica **a direção do caminho preferencial na bifurcação**. Não tente descobri-la olhando apenas para a cor da marca de tope ou para a faixa isoladamente: leia o conjunto do sinal e confira a representação na carta.
+
+## Como estudar balizamento para a prova?
+
+Treine cada sinal com três perguntas:
+
+1. **Qual é o sentido convencional do balizamento?**
+2. **Estou vendo um sinal lateral, um perigo isolado, águas seguras ou uma bifurcação?**
+3. **O que a combinação de cor, forma e marca de tope indica?**
+
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para você praticar a identificação de sinais e revisar os assuntos em que tiver dúvidas.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
     `
   },
   {
     id: 13,
     slug: 'sinais-sonoros-navegacao',
-    title: 'Apitos e Sinais Sonoros: O "Pisca-Alerta" dos Barcos',
+    title: 'Sinais sonoros do RIPEAM: apitos de manobra e ultrapassagem',
     date: '2026-10-09T12:00:00',
     readTime: '5 min',
     draft: true,
-    excerpt: 'O que significa um apito curto? E dois? Aprenda a comunicação sonora obrigatória entre embarcações.',
+    excerpt: 'Saiba o significado de um, dois ou três apitos curtos e dos sinais de advertência e ultrapassagem em canais estreitos previstos no RIPEAM.',
     content: `
-Na água não temos setas de direção nem luzes de freio (apenas luzes noturnas). De dia ou sob neblina, a comunicação de manobras é feita através de **sinais sonoros** (apitos ou buzinas). A prova da Marinha cobra muito esse tema!
+# Sinais sonoros do RIPEAM: como entender os apitos
 
-## Sinais de Manobra e Advertência
-A regra principal é baseada em "apitos curtos" (duração de cerca de 1 segundo).
+Os sinais sonoros do **RIPEAM** ajudam a comunicar manobras, intenções e dúvidas entre embarcações. Para interpretá-los corretamente, você precisa reconhecer **a sequência dos sons e a situação em que ela é usada**.
 
-* **Um (1) apito curto:** "Estou guinando para boreste (direita)".
-* **Dois (2) apitos curtos:** "Estou guinando para bombordo (esquerda)".
-* **Três (3) apitos curtos:** "Estou dando máquinas atrás" (dando ré).
-* **Cinco (5) ou mais apitos curtos:** Sinal de dúvida ou perigo. "Não entendi suas intenções" ou "Atenção, estamos em rota de colisão!".
+Neste guia, veja os sinais básicos de manobra, o alerta de dúvida e os sinais específicos para ultrapassagem em canal estreito ou via de acesso.
 
-## Sinais em Visibilidade Restrita (Neblina)
-Quando a neblina baixa, você não consegue ver outros barcos. A regra exige sinais prolongados (duração de 4 a 6 segundos).
-* Embarcação a motor em movimento: **1 apito longo a cada 2 minutos**.
+## Qual a diferença entre apito curto e longo?
 
-## Ultrapassagem em Canais Estreitos
-Se você precisa ultrapassar outro barco num canal apertado:
-* Dois apitos longos e um curto: "Tenciono ultrapassar por boreste".
-* Dois apitos longos e dois curtos: "Tenciono ultrapassar por bombordo".
-A embarcação alcançada deve concordar emitindo: um longo, um curto, um longo, um curto.
+Segundo o RIPEAM:
 
-### Baixe o ArraisPro
-Dominar os sinais sonoros exige repetição. No aplicativo **ArraisPro**, separamos um módulo apenas para Sinais Sonoros. Instale gratuitamente pela Google Play e comece a praticar.
+- **Apito curto:** som de duração aproximada de **1 segundo**.
+- **Apito longo:** som com duração de **4 a 6 segundos**.
+
+Essa diferença é importante: **dois apitos curtos** não têm o mesmo significado que **dois apitos longos**.
+
+## Sinais básicos de manobra
+
+Quando duas embarcações estão **no visual uma da outra**, uma embarcação de propulsão mecânica que manobra conforme as regras indica sua ação com os seguintes sinais:
+
+| Sinal | Significado |
+|---|---|
+| Um apito curto | “Estou guinando para boreste” |
+| Dois apitos curtos | “Estou guinando para bombordo” |
+| Três apitos curtos | “Estou operando a propulsão a ré” |
+
+**Atenção aos três apitos curtos:** o sinal se refere à operação da propulsão a ré; não conclua, apenas pelo som, que a embarcação já está se deslocando para trás.
+
+## Cinco ou mais apitos curtos: sinal de dúvida
+
+Se embarcações estão se aproximando **no visual uma da outra** e uma delas não compreende as intenções ou ações da outra — ou duvida que a manobra seja suficiente para evitar abalroamento —, deve indicar a dúvida imediatamente com **pelo menos cinco apitos curtos e rápidos**.
+
+Esse é um sinal de **advertência**. Não o confunda com uma sequência que informa para qual bordo a embarcação está guinando.
+
+## Sinais de ultrapassagem em canal estreito
+
+Há sinais próprios para a situação em que, **em um canal estreito ou via de acesso, a ultrapassagem depende da ação da embarcação alcançada para ocorrer com segurança**.
+
+A embarcação que pretende ultrapassar comunica sua intenção assim:
+
+| Sinal | Intenção da embarcação que vai ultrapassar |
+|---|---|
+| Dois apitos longos e um curto | “Pretendo ultrapassá-la **por seu boreste**” |
+| Dois apitos longos e dois curtos | “Pretendo ultrapassá-la **por seu bombordo**” |
+
+O “seu” se refere à **embarcação alcançada**. Pense no bordo dela, não no bordo de quem faz o sinal.
+
+Se concordar com a ultrapassagem, a embarcação alcançada responde com **um apito longo, um curto, um longo e um curto**, nessa ordem, e manobra para permitir a passagem em segurança. **Não trate a ausência de resposta como concordância automática.**
+
+## Como não confundir os sinais na prova?
+
+Separe primeiro a situação descrita no enunciado:
+
+1. **É uma manobra entre embarcações no visual?** Verifique os sinais de um, dois ou três apitos curtos.
+2. **Há dúvida sobre a intenção ou a segurança da manobra?** Lembrese dos cinco ou mais apitos curtos e rápidos.
+3. **É uma ultrapassagem em canal estreito nas condições descritas pela regra?** Procure os dois apitos **longos** seguidos de um ou dois **curtos**.
+4. **De qual embarcação é o bordo mencionado?** Na intenção de ultrapassar, o sinal nomeia o bordo da embarcação **alcançada**.
+
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para praticar regras de navegação e revisar os temas em que você tem dúvidas.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
     `
   },
   {
     id: 14,
     slug: 'regras-de-preferencia-quem-passa-primeiro',
-    title: 'Regras de Preferência no Mar: Quem tem a prioridade?',
+    title: 'Quem deve manobrar? Cruzamento e ultrapassagem no RIPEAM',
     date: '2026-10-12T12:00:00',
     readTime: '6 min',
     draft: true,
-    excerpt: 'Veleiro ou Lancha? Quem vem da direita passa? Entenda definitivamente quem tem a preferência de passagem.',
+    excerpt: 'Entenda quem deve manobrar em situações de roda a roda, rumos cruzados e ultrapassagem, e por que “ter preferência” não dispensa cuidados.',
     content: `
-Diferente dos cruzamentos de trânsito onde temos semáforos, no mar as **Regras de Preferência** (RIPEAM) determinam de forma rígida quem deve desviar (embarcação paradora) e quem deve manter o rumo (embarcação que tem preferência).
+# Quem deve manobrar? Regras de passagem entre embarcações
 
-## 1. Roda a Roda (Bate-Frente)
-Quando duas lanchas se aproximam em rumos opostos (uma de frente para a outra), **ambas devem guinar para boreste (direita)**. Ninguém tem preferência.
+No RIPEAM, a pergunta mais útil não é simplesmente **“quem tem prioridade?”**, mas **“quem deve manter-se fora do caminho e quem deve manter rumo e velocidade nesta situação?”** A resposta depende de como as embarcações se aproximam, do tipo de embarcação e das condições de navegação.
 
-## 2. Rumos Cruzados
-Quando duas embarcações a motor cruzam seus caminhos, a embarcação que avista a outra pelo seu lado de **boreste (direita) deve desviar**.
-*Dica:* É exatamente igual à regra de cruzamentos sem sinalização no trânsito terrestre!
+Os exemplos de roda a roda, rumos cruzados e ultrapassagem abaixo consideram **embarcações no visual uma da outra**. Antes de aplicar qualquer regra, verifique se há risco de abalroamento e se o enunciado descreve alguma condição especial.
 
-## 3. Situação de Ultrapassagem
-A embarcação que está **sendo alcançada (ultrapassada) SEMPRE tem a preferência**. Quem está ultrapassando deve se manter fora do caminho, independentemente de ser um veleiro ou uma lancha.
+## 1. Roda a roda: as duas guinam
 
-## A Hierarquia das Embarcações
-Quando não estamos falando apenas de lanchas cruzando, existe uma "hierarquia de privilégios" baseada na capacidade de manobra de cada barco. 
-A preferência geral segue esta ordem (o de baixo desvia do de cima):
-1. Embarcações sem governo (com pane no motor/leme).
-2. Embarcações com capacidade de manobra restrita (dragas, rebocadores).
-3. Embarcações engajadas na pesca (arrastões).
-4. **Veleiros (embarcações à vela).**
-5. **Embarcações a motor (lanchas, jet skis).**
+Quando **duas embarcações de propulsão mecânica** se aproximam de frente ou quase de frente, com **risco de abalroamento**, ambas devem **guinar para boreste**. Assim, passam uma pela outra por seus bordos de bombordo.
 
-Portanto, um barco a motor deve **sempre** desviar de um veleiro!
+Nesse caso, não se escolhe uma embarcação para “ter preferência”: **as duas têm uma ação a executar**.
 
-### Pratique para a Prova
-Questões sobre cruzamentos e hierarquia são presença confirmada na prova de Arrais Amador e Motonauta. No **ArraisPro**, nós temos todos os esquemas desenhados. Baixe o app e gabarite!
+## 2. Rumos cruzados: observe o boreste
+
+Quando **duas embarcações de propulsão mecânica** se aproximam em rumos cruzados, com **risco de abalroamento**, aquela que vê a outra por **boreste** deve **manter-se fora do caminho**. Se as circunstâncias permitirem, deve evitar cruzar a proa da outra embarcação.
+
+Não transforme essa situação em uma regra universal do tipo “quem está à direita sempre tem preferência”. Primeiro, confirme que se trata de **rumos cruzados entre duas embarcações de propulsão mecânica**, e não de ultrapassagem ou de outra situação.
+
+## 3. Ultrapassagem: quem alcança deve desviar
+
+Na **ultrapassagem**, toda embarcação que alcança outra deve **manter-se fora do caminho da embarcação alcançada**, independentemente das demais regras de responsabilidade entre tipos de embarcação.
+
+**Exemplo:** se uma embarcação a vela está ultrapassando uma lancha, é a embarcação a vela que deve manter-se fora do caminho durante a ultrapassagem. O fato de ser um veleiro não inverte essa responsabilidade.
+
+Se houver dúvida sobre se a aproximação constitui uma ultrapassagem, a embarcação em dúvida deve tratá-la como tal. A obrigação permanece até que ela tenha ultrapassado inteiramente e esteja suficientemente afastada.
+
+## 4. E quando as embarcações são diferentes?
+
+Quando a situação **não é de ultrapassagem**, o RIPEAM também estabelece responsabilidades entre categorias de embarcações. Ressalvadas as condições e outras regras aplicáveis, uma embarcação de propulsão mecânica em movimento deve manter-se fora do caminho de embarcações:
+
+- Sem governo.
+- Com capacidade de manobra restrita.
+- Engajadas na pesca.
+- A vela.
+
+**“Engajada na pesca” tem um significado específico no RIPEAM**: não basta haver alguém pescando a bordo. A atividade e os aparelhos de pesca precisam se enquadrar na definição da regra.
+
+Essa relação não deve ser lida como uma lista que resolve sozinha qualquer encontro. **Ultrapassagens, canais estreitos e esquemas de separação de tráfego**, por exemplo, exigem atenção às regras próprias.
+
+## “Ter preferência” significa não fazer nada?
+
+**Não.** Em uma situação em que uma embarcação deve manter-se fora do caminho, a outra, em regra, **mantém rumo e velocidade**. Isso torna suas ações previsíveis para quem precisa manobrar.
+
+Mas ela não deve permanecer passiva diante de um risco crescente. A Regra 17 prevê situações em que pode ou deve agir para evitar o abalroamento, inclusive quando a ação da outra embarcação não é suficiente.
+
+Para estudar, pergunte sempre:
+
+1. As embarcações estão **no visual** uma da outra?
+2. Há **risco de abalroamento**?
+3. É **ultrapassagem, roda a roda ou rumos cruzados**?
+4. Quais são os **tipos e as condições** das embarcações?
+5. Existe alguma **regra específica** para o local, como canal estreito?
+
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para praticar cenários de navegação e revisar seus erros.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
     `
   },
   {
     id: 15,
     slug: 'luzes-de-navegacao-noturna',
-    title: 'Luzes de Navegação: Como identificar barcos à noite',
+    title: 'Luzes de navegação no RIPEAM: cores e setores',
     date: '2026-10-14T12:00:00',
     readTime: '6 min',
     draft: true,
-    excerpt: 'Luz verde, encarnada e branca. Descubra como saber a direção de uma embarcação na escuridão.',
+    excerpt: 'Entenda as cores e os setores das luzes de mastro, bordos e alcançado e saiba por que uma luz isolada não basta para definir uma manobra.',
     content: `
-Navegar à noite exige conhecimento absoluto das Luzes de Navegação (RIPEAM). Através delas, você sabe não apenas que há um barco por perto, mas também para onde ele está indo e se você tem a preferência.
+# Luzes de navegação no RIPEAM: como interpretar o que você vê
 
-## As Cores Básicas
-Toda embarcação a motor em movimento exibe obrigatoriamente:
-* **Luz de Bordo Bombordo (Esquerda):** Encarnada (Vermelha).
-* **Luz de Bordo Boreste (Direita):** Verde.
-* **Luz de Alcançado (Popa/Traseira):** Branca.
-* **Luz de Mastro (Proa/Frente):** Branca (aponta para frente).
+As luzes de navegação ajudam a identificar a **posição relativa e a situação** de uma embarcação. Mas uma cor vista à distância não conta a história inteira: antes de decidir como agir, você precisa observar o conjunto de luzes, o movimento da outra embarcação e o risco de abalroamento.
 
-## Lendo a Direção no Escuro
-Imagine estar navegando à noite e ver apenas as luzes de um barco ao longe. 
+O RIPEAM define os tipos de luzes e as condições em que devem ser exibidas. Elas são especialmente importantes entre o **pôr e o nascer do sol** e também podem ser exigidas durante o dia em **visibilidade restrita**.
 
-1. **Você vê apenas uma luz VERDE e uma BRANCA no alto:** Significa que você está vendo o lado de boreste do barco. Ele está cruzando da sua esquerda para a sua direita.
-2. **Você vê apenas uma luz ENCARNADA e uma BRANCA no alto:** Você vê o lado de bombordo do barco. Ele cruza da sua direita para a sua esquerda. (Nesse caso, ele está à sua direita, logo, **você deve desviar!**).
-3. **Você vê VERDE, ENCARNADA e BRANCA ao mesmo tempo:** Você está vendo a frente do barco. Ele está vindo diretamente na sua direção (Situação de Roda-a-Roda). Ambos devem desviar para boreste!
-4. **Você vê apenas UMA LUZ BRANCA:** Você está se aproximando do barco pela popa (traseira). É uma situação de ultrapassagem. A preferência é dele.
+## Quais são as luzes básicas?
 
-## Luzes Especiais
-Embarcações com restrição de manobra, pescando ou sem governo exibem luzes extras no mastro (ex: Duas luzes encarnadas na vertical significam barco "sem governo"). 
+A Regra 21 do RIPEAM define as seguintes luzes e seus setores horizontais de visibilidade:
 
-### Memorize com o ArraisPro
-No aplicativo **ArraisPro**, temos um simulado dedicado exclusivamente à identificação de luzes noturnas, com gráficos que facilitam muito o aprendizado. Baixe gratuitamente na Google Play Store.
+| Luz | Cor | Setor | O que indica |
+|---|---|---:|---|
+| Luz de mastro | Branca | 225° | Visível no setor voltado para vante |
+| Luz de boreste | Verde | 112,5° | Visível do lado de boreste |
+| Luz de bombordo | Encarnada (vermelha) | 112,5° | Visível do lado de bombordo |
+| Luz de alcançado | Branca | 135° | Visível no setor voltado para ré |
+
+Esses números descrevem **setores de visibilidade**, não a lista de luzes que toda embarcação deve exibir. A configuração exigida depende, entre outros fatores, do tipo, do porte e da condição da embarcação.
+
+## O que significa ver uma luz verde ou encarnada?
+
+Em uma situação típica de embarcação em movimento, ver a **luz verde de bordo** sugere que você está observando seu lado de **boreste**. Ver a **luz encarnada** sugere o lado de **bombordo**.
+
+Isso ajuda a entender a posição relativa, mas **não determina sozinho quem deve manobrar**. Para aplicar as regras de rumos cruzados, por exemplo, você ainda precisa identificar os tipos de embarcação, avaliar se elas estão no visual uma da outra e verificar se há risco de abalroamento.
+
+## Ver as duas luzes de bordo significa roda a roda?
+
+Ver **verde e encarnada** pode indicar que você observa a outra embarcação aproximadamente pela proa. Em uma embarcação de propulsão mecânica, outras luzes exibidas e o movimento observado ajudam a interpretar a situação.
+
+**Não decida a manobra apenas pelas cores.** A regra de roda a roda exige avaliar se duas embarcações de propulsão mecânica se aproximam de frente, ou quase de frente, **com risco de abalroamento**. Nessa situação, ambas devem guinar para boreste.
+
+## E se eu enxergar apenas uma luz branca?
+
+Uma única luz branca **não permite concluir automaticamente** que você está alcançando outra embarcação. Ela pode corresponder a diferentes luzes e situações, dependendo da embarcação.
+
+Na ultrapassagem, a Regra 13 descreve a aproximação pelo setor de ré da embarcação alcançada: à noite, a embarcação que se aproxima pode ver sua **luz de alcançado**, sem avistar as luzes de bordo. Mas, se você ainda não identificou que se trata dessa situação, **não trate qualquer luz branca isolada como confirmação de ultrapassagem**.
+
+Continue observando a marcação, a distância e as demais informações disponíveis. Se houver dúvida sobre estar ultrapassando, aplique a cautela prevista para a embarcação alcançadora.
+
+## As regras são iguais para embarcações pequenas?
+
+Não necessariamente. O RIPEAM prevê configurações específicas para diferentes embarcações, inclusive alternativas para certas embarcações menores. Há também regras próprias para embarcações a vela, a remo, fundeadas ou em outras condições.
+
+Por isso, a forma mais segura de estudar é separar duas perguntas:
+
+1. **O que cada luz significa e qual é seu setor?**
+2. **Quais luzes aquela embarcação deve exibir naquela situação?**
+
+**Atenção para Motonauta:** reconhecer luzes de outras embarcações faz parte do estudo de segurança, mas isso **não autoriza navegar de moto aquática à noite**. A NORMAM-212/DPC restringe sua condução ao período entre o nascer e o pôr do sol.
+
+## Pratique a identificação com contexto
+
+Ao resolver uma questão, observe quais luzes aparecem, qual é o tipo de embarcação descrito e se ela está em movimento ou fundeada. Só depois avalie qual regra de navegação se aplica.
+
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para praticar esses cenários e acompanhar seu desempenho.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
     `
   },
   {
     id: 16,
     slug: 'classes-de-incendio-a-bordo',
-    title: 'Classes de Incêndio a Bordo: O que todo marinheiro deve saber',
+    title: 'Classes de incêndio a bordo: A, B e C',
     date: '2026-10-18T12:00:00',
     readTime: '5 min',
     draft: true,
-    excerpt: 'Sabe a diferença entre fogo Classe A, B e C? Conhecer as classes de incêndio pode salvar sua vida em alto mar.',
+    excerpt: 'Entenda as classes A, B e C de incêndio previstas na NORMAM-211 para embarcações de esporte e recreio e saiba por que a escolha do extintor importa.',
     content: `
-Um incêndio a bordo de uma embarcação é uma das piores emergências possíveis, pois você não tem para onde fugir a não ser para a água. Na prova de Arrais Amador, o Combate a Incêndio é cobrado rigorosamente, começando pela identificação do tipo de fogo.
+# Classes de incêndio a bordo: como diferenciar A, B e C
 
-## Classe A: Materiais Sólidos
-São incêndios em materiais que deixam resíduos (cinzas). 
-* **Exemplos:** Madeira, papel, tecido, fibra de vidro, estofamentos da lancha.
-* **Características:** Queimam na superfície e em profundidade.
+Em uma embarcação, reconhecer **o que está queimando** é importante para avaliar o perigo e não usar um agente extintor inadequado. Para embarcações de esporte e recreio, a **NORMAM-211/DPC considera as classes A, B e C** ao tratar dos extintores de incêndio.
 
-## Classe B: Líquidos Inflamáveis
-É o tipo mais comum e perigoso em embarcações a motor.
-* **Exemplos:** Gasolina, óleo diesel, graxa, tintas.
-* **Características:** Queimam apenas na superfície e não deixam cinzas. O fogo se espalha rápido.
+Este guia explica essas três classes em linguagem simples. Ele é material de estudo: **não substitui treinamento, o plano de segurança da embarcação nem a avaliação das condições reais de um incêndio**.
 
-## Classe C: Equipamentos Elétricos Energizados
-Ocorrem em materiais que estão ligados à corrente elétrica.
-* **Exemplos:** Rádio VHF, painel de instrumentos, quadro de disjuntores, baterias ligadas.
-* **Características:** O grande perigo aqui é o choque elétrico. O ideal é cortar a energia primeiro; ao fazer isso, o incêndio pode passar para a Classe A.
+## Classe A: materiais sólidos
 
-## Classe D: Metais Pirofóricos
-Incêndios que ocorrem em ligas metálicas (magnésio, potássio, alumínio em pó). São muito raros em lanchas de esporte e recreio, sendo mais comuns na aviação e na indústria.
+A Classe A envolve o fogo em **materiais sólidos que deixam resíduos** após a queima. A NORMAM-211 cita, entre os exemplos, madeira, papel, almofadas, fibra de vidro, borracha e plásticos.
 
-### Por que isso é importante?
-Jogar água em um incêndio Classe B (gasolina) pode espalhar o fogo. Jogar água em Classe C pode eletrocutar você. Você precisa saber combinar as Classes com os extintores corretos. 
-Pratique essas combinações direto no seu celular com os quizzes gratuitos do **ArraisPro**.
+Em uma questão, procure identificar o **material combustível**. Um banco estofado ou um objeto de madeira em chamas não se classifica pela parte da embarcação em que está instalado, mas pelo que efetivamente está queimando.
+
+## Classe B: líquidos, gases e graxas combustíveis
+
+A Classe B compreende o fogo em **líquidos, gases e graxas combustíveis ou inflamáveis**. Combustível e outros produtos inflamáveis a bordo exigem atenção especial porque podem alimentar ou propagar o incêndio.
+
+**Não aplique um jato direto de água sobre líquido inflamável em chamas:** além de não ser o agente apropriado para essa situação, ele pode espalhar o combustível. O agente extintor precisa ser adequado à classe de fogo e às condições de segurança.
+
+## Classe C: equipamentos elétricos energizados
+
+A Classe C envolve **equipamentos e instalações elétricas enquanto estão energizados**. O risco elétrico é essencial na escolha de como responder ao incêndio.
+
+Se for possível **desligar a alimentação elétrica com segurança**, isso elimina a condição de equipamento energizado — mas **não apaga automaticamente o fogo**. Reavalie o que continua queimando: um material sólido pode apresentar características de Classe A; se houver combustível líquido ou outro material inflamável envolvido, a avaliação será diferente. Também não presuma que desligar um interruptor tenha eliminado toda a energia presente.
+
+**Não use água em equipamento que possa continuar energizado.** Diante de um incêndio real, priorize a segurança das pessoas, acione ajuda e não tente combatê-lo se isso colocar você ou outras pessoas em risco.
+
+## E a Classe D?
+
+A **Classe D** diz respeito a incêndios em **metais combustíveis específicos** e pode exigir agentes extintores especiais. É uma classificação existente na literatura de combate a incêndio, mas **não integra a lista de classes A, B e C apresentada no item 4.27.2 da NORMAM-211/DPC** para os extintores tratados nesse ponto.
+
+Para a preparação de Arrais-Amador, concentre a revisão na classificação e na dotação de extintores previstas no programa e na norma aplicáveis à sua categoria. Não escolha um agente para um fogo em metal com base apenas na sigla “pó químico”: o produto precisa ser apropriado ao metal e ao cenário.
+
+## Como estudar esse assunto?
+
+Ao resolver uma questão, faça duas perguntas:
+
+1. **O que está queimando?** Material sólido, combustível líquido/gasoso ou equipamento elétrico?
+2. **O equipamento está energizado?** Essa condição é decisiva para reconhecer a Classe C e o risco elétrico.
+
+Depois, confira a explicação e volte à regra correspondente. Saber a letra da classe é útil; entender **por que ela se aplica** é mais importante para responder bem e navegar com segurança.
+
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para revisar temas de segurança.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
     `
   },
   {
     id: 17,
     slug: 'uso-de-extintores-em-lanchas',
-    title: 'Uso de Extintores em Lanchas: Qual usar para qual fogo?',
+    title: 'Extintores para lanchas: água, espuma, CO₂ ou pó?',
     date: '2026-10-21T12:00:00',
     readTime: '6 min',
     draft: true,
-    excerpt: 'Água, Espuma, CO2 ou Pó Químico? Aprenda a escolher o extintor certo para cada classe de incêndio a bordo.',
+    excerpt: 'Entenda para quais classes de incêndio são indicados os extintores de água, espuma, CO₂ e pó químico e como conferir a dotação da embarcação.',
     content: `
-No artigo anterior, vimos as Classes de Incêndio (A, B, C e D). Agora, vamos entender qual a "arma" correta para usar contra cada tipo de fogo dentro da sua embarcação, segundo a NORMAM e o edital da Marinha.
+# Extintores para lanchas: qual é adequado a cada classe de incêndio?
 
-## Extintor de Água
-Atua por **resfriamento**.
-* **Uso exclusivo em:** Classe A (Madeira, tecidos, estofamentos).
-* **Proibição fatal:** NUNCA use água em Classe C (Risco de choque elétrico severo) nem em Classe B (Espalha o combustível inflamável).
+**Não existe um extintor certo para todo tipo de fogo a bordo.** Para reconhecer as indicações de cada equipamento, comece identificando a classe do incêndio e leia a **capacidade extintora marcada no próprio extintor**.
 
-## Extintor de Espuma
-Atua por **abafamento** (cria uma manta que impede a entrada de oxigênio).
-* **Excelente para:** Classe B (Líquidos inflamáveis, combustível).
-* **Também serve para:** Classe A.
-* **Proibição:** Não pode ser usado em Classe C, pois a espuma conduz eletricidade.
+Na NORMAM-211/DPC, as classes consideradas para os extintores tratados neste guia são:
 
-## Extintor de CO2 (Gás Carbônico)
-Atua por **abafamento** e secundariamente por resfriamento. Não deixa resíduos.
-* **Ideal para:** Classe C (Painéis elétricos, motor energizado). Como é um gás, não danifica os circuitos e não conduz eletricidade.
-* **Também serve para:** Classe B.
+- **Classe A:** materiais sólidos que deixam resíduos, como madeira e papel.
+- **Classe B:** líquidos, gases e graxas combustíveis ou inflamáveis.
+- **Classe C:** equipamentos e instalações elétricas energizados.
 
-## Extintor de Pó Químico Seco (PQS)
-Atua por abafamento e quebra da reação em cadeia.
-* **Uso:** Muito eficiente na Classe B (combustíveis) e também Classe C. No entanto, o pó deixa muita sujeira e pode danificar circuitos eletrônicos delicados se usado no painel.
+Este texto é um guia de estudo. Um incêndio real exige avaliar a segurança das pessoas, a possibilidade de afastamento e os recursos disponíveis; **não tente combatê-lo se isso colocar alguém em risco**.
 
-*Dica:* Todo barco deve possuir extintores rigorosamente na validade. Uma lancha pequena exige no mínimo um extintor do tipo B-1.
+## Extintor de água: Classe A
 
-### Não Decore. Treine!
-O **ArraisPro** tem um módulo inteiro de Combate a Incêndio onde você treina "Qual extintor apaga qual classe" até seu cérebro automatizar a resposta. Baixe agora e garanta sua aprovação!
+A água atua principalmente pelo **resfriamento**. Um extintor com carga de água é indicado para incêndios **Classe A**, conforme a capacidade extintora indicada em seu rótulo.
+
+**Não use água em equipamentos que possam estar energizados.** Também não dirija um jato de água a líquidos inflamáveis em chamas: ele pode espalhar o combustível e agravar a situação. A NORMAM-211 trata a Classe A como a classe em que a água pode ser empregada com segurança na classificação apresentada.
+
+## Extintor de espuma mecânica: Classes A e B
+
+A espuma mecânica forma uma camada sobre o combustível e também apresenta efeito de resfriamento. A NORMAM-211 prevê capacidade extintora para **Classes A e B** nesse tipo de equipamento.
+
+**Não a trate como agente adequado para equipamento elétrico energizado.** Antes de qualquer uso, confira a identificação do extintor e as condições reais do incêndio.
+
+## Extintor de CO₂: Classes B e C
+
+O **dióxido de carbono (CO₂)** pode ser empregado nas **Classes B e C** quando o extintor possui a classificação correspondente. Ele não deixa o resíduo de pó químico, o que pode ser uma consideração perto de equipamentos — mas isso **não é garantia de que não haverá danos** ao sistema atingido pelo fogo.
+
+Em compartimentos pequenos ou pouco ventilados, o CO₂ também oferece **risco às pessoas**. Não entre nem permaneça em um espaço perigoso para tentar salvar equipamentos.
+
+## Extintor de pó químico: confira se é BC ou ABC
+
+“Pó químico” não descreve, sozinho, todas as classes que o extintor atende. Confira a marcação:
+
+| Identificação | Classes indicadas |
+|---|---|
+| Pó **BC** | B e C |
+| Pó **ABC** | A, B e C |
+
+O pó pode deixar resíduos em componentes e superfícies. **Não escolha o agente apenas pelo desejo de preservar um painel eletrônico:** a segurança das pessoas e a adequação do extintor ao incêndio vêm primeiro.
+
+## Como ler a marcação do extintor?
+
+A combinação de **letras e números** no rótulo informa as classes de incêndio para as quais o extintor é indicado e sua **capacidade extintora**. Por exemplo, uma marcação que inclua **A, B e C** indica aptidão para essas classes; os números associados expressam a capacidade conforme ensaio específico.
+
+Não presuma que dois extintores com a mesma quantidade de quilos oferecem a mesma capacidade. **Confira a classificação completa, a homologação e as condições de manutenção do equipamento.**
+
+## Quantos extintores a lancha precisa levar?
+
+A resposta depende do **enquadramento e das características da embarcação**. A NORMAM-211/DPC traz quadros de equipamentos para cada área e porte de navegação e critérios específicos de **dotação e localização de extintores**.
+
+Por isso, não use uma fórmula como “lancha a motor = um B-1”. Antes de comprar ou substituir um extintor, verifique as exigências aplicáveis à **sua embarcação**, incluindo as informações do Título de Inscrição de Embarcação (TIE), a área para a qual está classificada e os itens pertinentes da norma.
+
+## Revise as classes antes da prova
+
+Para estudar, relacione o **material que está queimando**, a presença de **energia elétrica** e as **letras no rótulo** do extintor. Essa sequência é mais útil do que decorar que um único agente “serve para tudo”.
+
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para revisar temas de segurança.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
     `
   },
   {
     id: 18,
     slug: 'equipamentos-de-salvatagem-obrigatorios',
-    title: 'Equipamentos de Salvatagem Obrigatórios: O que a Marinha cobra?',
+    title: 'Coletes e boias obrigatórios na embarcação',
     date: '2026-10-24T12:00:00',
     readTime: '5 min',
     draft: true,
-    excerpt: 'Coletes, boias circulares, foguetes. Conheça o que não pode faltar na sua lancha (e o que a prova pergunta).',
+    excerpt: 'Saiba como a NORMAM-211 trata coletes, boias salva-vidas e sinais de socorro em embarcações de esporte e recreio.',
     content: `
-Equipamentos de salvatagem são a sua última linha de defesa caso ocorra um naufrágio ou acidente grave. Para a Capitania dos Portos liberar a navegação do seu barco e aprovar você na prova, esse assunto tem que estar na ponta da língua.
+# Coletes e boias salva-vidas: o que é obrigatório a bordo?
 
-## Coletes Salva-Vidas
-Todo barco deve ter **um colete salva-vidas aprovado pela DPC para cada passageiro a bordo**, no tamanho adequado (adulto ou criança).
-* **Classe V:** Os famosos coletes para esportes aquáticos, como andar de jet ski, banana boat ou wakeboard.
-* **Classe III:** Coletes para navegação interior (rios, lagos, canais).
-* **Classe II:** Navegação costeira.
-* **Classe I:** Navegação de mar aberto (oceânica).
+**A dotação de segurança não é igual para toda embarcação.** As exigências dependem de fatores como seu enquadramento, porte e classificação de navegação. Por isso, antes de montar uma lista de equipamentos, consulte o **Título de Inscrição de Embarcação (TIE)** e os quadros aplicáveis da **NORMAM-211/DPC**.
 
-## Boia Circular
-Embarcações a partir de 5 metros de comprimento, no mínimo, devem portar boias circulares. Para navegação no mar, elas devem vir acompanhadas de um **cabo de retenção/salvamento** flutuante (mínimo de 30 metros) e um dispositivo de iluminação automática para uso noturno.
+Para quem estuda para Arrais-Amador, é importante lembrar: a categoria habilita a condução **nos limites da navegação interior**. A dotação exigida para uma embarcação classificada para navegação costeira ou oceânica **não amplia a habilitação do condutor**.
 
-## Artefatos Pirotécnicos
-Para navegação de Mar Aberto, é obrigatório portar:
-* **Foguetes estrela vermelha com paraquedas** (para sinalizar socorro a grandes distâncias).
-* **Fachos manuais vermelhos** (para sinalizar socorro de perto).
-* **Sinais fumígenos flutuantes laranja** (sinalização diurna, cria uma fumaça densa e laranja na água).
+## Coletes salva-vidas: um para cada pessoa
 
-## Extintores de Incêndio
-As lanchas também devem carregar extintores, na quantidade e tipo corretos com base no comprimento da embarcação. Tudo deve estar dentro da validade.
+A dotação de coletes deve ser, no mínimo, **igual ao número total de pessoas a bordo**. Se houver crianças, é preciso prever coletes de **tamanho adequado** para elas. Os equipamentos devem atender às exigências de certificação, estar em boas condições e ser guardados de forma que possam ser acessados prontamente.
 
-### Como não errar na prova?
-O segredo é usar o **ArraisPro**. A nossa IA seleciona as perguntas que mais têm caído nas Capitanias do Brasil inteiro sobre Salvatagem e treina você nos pontos fracos. Baixe já e seja o próximo aprovado!
+A classe exigida não deve ser escolhida apenas pelo nome da habilitação do condutor. A NORMAM-211 relaciona a classe ao emprego e ao tipo da embarcação:
+
+| Emprego ou embarcação | Classes previstas na NORMAM-211 |
+|---|---|
+| Navegação oceânica | Classe I |
+| Navegação costeira | Classe II |
+| Embarcação miúda | Classe III ou V |
+| Embarcação de médio porte na navegação interior | Classe III ou V |
+| Embarcação de grande porte na navegação interior | Classe III |
+
+A **Classe IV** possui finalidade específica ligada a determinados trabalhos com risco de queda na água. Não a trate como substituta automática das classes exigidas para os passageiros de uma lancha.
+
+## Toda embarcação precisa levar boia salva-vidas?
+
+**Não. Embarcações miúdas são dispensadas de dotar boias salva-vidas** pela NORMAM-211. Portanto, uma regra como “a partir de 5 metros, toda embarcação precisa de boia circular” está errada.
+
+Para embarcações às quais a dotação se aplica, a quantidade varia com as características previstas na norma. As boias podem ser **circulares ou em formato de ferradura**, conforme o quadro correspondente. Exigências de **retinida flutuante** e **dispositivo de iluminação automática** também precisam ser verificadas para a embarcação e a classificação de navegação.
+
+**Exemplo:** uma embarcação miúda e uma embarcação de médio porte podem navegar na mesma área e, ainda assim, ter exigências diferentes de boias. O local da navegação, sozinho, não resolve a pergunta.
+
+## E os sinais de socorro?
+
+Os **artefatos pirotécnicos** incluem diferentes tipos de sinais, como fachos de luz, foguetes e sinais fumígenos. Sua dotação **não deve ser presumida igual para navegação interior, costeira e oceânica**: confira o quadro da NORMAM-211 aplicável à classificação da embarcação.
+
+Quando exigidos, verifique se os equipamentos estão em boas condições e dentro do prazo de validade. Não transporte um sinal vencido como se ele atendesse à dotação obrigatória.
+
+**Atenção:** levar equipamentos previstos para uma embarcação classificada para navegação costeira ou oceânica não autoriza um Arrais-Amador a conduzi-la fora dos limites de sua própria habilitação.
+
+## Como conferir a dotação da sua embarcação?
+
+Use esta sequência antes de comprar equipamentos ou sair para navegar:
+
+1. **Confira o TIE:** identifique a classificação da embarcação.
+2. **Identifique o porte:** verifique se ela se enquadra como miúda, médio porte ou grande porte na norma.
+3. **Consulte os quadros de dotação:** compare os requisitos de coletes, boias e sinais com o enquadramento encontrado.
+4. **Verifique cada item a bordo:** quantidade, classe, tamanho, certificação, estado de conservação, validade e local de guarda.
+5. **Confira sua habilitação:** os limites do condutor e a dotação da embarcação são exigências diferentes.
+
+A dotação normativa é um **mínimo**. O responsável pela embarcação também deve avaliar se os equipamentos são adequados à viagem e às pessoas a bordo.
+
+## Revise com o ArraisPro
+
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para revisar temas de segurança e salvatagem.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
     `
   },
   {
     id: 19,
     slug: 'abandono-de-embarcacao-regras-e-dicas',
-    title: 'Abandono de Embarcação: O que fazer quando tudo dá errado',
+    title: 'Abandono de Embarcação: Procedimentos de Sobrevivência',
     date: '2026-10-27T12:00:00',
     readTime: '5 min',
     draft: true,
-    excerpt: 'Quando abandonar o barco? Como pular na água? Aprenda os procedimentos corretos de sobrevivência.',
+    excerpt: 'Aprenda as regras essenciais de sobrevivência para o Abandono de Embarcação cobradas no exame, incluindo o salto correto e a fuga por barlavento.',
     content: `
-O comandante de uma embarcação deve tentar salvar seu barco ao máximo. Porém, quando o risco à vida humana torna-se iminente (fogo descontrolado ou naufrágio inevitável), o "Abandono de Embarcação" deve ser ordenado.
+# Abandono de Embarcação: O que fazer em emergências extremas
 
-Aqui estão os procedimentos clássicos exigidos na prova e na vida real.
+O comandante de uma embarcação deve tentar combater o perigo e salvar seu barco. Contudo, quando o risco à vida humana torna-se incontornável — como em incêndios descontrolados, alagamentos severos ou naufrágio iminente —, a ordem de "Abandono de Embarcação" deve ser dada.
 
-## 1. Só Pule em Último Caso
-A ordem para abandonar deve ser clara. Ninguém deve pular na água por impulso. Antes de abandonar, o comandante deve tentar emitir um pedido de socorro (MAYDAY) pelo rádio VHF Canal 16, informando as coordenadas de GPS.
+Conhecer os procedimentos corretos de abandono e sobrevivência é exigência tanto da teoria quanto da prática marinheira.
 
-## 2. Como Vestir o Colete
-Os passageiros devem vestir o colete salva-vidas e apertar bem as tiras. Um colete frouxo pode se deslocar durante a queda na água, causando traumas no pescoço ou asfixia.
+---
 
-## 3. Como Saltar na Água
-Para saltar no mar sem se machucar:
-* Segure as golas do colete para baixo com as mãos cruzadas sobre o peito.
-* Tape o nariz e a boca com a outra mão.
-* Mantenha as pernas esticadas e coladas uma à outra.
-* Pule "em pé" (como um prego). Nunca mergulhe de cabeça, pois pode haver destroços não visíveis na água.
+## 1. O Salto em Último Caso
+A ordem para abandonar deve partir expressamente do comandante. Antes do abandono, sempre que as condições permitirem, a embarcação deve acionar seus meios de comunicação (como rádio VHF ou sinais pirotécnicos) para solicitar socorro e informar a posição.
 
-## 4. Onde Saltar?
-Sempre abandone a embarcação por **barlavento** (o lado de onde o vento vem). Se você pular por sotavento, o vento empurrará o barco em chamas para cima de você.
+## 2. Preparação do Colete
+A regra número um antes de entrar na água é vestir o colete salva-vidas adequadamente e ajustá-lo firmemente ao corpo. Um colete folgado pode se deslocar na hora do impacto com a água, correndo o risco de machucar o pescoço do usuário ou prejudicar a flutuação.
 
-## 5. Mantenham-se Juntos
-Na água, os náufragos devem dar as mãos ou se amarrar. Um grupo é muito mais fácil de ser localizado pelo resgate aéreo do que uma pessoa isolada.
+## 3. A Técnica do Salto
+Para saltar da borda da embarcação para a água de forma segura, deve-se adotar uma postura defensiva:
+* **Proteja as vias aéreas:** Uma das mãos deve tapar o nariz e a boca.
+* **Trinque o colete:** A outra mão deve cruzar sobre o peito e segurar firmemente a alça/ombro oposto do colete, impedindo que ele suba no impacto.
+* **Corpo ereto:** As pernas devem estar esticadas, juntas e, de preferência, cruzadas na altura dos tornozelos.
+* **Entrada na água:** Pule sempre de pé ("de prego"). **Nunca mergulhe de cabeça**, pois a água abaixo pode conter destroços não visíveis, partes da embarcação ou bancos de areia rasos.
 
-### Simulados na Palma da Mão
-Baixe o aplicativo **ArraisPro** e veja ilustrações sobre Barlavento e Sotavento nas questões sobre abandono. A visualização é o segredo da aprovação!
+## 4. O Lado Correto: Salte por Barlavento
+Ao abandonar uma embarcação acidentada (especialmente se estiver em chamas ou derramando combustível), a regra cardinal de segurança é abandonar pelo lado de **barlavento** (o bordo de onde o vento está soprando).
+* Se você pular por *sotavento* (para onde o vento sopra), a força do vento e da correnteza empurrará o barco em chamas, o combustível ou a fumaça tóxica diretamente para cima de você na água.
+
+## 5. Sobrevivência na Água
+Uma vez na água, os náufragos devem se afastar rapidamente da embarcação em perigo (evitando o efeito de sucção do naufrágio ou explosões) e, em seguida, manter-se agrupados (unidos em roda). Um grupo é mentalmente mais forte, preserva mais o calor corporal e é infinitamente mais fácil de ser avistado pelo resgate do que pessoas dispersas.
+
+Revisar esses conceitos salva vidas. O **ArraisPro** conta com quizzes e testes focados em situações de sobrevivência para manter o candidato afiado para a prova teórica.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não tem vínculo com a Marinha do Brasil.*
     `
   },
   {
     id: 20,
     slug: 'primeiros-socorros-no-mar-afogamento-e-hipotermia',
-    title: 'Primeiros Socorros no Mar: Afogamento e Hipotermia',
+    title: 'Afogamento e hipotermia: primeiros socorros a bordo',
     date: '2026-10-29T12:00:00',
     readTime: '6 min',
     draft: true,
-    excerpt: 'Lidando com os dois maiores riscos vitais na água. Aprenda os procedimentos básicos cobrados na prova de Arrais.',
+    excerpt: 'Entenda as primeiras prioridades diante de um afogamento ou suspeita de hipotermia: segurança no resgate, pedido de socorro e cuidados até a chegada de ajuda.',
     content: `
-Navegar afasta você de hospitais e bombeiros. Todo Arrais Amador e Motonauta deve conhecer os fundamentos de Primeiros Socorros no mar. A Marinha foca em duas ameaças críticas: Afogamento e Hipotermia.
+# Afogamento e hipotermia: noções de primeiros socorros a bordo
 
-## Afogamento (Asfixia por Líquidos)
-O afogamento priva o cérebro de oxigênio. Quando um náufrago é retirado da água desacordado, os primeiros socorros imediatos são vitais.
+Em uma emergência na água, **proteger quem presta socorro é a primeira prioridade**. Uma tentativa de resgate sem condições de segurança pode transformar uma vítima em duas.
 
-1. **Abertura das Vias Aéreas:** Coloque a vítima deitada de costas e incline a cabeça levemente para trás, erguendo o queixo. Isso solta a base da língua da garganta.
-2. **Checar a Respiração:** Ouça, sinta e veja se o peito infla (manobra "Ver, Ouvir e Sentir").
-3. **Reanimação Cardiopulmonar (RCP):** Caso a vítima não respire e não tenha pulso, inicie as compressões torácicas no centro do peito seguidas de insuflações (boca a boca), caso se sinta apto. Caso contrário, mantenha apenas as compressões ininterruptas até o socorro chegar.
+Este artigo apresenta noções iniciais para reconhecer afogamento e suspeita de hipotermia. **Não substitui um curso prático de primeiros socorros, treinamento em reanimação cardiopulmonar (RCP) ou orientação de profissionais de emergência.**
 
-## Hipotermia
-Hipotermia é a queda perigosa da temperatura corporal (abaixo de 35°C), muito comum em naufrágios prolongados, mesmo em águas consideradas "tropicais".
+## Afogamento: o que fazer primeiro?
 
-* **Sintomas:** Tremores severos, lábios e unhas arroxeadas, confusão mental, sonolência e perda de coordenação.
-* **O que fazer:** Tire a roupa molhada da vítima. Cubra-a com mantas térmicas e agasalhos. O aquecimento deve ser gradual, preferencialmente aquecendo o tronco, pescoço e axilas primeiro.
-* **O que NÃO fazer:** Não dê bebidas alcoólicas (isso causa falsa sensação de calor, mas acelera a perda térmica). Não faça massagem vigorosa nos membros para não retornar sangue frio rapidamente para o coração, o que pode causar parada cardíaca.
+Se alguém estiver em dificuldade na água, **peça ajuda imediatamente**. Use um meio de flutuação ou outro recurso de resgate disponível sem se expor a um risco que você não consegue controlar. Entre na água para socorrer alguém somente se tiver preparo e condições seguras para isso.
 
-### Conclua seus Estudos!
-Primeiros Socorros exigem memorização de passos lógicos. No **ArraisPro**, você treina as etapas de salvamento com simulados rápidos. **Baixe já o app na Google Play** e finalize sua preparação rumo à sonhada habilitação da Marinha do Brasil!
+Assim que a pessoa estiver em local seguro:
+
+1. **Verifique se responde e se respira normalmente.** Respiração ausente ou apenas movimentos respiratórios anormais exigem ação imediata.
+2. **Acione o socorro.** No Brasil, você pode buscar atendimento pelo **SAMU 192**, pelo **Corpo de Bombeiros 193** ou, em emergência de navegação, pelo **Salvamar 185** e pelo **canal 16 do rádio VHF**, quando disponível. Informe sua localização e o estado da vítima.
+3. **Se a pessoa não respirar normalmente, inicie RCP conforme seu treinamento e as instruções do serviço de emergência.** Em afogamento, as **ventilações de resgate são especialmente importantes**, pois a falta de oxigênio é a causa central da parada. Pessoas treinadas devem aplicá-las junto às compressões, conforme o protocolo aprendido.
+4. **Se você não souber ou não puder fazer ventilações, não deixe de ajudar.** Faça compressões torácicas e siga as orientações do atendente até a chegada da equipe de emergência.
+
+Se a pessoa estiver **inconsciente, mas respirando normalmente**, mantenha a via aérea desobstruída, observe continuamente sua respiração e siga a orientação do serviço de emergência. Mesmo quando a vítima parece ter melhorado, **sintomas após um episódio de submersão exigem avaliação de saúde**.
+
+**Não perca tempo tentando “tirar a água do pulmão” com manobras improvisadas.** Priorize respiração, RCP quando indicada e atendimento profissional.
+
+## Hipotermia: como reconhecer o risco?
+
+A **hipotermia** ocorre quando a temperatura central do corpo cai perigosamente. Ela pode surgir após exposição à água, ao vento e a roupas molhadas, mesmo quando o tempo não parece extremamente frio.
+
+Fique atento a **tremores, pele fria, dificuldade de coordenação, confusão, sonolência ou diminuição da resposta**. Uma pessoa muito fria que **para de tremer**, fica confusa ou apresenta respiração anormal precisa de ajuda médica urgente.
+
+## O que fazer diante de suspeita de hipotermia?
+
+- **Leve a pessoa para um local protegido**, se isso puder ser feito com segurança, e evite manuseá-la bruscamente.
+- **Retire roupas molhadas com cuidado**, se possível, seque a pessoa e substitua-as por roupas ou cobertores secos.
+- **Proteja-a do vento e da superfície fria**, cobrindo também a cabeça.
+- **Observe continuamente a consciência e a respiração** enquanto aguarda ajuda.
+- **Não ofereça bebidas alcoólicas.** Não ofereça nada pela boca se a pessoa estiver confusa, sonolenta ou não conseguir engolir com segurança.
+- **Não esfregue vigorosamente braços ou pernas** nem aplique calor intenso diretamente sobre a pele.
+
+Se a pessoa estiver inconsciente ou não respirar normalmente, **acione o socorro imediatamente** e siga as orientações de reanimação recebidas.
+
+## Como estudar primeiros socorros para a prova?
+
+Para Arrais-Amador e Motonauta, a preparação teórica deve ajudar você a reconhecer uma emergência e **não decorar uma sequência que substitua treinamento real**. Revise especialmente: segurança do socorrista, acionamento de ajuda, avaliação da respiração, papel das ventilações no afogamento e prevenção da perda adicional de calor.
+
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para revisar os temas previstos para os exames.
+
+[Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
+
+*O ArraisPro não presta atendimento médico, não substitui treinamento prático em primeiros socorros e não possui vínculo ou endosso da Marinha do Brasil.*
     `
   }
 ];
