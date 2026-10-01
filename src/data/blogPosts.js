@@ -4,7 +4,7 @@ export const blogPosts = [
     slug: 'diferenca-arrais-amador-e-motonauta',
     title: 'Qual a diferença entre Arrais Amador e Motonauta?',
     description: 'Entenda de uma vez por todas as diferenças entre as duas principais habilitações náuticas e descubra qual delas é a ideal para você.',
-    date: '2026-09-30',
+    date: '2026-01-15',
     author: 'Equipe ArraisPro',
     content: `
 # Qual a diferença entre Arrais Amador e Motonauta?
@@ -76,7 +76,7 @@ Com o aplicativo **ArraisPro**, você tem acesso a mais de 1.000 questões basea
     slug: 'passo-a-passo-carteira-arrais-amador-2026',
     title: 'Passo a passo atualizado para tirar a carteira de Arrais Amador (2026)',
     description: 'Um guia completo e simplificado com todas as etapas, documentos e aulas exigidas pela Marinha do Brasil neste ano.',
-    date: '2026-09-30',
+    date: '2026-02-10',
     author: 'Equipe ArraisPro',
     content: `
 # Passo a passo atualizado para tirar a carteira de Arrais Amador (2026)
@@ -123,7 +123,7 @@ Sendo aprovado, sua **CHA (Carteira de Habilitação de Amador)** será emitida.
     slug: 'quanto-custa-carteira-arrais-amador',
     title: 'Quanto custa tirar a carteira de Arrais Amador no Brasil?',
     description: 'Entenda todos os custos envolvidos: desde as taxas da Marinha até os valores médios cobrados pelas Escolas Náuticas.',
-    date: '2026-09-30',
+    date: '2026-03-05',
     author: 'Equipe ArraisPro',
     content: `
 # Quanto custa tirar a carteira de Arrais Amador no Brasil?
@@ -175,7 +175,7 @@ Na ponta do lápis, o investimento total para ter sua habilitação em 2026 fica
     slug: 'requisitos-idade-minima-arrais-motonauta',
     title: 'Idade mínima e requisitos para pilotar jet ski e lanchas',
     description: 'Saiba com que idade você ou seus filhos podem começar a pilotar e quais são os documentos exigidos pela Capitania dos Portos.',
-    date: '2026-09-30',
+    date: '2026-04-22',
     author: 'Equipe ArraisPro',
     content: `
 # Idade mínima e requisitos para pilotar jet ski e lanchas
@@ -219,7 +219,7 @@ Não corra riscos. Espere os 18 anos, matricule-se em uma escola náutica creden
     slug: 'multa-pilotar-barco-sem-habilitacao',
     title: 'Posso pilotar barco sem habilitação? Conheça os riscos e multas.',
     description: 'Entenda as severas consequências e as multas aplicadas pela Marinha para quem navega sem a carteira de Arrais ou Motonauta.',
-    date: '2026-09-30',
+    date: '2026-05-18',
     author: 'Equipe ArraisPro',
     content: `
 # Posso pilotar barco ou jet ski sem habilitação? Riscos e Multas.
@@ -270,7 +270,7 @@ Não estrague seu verão. Baixe o ArraisPro, prepare-se para a prova e navegue c
     slug: 'como-e-a-prova-da-marinha-arrais-amador',
     title: 'Como é a prova da Marinha para Arrais Amador? (Formato e regras)',
     description: 'Descubra como funciona o exame teórico, quantas questões tem, qual a nota de corte e o que você precisa levar no dia.',
-    date: '2026-09-30',
+    date: '2026-06-30',
     author: 'Equipe ArraisPro',
     content: \`
 # Como é a prova da Marinha para Arrais Amador?
@@ -321,7 +321,7 @@ A melhor forma de não ter surpresas no dia é treinar com o **ArraisPro**. Noss
     slug: 'simulado-arrais-amador-gratis-atualizado',
     title: 'Onde fazer o Simulado Arrais Amador grátis e atualizado?',
     description: 'Pare de usar PDFs velhos. Conheça a melhor plataforma online para testar seus conhecimentos antes da prova da Capitania.',
-    date: '2026-09-30',
+    date: '2026-07-12',
     author: 'Equipe ArraisPro',
     content: \`
 # Onde fazer o Simulado Arrais Amador grátis e atualizado?
@@ -361,7 +361,7 @@ Não coloque sua GRU e o seu tempo em risco. [Clique aqui para baixar o ArraisPr
     slug: 'questoes-mais-reprovam-prova-arrais-motonauta',
     title: 'As 10 questões que mais reprovam na prova de Arrais e Motonauta',
     description: 'Uma análise exclusiva dos erros mais comuns cometidos pelos candidatos no RIPEAM e no Balizamento Náutico.',
-    date: '2026-09-30',
+    date: '2026-08-05',
     author: 'Equipe ArraisPro',
     content: \`
 # As questões que mais reprovam na prova de Arrais e Motonauta
@@ -413,7 +413,7 @@ Não seja mais uma vítima das pegadinhas da banca examinadora. No **ArraisPro**
     slug: 'como-se-inscrever-capitania-dos-portos-prova',
     title: 'Como se inscrever na Capitania dos Portos para a prova teórica',
     description: 'Guia de despachante: como emitir a GRU, juntar os documentos e agendar o seu exame prático na Marinha sem dor de cabeça.',
-    date: '2026-09-30',
+    date: '2026-09-10',
     author: 'Equipe ArraisPro',
     content: \`
 # Como se inscrever na Capitania dos Portos para a prova teórica
@@ -464,7 +464,7 @@ Sempre pergunte: *"Qual será a data e a hora do meu exame?"* e exija o protocol
     slug: 'o-que-estudar-vespera-prova-marinha',
     title: 'O que estudar na véspera da prova da Marinha (Checklist final)',
     description: 'Faltam 24 horas para o exame. Veja quais temas revisar de última hora e o que fazer para garantir a calma e a aprovação.',
-    date: '2026-09-30',
+    date: '2026-09-28',
     author: 'Equipe ArraisPro',
     content: \`
 # O que estudar na véspera da prova da Marinha (Checklist)
