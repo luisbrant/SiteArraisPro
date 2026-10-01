@@ -684,5 +684,175 @@ Embarcações com restrição de manobra, pescando ou sem governo exibem luzes e
 ### Memorize com o ArraisPro
 No aplicativo **ArraisPro**, temos um simulado dedicado exclusivamente à identificação de luzes noturnas, com gráficos que facilitam muito o aprendizado. Baixe gratuitamente na Google Play Store.
     `
+  },
+  {
+    id: 16,
+    slug: 'classes-de-incendio-a-bordo',
+    title: 'Classes de Incêndio a Bordo: O que todo marinheiro deve saber',
+    date: '2026-10-18T12:00:00',
+    readTime: '5 min',
+    draft: true,
+    excerpt: 'Sabe a diferença entre fogo Classe A, B e C? Conhecer as classes de incêndio pode salvar sua vida em alto mar.',
+    content: `
+Um incêndio a bordo de uma embarcação é uma das piores emergências possíveis, pois você não tem para onde fugir a não ser para a água. Na prova de Arrais Amador, o Combate a Incêndio é cobrado rigorosamente, começando pela identificação do tipo de fogo.
+
+## Classe A: Materiais Sólidos
+São incêndios em materiais que deixam resíduos (cinzas). 
+* **Exemplos:** Madeira, papel, tecido, fibra de vidro, estofamentos da lancha.
+* **Características:** Queimam na superfície e em profundidade.
+
+## Classe B: Líquidos Inflamáveis
+É o tipo mais comum e perigoso em embarcações a motor.
+* **Exemplos:** Gasolina, óleo diesel, graxa, tintas.
+* **Características:** Queimam apenas na superfície e não deixam cinzas. O fogo se espalha rápido.
+
+## Classe C: Equipamentos Elétricos Energizados
+Ocorrem em materiais que estão ligados à corrente elétrica.
+* **Exemplos:** Rádio VHF, painel de instrumentos, quadro de disjuntores, baterias ligadas.
+* **Características:** O grande perigo aqui é o choque elétrico. O ideal é cortar a energia primeiro; ao fazer isso, o incêndio pode passar para a Classe A.
+
+## Classe D: Metais Pirofóricos
+Incêndios que ocorrem em ligas metálicas (magnésio, potássio, alumínio em pó). São muito raros em lanchas de esporte e recreio, sendo mais comuns na aviação e na indústria.
+
+### Por que isso é importante?
+Jogar água em um incêndio Classe B (gasolina) pode espalhar o fogo. Jogar água em Classe C pode eletrocutar você. Você precisa saber combinar as Classes com os extintores corretos. 
+Pratique essas combinações direto no seu celular com os quizzes gratuitos do **ArraisPro**.
+    `
+  },
+  {
+    id: 17,
+    slug: 'uso-de-extintores-em-lanchas',
+    title: 'Uso de Extintores em Lanchas: Qual usar para qual fogo?',
+    date: '2026-10-21T12:00:00',
+    readTime: '6 min',
+    draft: true,
+    excerpt: 'Água, Espuma, CO2 ou Pó Químico? Aprenda a escolher o extintor certo para cada classe de incêndio a bordo.',
+    content: `
+No artigo anterior, vimos as Classes de Incêndio (A, B, C e D). Agora, vamos entender qual a "arma" correta para usar contra cada tipo de fogo dentro da sua embarcação, segundo a NORMAM e o edital da Marinha.
+
+## Extintor de Água
+Atua por **resfriamento**.
+* **Uso exclusivo em:** Classe A (Madeira, tecidos, estofamentos).
+* **Proibição fatal:** NUNCA use água em Classe C (Risco de choque elétrico severo) nem em Classe B (Espalha o combustível inflamável).
+
+## Extintor de Espuma
+Atua por **abafamento** (cria uma manta que impede a entrada de oxigênio).
+* **Excelente para:** Classe B (Líquidos inflamáveis, combustível).
+* **Também serve para:** Classe A.
+* **Proibição:** Não pode ser usado em Classe C, pois a espuma conduz eletricidade.
+
+## Extintor de CO2 (Gás Carbônico)
+Atua por **abafamento** e secundariamente por resfriamento. Não deixa resíduos.
+* **Ideal para:** Classe C (Painéis elétricos, motor energizado). Como é um gás, não danifica os circuitos e não conduz eletricidade.
+* **Também serve para:** Classe B.
+
+## Extintor de Pó Químico Seco (PQS)
+Atua por abafamento e quebra da reação em cadeia.
+* **Uso:** Muito eficiente na Classe B (combustíveis) e também Classe C. No entanto, o pó deixa muita sujeira e pode danificar circuitos eletrônicos delicados se usado no painel.
+
+*Dica:* Todo barco deve possuir extintores rigorosamente na validade. Uma lancha pequena exige no mínimo um extintor do tipo B-1.
+
+### Não Decore. Treine!
+O **ArraisPro** tem um módulo inteiro de Combate a Incêndio onde você treina "Qual extintor apaga qual classe" até seu cérebro automatizar a resposta. Baixe agora e garanta sua aprovação!
+    `
+  },
+  {
+    id: 18,
+    slug: 'equipamentos-de-salvatagem-obrigatorios',
+    title: 'Equipamentos de Salvatagem Obrigatórios: O que a Marinha cobra?',
+    date: '2026-10-24T12:00:00',
+    readTime: '5 min',
+    draft: true,
+    excerpt: 'Coletes, boias circulares, foguetes. Conheça o que não pode faltar na sua lancha (e o que a prova pergunta).',
+    content: `
+Equipamentos de salvatagem são a sua última linha de defesa caso ocorra um naufrágio ou acidente grave. Para a Capitania dos Portos liberar a navegação do seu barco e aprovar você na prova, esse assunto tem que estar na ponta da língua.
+
+## Coletes Salva-Vidas
+Todo barco deve ter **um colete salva-vidas aprovado pela DPC para cada passageiro a bordo**, no tamanho adequado (adulto ou criança).
+* **Classe V:** Os famosos coletes para esportes aquáticos, como andar de jet ski, banana boat ou wakeboard.
+* **Classe III:** Coletes para navegação interior (rios, lagos, canais).
+* **Classe II:** Navegação costeira.
+* **Classe I:** Navegação de mar aberto (oceânica).
+
+## Boia Circular
+Embarcações a partir de 5 metros de comprimento, no mínimo, devem portar boias circulares. Para navegação no mar, elas devem vir acompanhadas de um **cabo de retenção/salvamento** flutuante (mínimo de 30 metros) e um dispositivo de iluminação automática para uso noturno.
+
+## Artefatos Pirotécnicos
+Para navegação de Mar Aberto, é obrigatório portar:
+* **Foguetes estrela vermelha com paraquedas** (para sinalizar socorro a grandes distâncias).
+* **Fachos manuais vermelhos** (para sinalizar socorro de perto).
+* **Sinais fumígenos flutuantes laranja** (sinalização diurna, cria uma fumaça densa e laranja na água).
+
+## Extintores de Incêndio
+As lanchas também devem carregar extintores, na quantidade e tipo corretos com base no comprimento da embarcação. Tudo deve estar dentro da validade.
+
+### Como não errar na prova?
+O segredo é usar o **ArraisPro**. A nossa IA seleciona as perguntas que mais têm caído nas Capitanias do Brasil inteiro sobre Salvatagem e treina você nos pontos fracos. Baixe já e seja o próximo aprovado!
+    `
+  },
+  {
+    id: 19,
+    slug: 'abandono-de-embarcacao-regras-e-dicas',
+    title: 'Abandono de Embarcação: O que fazer quando tudo dá errado',
+    date: '2026-10-27T12:00:00',
+    readTime: '5 min',
+    draft: true,
+    excerpt: 'Quando abandonar o barco? Como pular na água? Aprenda os procedimentos corretos de sobrevivência.',
+    content: `
+O comandante de uma embarcação deve tentar salvar seu barco ao máximo. Porém, quando o risco à vida humana torna-se iminente (fogo descontrolado ou naufrágio inevitável), o "Abandono de Embarcação" deve ser ordenado.
+
+Aqui estão os procedimentos clássicos exigidos na prova e na vida real.
+
+## 1. Só Pule em Último Caso
+A ordem para abandonar deve ser clara. Ninguém deve pular na água por impulso. Antes de abandonar, o comandante deve tentar emitir um pedido de socorro (MAYDAY) pelo rádio VHF Canal 16, informando as coordenadas de GPS.
+
+## 2. Como Vestir o Colete
+Os passageiros devem vestir o colete salva-vidas e apertar bem as tiras. Um colete frouxo pode se deslocar durante a queda na água, causando traumas no pescoço ou asfixia.
+
+## 3. Como Saltar na Água
+Para saltar no mar sem se machucar:
+* Segure as golas do colete para baixo com as mãos cruzadas sobre o peito.
+* Tape o nariz e a boca com a outra mão.
+* Mantenha as pernas esticadas e coladas uma à outra.
+* Pule "em pé" (como um prego). Nunca mergulhe de cabeça, pois pode haver destroços não visíveis na água.
+
+## 4. Onde Saltar?
+Sempre abandone a embarcação por **barlavento** (o lado de onde o vento vem). Se você pular por sotavento, o vento empurrará o barco em chamas para cima de você.
+
+## 5. Mantenham-se Juntos
+Na água, os náufragos devem dar as mãos ou se amarrar. Um grupo é muito mais fácil de ser localizado pelo resgate aéreo do que uma pessoa isolada.
+
+### Simulados na Palma da Mão
+Baixe o aplicativo **ArraisPro** e veja ilustrações sobre Barlavento e Sotavento nas questões sobre abandono. A visualização é o segredo da aprovação!
+    `
+  },
+  {
+    id: 20,
+    slug: 'primeiros-socorros-no-mar-afogamento-e-hipotermia',
+    title: 'Primeiros Socorros no Mar: Afogamento e Hipotermia',
+    date: '2026-10-29T12:00:00',
+    readTime: '6 min',
+    draft: true,
+    excerpt: 'Lidando com os dois maiores riscos vitais na água. Aprenda os procedimentos básicos cobrados na prova de Arrais.',
+    content: `
+Navegar afasta você de hospitais e bombeiros. Todo Arrais Amador e Motonauta deve conhecer os fundamentos de Primeiros Socorros no mar. A Marinha foca em duas ameaças críticas: Afogamento e Hipotermia.
+
+## Afogamento (Asfixia por Líquidos)
+O afogamento priva o cérebro de oxigênio. Quando um náufrago é retirado da água desacordado, os primeiros socorros imediatos são vitais.
+
+1. **Abertura das Vias Aéreas:** Coloque a vítima deitada de costas e incline a cabeça levemente para trás, erguendo o queixo. Isso solta a base da língua da garganta.
+2. **Checar a Respiração:** Ouça, sinta e veja se o peito infla (manobra "Ver, Ouvir e Sentir").
+3. **Reanimação Cardiopulmonar (RCP):** Caso a vítima não respire e não tenha pulso, inicie as compressões torácicas no centro do peito seguidas de insuflações (boca a boca), caso se sinta apto. Caso contrário, mantenha apenas as compressões ininterruptas até o socorro chegar.
+
+## Hipotermia
+Hipotermia é a queda perigosa da temperatura corporal (abaixo de 35°C), muito comum em naufrágios prolongados, mesmo em águas consideradas "tropicais".
+
+* **Sintomas:** Tremores severos, lábios e unhas arroxeadas, confusão mental, sonolência e perda de coordenação.
+* **O que fazer:** Tire a roupa molhada da vítima. Cubra-a com mantas térmicas e agasalhos. O aquecimento deve ser gradual, preferencialmente aquecendo o tronco, pescoço e axilas primeiro.
+* **O que NÃO fazer:** Não dê bebidas alcoólicas (isso causa falsa sensação de calor, mas acelera a perda térmica). Não faça massagem vigorosa nos membros para não retornar sangue frio rapidamente para o coração, o que pode causar parada cardíaca.
+
+### Conclua seus Estudos!
+Primeiros Socorros exigem memorização de passos lógicos. No **ArraisPro**, você treina as etapas de salvamento com simulados rápidos. **Baixe já o app na Google Play** e finalize sua preparação rumo à sonhada habilitação da Marinha do Brasil!
+    `
   }
 ];
