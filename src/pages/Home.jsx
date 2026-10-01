@@ -75,7 +75,7 @@ export default function Home() {
               Escolha sua categoria, revise os principais temas da prova e acompanhe sua evolução pelo celular com o ArraisPro.
             </p>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black leading-[1.05] tracking-tighter relative z-10">
-              Estude para a prova de <br className="hidden lg:block" />
+              Estude para a prova de{' '}
               <span className="bg-gradient-to-r from-blue-400 via-blue-300 to-cyan-300 bg-clip-text text-transparent drop-shadow-sm">Arrais-Amador e Motonauta</span>
             </h1>
             <p className="text-base sm:text-lg md:text-xl text-slate-300 leading-relaxed max-w-xl mx-auto md:mx-0 mt-4 relative z-10">
