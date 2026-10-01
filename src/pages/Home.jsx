@@ -16,8 +16,8 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 md:py-6 flex justify-between items-center">
           
           <div className="flex items-center">
-            {/* Logo ajustada para mobile: h-14 garante proporção mais premium */}
-            <img src="/logo.png" alt="ArraisPro Logo" className="h-14 md:h-16 lg:h-20 w-auto object-contain" />
+            {/* Logo ajustada com tamanho bem mais robusto (especialmente no desktop) */}
+            <img src="/logo.png" alt="ArraisPro Logo" className="h-16 md:h-20 lg:h-28 w-auto object-contain" />
           </div>
           
           {/* Menu Desktop */}

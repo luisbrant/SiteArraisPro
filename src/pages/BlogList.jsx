@@ -42,7 +42,7 @@ export default function BlogList() {
       <header className="bg-white border-b border-slate-200 shadow-sm py-6">
         <div className="max-w-4xl mx-auto px-6 flex justify-between items-center">
           <Link to="/">
-            <img src="/logo.png" alt="ArraisPro Logo" className="h-12 md:h-14 w-auto" />
+            <img src="/logo.png" alt="ArraisPro Logo" className="h-16 md:h-20 w-auto object-contain" />
           </Link>
           <Link to="/" className="text-blue-600 font-bold hover:text-blue-800 transition">
             &larr; Voltar ao site
