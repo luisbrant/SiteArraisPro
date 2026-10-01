@@ -60,7 +60,7 @@ export default function BlogList() {
         </p>
 
         <div className="grid gap-8">
-          {blogPosts.map((post) => (
+          {blogPosts.filter(post => !post.draft).map((post) => (
             <article key={post.id} className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200 hover:shadow-xl hover:-translate-y-1 transition duration-300">
               <p className="text-sm text-slate-500 font-medium mb-3">
                 {new Date(post.date + 'T12:00:00').toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' })}

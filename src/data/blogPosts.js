@@ -517,5 +517,172 @@ Prepare as suas roupas e documentos na noite anterior:
 
 Com tudo pronto, durma bem e confie na sua preparação. Se você bateu os 80% de acerto consistente nos simulados do **ArraisPro**, a aprovação é apenas um detalhe burocrático. Boa sorte e bons ventos!
 `
+  },
+  {
+    id: 11,
+    slug: 'ripeam-descomplicado-regras-ouro',
+    title: 'RIPEAM Descomplicado: Regras de Ouro para Não Bater no Mar',
+    date: '2026-10-05T12:00:00',
+    readTime: '6 min',
+    draft: true,
+    excerpt: 'O Regulamento Internacional para Evitar Abalroamentos no Mar (RIPEAM) é a "lei de trânsito" das águas. Entenda o essencial.',
+    content: `
+O **RIPEAM** (Regulamento Internacional para Evitar Abalroamentos no Mar) funciona como o Código de Trânsito para quem navega. Se você quer pilotar lanchas ou jet skis, conhecer essas regras é obrigatório para evitar acidentes (abalroamentos).
+
+Neste artigo, vamos simplificar as regras de ouro do RIPEAM.
+
+## 1. Mantenha Sempre Vigia
+A regra número um (Regra 5) exige que toda embarcação mantenha vigilância visual e auditiva constante. Não importa se você está navegando devagar em um dia ensolarado; você deve estar atento a outras embarcações, banhistas e obstáculos.
+
+## 2. Velocidade de Segurança
+A Regra 6 determina que você deve navegar a uma velocidade que permita tomar medidas adequadas e eficientes para evitar um abalroamento. 
+Para definir essa velocidade, considere:
+* Visibilidade (neblina, chuva).
+* Densidade do tráfego (muitos barcos ao redor).
+* Estado do mar e dos ventos.
+
+## 3. Risco de Abalroamento
+Como saber se há risco de bater em outro barco? A técnica mais usada é a **marcação visual**. Se você observa outro barco se aproximando e o ângulo dele em relação a você não muda (marcação constante) enquanto a distância diminui, **existe risco de colisão**.
+
+## 4. Manobras Claras e Antecipadas
+Se você precisa desviar (ceder passagem), faça isso **de forma clara e com bastante antecedência**. Pequenas alterações de rumo em cima da hora confundem o outro comandante e causam acidentes.
+
+### Estude pelo App!
+O RIPEAM é um dos temas que mais caem na prova de Arrais Amador. No **ArraisPro**, você encontra dezenas de questões ilustradas mostrando cenários reais de encontro entre barcos. **Baixe grátis** e teste seus conhecimentos!
+    `
+  },
+  {
+    id: 12,
+    slug: 'entendendo-o-balizamento-maritimo',
+    title: 'Entendendo o Balizamento Marítimo: Sinais que Você Precisa Conhecer',
+    date: '2026-10-07T12:00:00',
+    readTime: '7 min',
+    draft: true,
+    excerpt: 'Boias verdes e encarnadas (vermelhas)... O que elas significam? Descubra como funciona o sistema de balizamento.',
+    content: `
+O Sistema de Balizamento Marítimo é o conjunto de placas, boias e faróis que "desenham" as estradas na água. No Brasil, adotamos o sistema **IALA Região B**. Entender esse sistema é vital para não encalhar a sua lancha ou jet ski em bancos de areia.
+
+## IALA Região B: A Regra Básica
+A regra de ouro do IALA Região B (usado nas Américas) é entender quem fica de que lado quando estamos **entrando em um porto** (ou subindo um rio, vindo do mar):
+
+* **Boia Encarnada (Vermelha):** Fica a **boreste (direita)** do seu barco. Ela tem formato cônico e à noite pisca luz vermelha.
+* **Boia Verde:** Fica a **bombordo (esquerda)** do seu barco. Tem formato cilíndrico e à noite pisca luz verde.
+
+*Dica de prova:* "Entrando no porto, o encarnado fica a boreste".
+
+## Boias de Perigo Isolado
+São boias pretas com faixas horizontais encarnadas e duas esferas pretas no topo. Elas indicam que há um perigo (como uma pedra ou casco soçobrado) exatamente embaixo da boia, mas que as águas ao redor são seguras.
+
+## Águas Seguras
+Boias com faixas verticais brancas e encarnadas. Indicam que há águas navegáveis em torno de todo o sinal. São usadas como sinal de aproximação ou meio de canal.
+
+## Bifurcação de Canal
+Boias que indicam que o canal se divide. Elas possuem cores verde e vermelha misturadas. A cor da **faixa central** indica o canal secundário (o caminho que você NÃO deve dar preferência caso queira seguir pela via principal).
+
+### Fixe o Conteúdo
+Decorar boias pode ser chato, mas no app **ArraisPro** nós utilizamos simulados visuais. Você vê a imagem da boia e responde ao quiz. É a forma mais rápida de memorizar para a prova da Marinha!
+    `
+  },
+  {
+    id: 13,
+    slug: 'sinais-sonoros-navegacao',
+    title: 'Apitos e Sinais Sonoros: O "Pisca-Alerta" dos Barcos',
+    date: '2026-10-09T12:00:00',
+    readTime: '5 min',
+    draft: true,
+    excerpt: 'O que significa um apito curto? E dois? Aprenda a comunicação sonora obrigatória entre embarcações.',
+    content: `
+Na água não temos setas de direção nem luzes de freio (apenas luzes noturnas). De dia ou sob neblina, a comunicação de manobras é feita através de **sinais sonoros** (apitos ou buzinas). A prova da Marinha cobra muito esse tema!
+
+## Sinais de Manobra e Advertência
+A regra principal é baseada em "apitos curtos" (duração de cerca de 1 segundo).
+
+* **Um (1) apito curto:** "Estou guinando para boreste (direita)".
+* **Dois (2) apitos curtos:** "Estou guinando para bombordo (esquerda)".
+* **Três (3) apitos curtos:** "Estou dando máquinas atrás" (dando ré).
+* **Cinco (5) ou mais apitos curtos:** Sinal de dúvida ou perigo. "Não entendi suas intenções" ou "Atenção, estamos em rota de colisão!".
+
+## Sinais em Visibilidade Restrita (Neblina)
+Quando a neblina baixa, você não consegue ver outros barcos. A regra exige sinais prolongados (duração de 4 a 6 segundos).
+* Embarcação a motor em movimento: **1 apito longo a cada 2 minutos**.
+
+## Ultrapassagem em Canais Estreitos
+Se você precisa ultrapassar outro barco num canal apertado:
+* Dois apitos longos e um curto: "Tenciono ultrapassar por boreste".
+* Dois apitos longos e dois curtos: "Tenciono ultrapassar por bombordo".
+A embarcação alcançada deve concordar emitindo: um longo, um curto, um longo, um curto.
+
+### Baixe o ArraisPro
+Dominar os sinais sonoros exige repetição. No aplicativo **ArraisPro**, separamos um módulo apenas para Sinais Sonoros. Instale gratuitamente pela Google Play e comece a praticar.
+    `
+  },
+  {
+    id: 14,
+    slug: 'regras-de-preferencia-quem-passa-primeiro',
+    title: 'Regras de Preferência no Mar: Quem tem a prioridade?',
+    date: '2026-10-12T12:00:00',
+    readTime: '6 min',
+    draft: true,
+    excerpt: 'Veleiro ou Lancha? Quem vem da direita passa? Entenda definitivamente quem tem a preferência de passagem.',
+    content: `
+Diferente dos cruzamentos de trânsito onde temos semáforos, no mar as **Regras de Preferência** (RIPEAM) determinam de forma rígida quem deve desviar (embarcação paradora) e quem deve manter o rumo (embarcação que tem preferência).
+
+## 1. Roda a Roda (Bate-Frente)
+Quando duas lanchas se aproximam em rumos opostos (uma de frente para a outra), **ambas devem guinar para boreste (direita)**. Ninguém tem preferência.
+
+## 2. Rumos Cruzados
+Quando duas embarcações a motor cruzam seus caminhos, a embarcação que avista a outra pelo seu lado de **boreste (direita) deve desviar**.
+*Dica:* É exatamente igual à regra de cruzamentos sem sinalização no trânsito terrestre!
+
+## 3. Situação de Ultrapassagem
+A embarcação que está **sendo alcançada (ultrapassada) SEMPRE tem a preferência**. Quem está ultrapassando deve se manter fora do caminho, independentemente de ser um veleiro ou uma lancha.
+
+## A Hierarquia das Embarcações
+Quando não estamos falando apenas de lanchas cruzando, existe uma "hierarquia de privilégios" baseada na capacidade de manobra de cada barco. 
+A preferência geral segue esta ordem (o de baixo desvia do de cima):
+1. Embarcações sem governo (com pane no motor/leme).
+2. Embarcações com capacidade de manobra restrita (dragas, rebocadores).
+3. Embarcações engajadas na pesca (arrastões).
+4. **Veleiros (embarcações à vela).**
+5. **Embarcações a motor (lanchas, jet skis).**
+
+Portanto, um barco a motor deve **sempre** desviar de um veleiro!
+
+### Pratique para a Prova
+Questões sobre cruzamentos e hierarquia são presença confirmada na prova de Arrais Amador e Motonauta. No **ArraisPro**, nós temos todos os esquemas desenhados. Baixe o app e gabarite!
+    `
+  },
+  {
+    id: 15,
+    slug: 'luzes-de-navegacao-noturna',
+    title: 'Luzes de Navegação: Como identificar barcos à noite',
+    date: '2026-10-14T12:00:00',
+    readTime: '6 min',
+    draft: true,
+    excerpt: 'Luz verde, encarnada e branca. Descubra como saber a direção de uma embarcação na escuridão.',
+    content: `
+Navegar à noite exige conhecimento absoluto das Luzes de Navegação (RIPEAM). Através delas, você sabe não apenas que há um barco por perto, mas também para onde ele está indo e se você tem a preferência.
+
+## As Cores Básicas
+Toda embarcação a motor em movimento exibe obrigatoriamente:
+* **Luz de Bordo Bombordo (Esquerda):** Encarnada (Vermelha).
+* **Luz de Bordo Boreste (Direita):** Verde.
+* **Luz de Alcançado (Popa/Traseira):** Branca.
+* **Luz de Mastro (Proa/Frente):** Branca (aponta para frente).
+
+## Lendo a Direção no Escuro
+Imagine estar navegando à noite e ver apenas as luzes de um barco ao longe. 
+
+1. **Você vê apenas uma luz VERDE e uma BRANCA no alto:** Significa que você está vendo o lado de boreste do barco. Ele está cruzando da sua esquerda para a sua direita.
+2. **Você vê apenas uma luz ENCARNADA e uma BRANCA no alto:** Você vê o lado de bombordo do barco. Ele cruza da sua direita para a sua esquerda. (Nesse caso, ele está à sua direita, logo, **você deve desviar!**).
+3. **Você vê VERDE, ENCARNADA e BRANCA ao mesmo tempo:** Você está vendo a frente do barco. Ele está vindo diretamente na sua direção (Situação de Roda-a-Roda). Ambos devem desviar para boreste!
+4. **Você vê apenas UMA LUZ BRANCA:** Você está se aproximando do barco pela popa (traseira). É uma situação de ultrapassagem. A preferência é dele.
+
+## Luzes Especiais
+Embarcações com restrição de manobra, pescando ou sem governo exibem luzes extras no mastro (ex: Duas luzes encarnadas na vertical significam barco "sem governo"). 
+
+### Memorize com o ArraisPro
+No aplicativo **ArraisPro**, temos um simulado dedicado exclusivamente à identificação de luzes noturnas, com gráficos que facilitam muito o aprendizado. Baixe gratuitamente na Google Play Store.
+    `
   }
 ];

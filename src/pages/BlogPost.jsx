@@ -6,9 +6,11 @@ import { blogPosts } from '../data/blogPosts';
 
 export default function BlogPost() {
   const { slug } = useParams();
-  const post = blogPosts.find((p) => p.slug === slug);
+  
+  // Procura o post pelo slug, mas apenas se não for um rascunho (draft)
+  const post = blogPosts.find((p) => p.slug === slug && !p.draft);
 
-  if (!post) {
+  // Se não encontrou o post ou se for um rascunho, exibe tela de não encontrado
     return <Navigate to="/blog" replace />;
   }
 
