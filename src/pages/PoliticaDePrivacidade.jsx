@@ -23,7 +23,7 @@ export default function PoliticaDePrivacidade() {
 
       <main className="flex-1 max-w-3xl mx-auto px-6 py-16 w-full prose prose-slate">
         <h1 className="text-3xl font-black text-slate-900 mb-6">Política de Privacidade</h1>
-        <p className="text-sm text-slate-500 mb-8">Última atualização: Outubro de 2026</p>
+        <p className="text-sm text-slate-500 mb-8"><strong>Última atualização:</strong> outubro de 2026</p>
 
         <p className="mb-4 text-slate-600">A sua privacidade é importante para nós. É política do ArraisPro respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site e aplicativo.</p>
 
