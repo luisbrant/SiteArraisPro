@@ -272,7 +272,7 @@ Não estrague seu verão. Baixe o ArraisPro, prepare-se para a prova e navegue c
     description: 'Descubra como funciona o exame teórico, quantas questões tem, qual a nota de corte e o que você precisa levar no dia.',
     date: '2026-06-30',
     author: 'Equipe ArraisPro',
-    content: \`
+    content: `
 # Como é a prova da Marinha para Arrais Amador?
 
 O momento que mais gera ansiedade nos candidatos é, sem dúvida, o dia da prova teórica na Capitania dos Portos. Muitas pessoas têm medo de reprovar, mas a verdade é que, entendendo o formato do exame, o processo se torna muito mais tranquilo.
@@ -314,7 +314,7 @@ O conteúdo programático é definido pela NORMAM-211 (Arrais) e NORMAM-212 (Mot
 Antigamente, as provas eram corrigidas manualmente e demoravam dias. Hoje, muitas Capitanias utilizam provas eletrônicas (no computador) ou leitura óptica imediata. O resultado (Apto / Inapto) costuma sair na mesma hora ou, no máximo, em 48 horas no sistema.
 
 A melhor forma de não ter surpresas no dia é treinar com o **ArraisPro**. Nossos simulados seguem rigorosamente a estrutura da Marinha, acostumando seu cérebro ao formato de 40 questões!
-\`
+`
   },
   {
     id: 7,
@@ -323,7 +323,7 @@ A melhor forma de não ter surpresas no dia é treinar com o **ArraisPro**. Noss
     description: 'Pare de usar PDFs velhos. Conheça a melhor plataforma online para testar seus conhecimentos antes da prova da Capitania.',
     date: '2026-07-12',
     author: 'Equipe ArraisPro',
-    content: \`
+    content: `
 # Onde fazer o Simulado Arrais Amador grátis e atualizado?
 
 Se você perguntar a qualquer despachante náutico ou marinheiro experiente qual é o segredo para passar de primeira no exame da Marinha, a resposta será unânime: **Faça simulados!**
@@ -354,7 +354,7 @@ Para resolver esse problema, nós criamos o **ArraisPro**, a ferramenta definiti
 Nós sabemos que a qualidade do nosso material fala por si. Por isso, você pode baixar o ArraisPro gratuitamente na Google Play Store e já começar a resolver o simulado diagnóstico grátis para saber qual é o seu nível atual de conhecimento.
 
 Não coloque sua GRU e o seu tempo em risco. [Clique aqui para baixar o ArraisPro](#) e simule com inteligência!
-\`
+`
   },
   {
     id: 8,
@@ -363,7 +363,7 @@ Não coloque sua GRU e o seu tempo em risco. [Clique aqui para baixar o ArraisPr
     description: 'Uma análise exclusiva dos erros mais comuns cometidos pelos candidatos no RIPEAM e no Balizamento Náutico.',
     date: '2026-08-05',
     author: 'Equipe ArraisPro',
-    content: \`
+    content: `
 # As questões que mais reprovam na prova de Arrais e Motonauta
 
 Analisando a taxa de acertos de milhares de alunos dentro do **ArraisPro**, nós identificamos um padrão. Embora o conteúdo seja vasto, a esmagadora maioria dos candidatos erra questões baseadas em "pegadinhas" semânticas e luzes de navegação.
@@ -406,7 +406,7 @@ A Marinha adora perguntar quais luzes uma pequena embarcação a remo deve exibi
 ---
 
 Não seja mais uma vítima das pegadinhas da banca examinadora. No **ArraisPro**, nós temos filtros por "Nível Difícil" e "RIPEAM" para você treinar exaustivamente apenas essas questões até que elas fiquem óbvias!
-\`
+`
   },
   {
     id: 9,
@@ -415,7 +415,7 @@ Não seja mais uma vítima das pegadinhas da banca examinadora. No **ArraisPro**
     description: 'Guia de despachante: como emitir a GRU, juntar os documentos e agendar o seu exame prático na Marinha sem dor de cabeça.',
     date: '2026-09-10',
     author: 'Equipe ArraisPro',
-    content: \`
+    content: `
 # Como se inscrever na Capitania dos Portos para a prova teórica
 
 Você já completou as horas obrigatórias de aula prática na sua Escola Náutica. O que falta agora é dar entrada na documentação junto à Marinha do Brasil para realizar a prova teórica.
@@ -457,7 +457,7 @@ A maioria das Capitanias permite que você agende a data da prova no momento da 
 Sempre pergunte: *"Qual será a data e a hora do meu exame?"* e exija o protocolo de inscrição.
 
 **Pronto!** O processo burocrático acabou. Agora, a sua única missão é baixar o aplicativo **ArraisPro** e focar 100% na resolução de simulados até o dia do exame.
-\`
+`
   },
   {
     id: 10,
@@ -466,7 +466,7 @@ Sempre pergunte: *"Qual será a data e a hora do meu exame?"* e exija o protocol
     description: 'Faltam 24 horas para o exame. Veja quais temas revisar de última hora e o que fazer para garantir a calma e a aprovação.',
     date: '2026-09-28',
     author: 'Equipe ArraisPro',
-    content: \`
+    content: `
 # O que estudar na véspera da prova da Marinha (Checklist)
 
 Faltam apenas 24 horas para o seu exame na Capitania dos Portos. Você provavelmente já fez os simulados no app **ArraisPro**, já leu a apostila e já manobrou a lancha na aula prática. 
@@ -516,6 +516,6 @@ Prepare as suas roupas e documentos na noite anterior:
 *Lembrete Militar:* Capitanias não aceitam a entrada com shorts, bermudas, regatas ou chinelos, mesmo em cidades litorâneas quentes.
 
 Com tudo pronto, durma bem e confie na sua preparação. Se você bateu os 80% de acerto consistente nos simulados do **ArraisPro**, a aprovação é apenas um detalhe burocrático. Boa sorte e bons ventos!
-\`
+`
   }
 ];
