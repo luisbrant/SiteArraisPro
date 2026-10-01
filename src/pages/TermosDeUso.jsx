@@ -46,7 +46,7 @@ export default function TermosDeUso() {
         <p className="mb-4 text-slate-600">Não é permitida a reprodução, distribuição, disponibilização pública ou revenda não autorizada desses materiais, inclusive do PDF da apostila. Essa restrição não abrange conteúdos de terceiros ou materiais públicos sobre os quais o ArraisPro não detenha direitos.</p>
 
         <h2 className="text-xl font-bold mt-8 mb-4">6. Contato</h2>
-        <p className="mb-4 text-slate-600">Para dúvidas sobre estes Termos ou sobre o acesso ao aplicativo, utilize o canal de suporte informado no site e na página do ArraisPro na Google Play.</p>
+        <p className="mb-4 text-slate-600">Para dúvidas sobre estes Termos ou sobre o acesso ao aplicativo, entre em contato diretamente com a nossa equipe através do e-mail <strong>contato@arraispro.com.br</strong> ou na nossa página oficial na Google Play.</p>
       </main>
 
       <footer className="bg-slate-950 text-slate-400 py-8 text-center text-sm border-t border-slate-900 mt-auto">
