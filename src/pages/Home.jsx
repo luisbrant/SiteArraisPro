@@ -4,6 +4,27 @@ import '../App.css'; // ajustado import
 
 export default function Home() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [email, setEmail] = useState('');
+  const [leadStatus, setLeadStatus] = useState('idle'); // idle, loading, success
+
+  const handleLeadSubmit = (e) => {
+    e.preventDefault();
+    if (!email) return;
+    setLeadStatus('loading');
+    
+    // Simula envio de e-mail e faz o download automático após 1.5s
+    setTimeout(() => {
+      setLeadStatus('success');
+      // Dispara o download da amostra
+      const link = document.createElement('a');
+      link.href = '/Apostila_ArraisPro_Modulo1.pdf';
+      link.download = 'Apostila_ArraisPro_Modulo1.pdf';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }, 1500);
+  };
+
   return (
     <div className="min-h-screen font-sans text-slate-800 bg-white">
       <Helmet>
@@ -231,7 +252,7 @@ export default function Home() {
             <div className="bg-white p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
               <div className="w-14 h-14 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center mb-6 text-3xl shadow-inner border border-blue-100">🎯</div>
               <h3 className="font-black text-xl mb-4 text-slate-800 tracking-tight">Simulados</h3>
-              <p className="text-slate-600 leading-relaxed">Mais de 1.000 questões, com filtros por tema e por nível de dificuldade. Treine no exato formato do exame e avalie o seu desempenho instantaneamente.</p>
+              <p className="text-slate-600 leading-relaxed">Mais de 1.000 questões, com filtros por tema e por nível de dificuldade. Pratique com questões organizadas por tema e acompanhe seu desempenho.</p>
             </div>
 
             <div className="bg-white p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
@@ -384,24 +405,43 @@ export default function Home() {
           <p className="text-lg md:text-xl mb-8 text-blue-100 leading-relaxed">
             Baixe, gratuitamente, o <span className="font-bold text-white">1º Módulo da nossa Apostila ArraisPro</span>. É um material direto ao ponto para que você ateste a qualidade do conteúdo de apoio antes de tomar a sua decisão.
           </p>
-          <form className="flex flex-col sm:flex-row justify-center gap-3 max-w-xl mx-auto" onSubmit={(e) => e.preventDefault()}>
-            <input 
-              type="email" 
-              placeholder="Seu melhor e-mail" 
-              required 
-              className="px-5 py-4 rounded-xl text-slate-900 w-full focus:outline-none focus:ring-4 focus:ring-blue-400/50 shadow-lg font-medium"
-            />
-            <button 
-              type="submit" 
-              className="px-8 py-4 bg-slate-900 text-white font-bold rounded-xl hover:bg-slate-800 transition-colors whitespace-nowrap shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
-            >
-              Quero minha amostra grátis
-            </button>
-          </form>
-          <p className="text-sm mt-5 text-blue-200 font-medium flex items-center justify-center gap-1">
-            <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8V7a4 4 0 00-8 0v4h8z" /></svg>
-            Enviaremos o material para o seu e-mail imediatamente. Prometemos não enviar spam.
-          </p>
+          {leadStatus === 'success' ? (
+            <div className="bg-blue-700/50 p-6 rounded-2xl border border-blue-400 animate-fade-in-up">
+              <h3 className="text-2xl font-bold text-white mb-2">Tudo certo! 🎉</h3>
+              <p className="text-blue-100">
+                O arquivo já começou a baixar no seu dispositivo.<br />
+                Em um cenário real, você também receberia uma cópia no seu e-mail.
+              </p>
+              <a href="/Apostila_ArraisPro_Modulo1.pdf" target="_blank" rel="noopener noreferrer" className="inline-block mt-4 text-white font-bold underline hover:text-blue-200">
+                Clique aqui para baixar manualmente
+              </a>
+            </div>
+          ) : (
+            <>
+              <form className="flex flex-col sm:flex-row justify-center gap-3 max-w-xl mx-auto" onSubmit={handleLeadSubmit}>
+                <input 
+                  type="email" 
+                  placeholder="Seu melhor e-mail" 
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
+                  required 
+                  disabled={leadStatus === 'loading'}
+                  className="px-5 py-4 rounded-xl text-slate-900 w-full focus:outline-none focus:ring-4 focus:ring-blue-400/50 shadow-lg font-medium disabled:opacity-50"
+                />
+                <button 
+                  type="submit" 
+                  disabled={leadStatus === 'loading'}
+                  className="px-8 py-4 bg-slate-900 text-white font-bold rounded-xl hover:bg-slate-800 transition-colors whitespace-nowrap shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 disabled:opacity-75 disabled:cursor-wait"
+                >
+                  {leadStatus === 'loading' ? 'Enviando...' : 'Quero minha amostra grátis'}
+                </button>
+              </form>
+              <p className="text-sm mt-5 text-blue-200 font-medium flex items-center justify-center gap-1">
+                <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8V7a4 4 0 00-8 0v4h8z" /></svg>
+                O arquivo é disponibilizado imediatamente. Prometemos não enviar spam.
+              </p>
+            </>
+          )}
         </div>
       </section>
 
@@ -450,7 +490,7 @@ export default function Home() {
             Pronto para se preparar de <span className="text-blue-400">verdade</span> para o seu exame?
           </h2>
           <p className="text-lg text-slate-300 mb-8 leading-relaxed">
-            Tenha acesso imediato a simulados, trilhas gamificadas e a uma apostila completa de 8 módulos, desenvolvida rigorosamente com base no conteúdo programático oficial da Marinha — tudo na palma da sua mão. Baixe gratuitamente e comece agora mesmo.
+            Tenha acesso imediato a simulados, trilhas gamificadas e a uma apostila completa de 8 módulos, elaborada como material independente de apoio, com referência aos conteúdos aplicáveis às provas de Arrais-Amador e Motonauta — tudo na palma da sua mão. Baixe gratuitamente e comece agora mesmo.
           </p>
           <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=final_cta" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-3 bg-blue-600 hover:bg-blue-500 text-white font-bold py-4 px-10 rounded-full shadow-xl shadow-blue-600/30 transition text-lg">
             <svg className="w-6 h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M5 2.5v19l15.5-9.5L5 2.5zm2 3.8l9.8 5.7-9.8 5.7V6.3z"/></svg>
@@ -464,9 +504,9 @@ export default function Home() {
         <div className="max-w-6xl mx-auto flex flex-col items-center gap-6">
           <img src="/logo.png" alt="ArraisPro" className="h-10 opacity-60 hover:opacity-100 transition" />
           <div className="flex gap-6 justify-center">
-            <a href="#" className="hover:text-white transition">Termos de Uso</a>
-            <a href="#" className="hover:text-white transition">Política de Privacidade</a>
-            <a href="#" className="hover:text-white transition">Suporte</a>
+            <span className="hover:text-white transition cursor-not-allowed opacity-50" title="Página pendente de criação pelo proprietário">Termos de Uso</span>
+            <span className="hover:text-white transition cursor-not-allowed opacity-50" title="Página pendente de criação pelo proprietário">Política de Privacidade</span>
+            <span className="hover:text-white transition cursor-not-allowed opacity-50" title="Página pendente de criação pelo proprietário">Suporte</span>
           </div>
           <p className="max-w-xl mx-auto mt-4 text-xs opacity-60">
             Aviso legal: O ArraisPro é um aplicativo independente, de cunho estritamente educacional, criado para auxiliar os candidatos nos estudos. Não possuímos qualquer vínculo governamental com a Marinha do Brasil.
