@@ -63,7 +63,7 @@ export default function BlogList() {
           {blogPosts.map((post) => (
             <article key={post.id} className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200 hover:shadow-xl hover:-translate-y-1 transition duration-300">
               <p className="text-sm text-slate-500 font-medium mb-3">
-                {new Date(post.date).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' })}
+                {new Date(post.date + 'T12:00:00').toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' })}
               </p>
               <h2 className="text-2xl font-bold text-slate-900 mb-3 hover:text-blue-600 transition">
                 <Link to={`/blog/${post.slug}`}>{post.title}</Link>

@@ -41,7 +41,7 @@ export default function BlogPost() {
           <div className="flex items-center justify-center gap-4 text-sm text-slate-500 font-medium">
             <span>Por {post.author}</span>
             <span>•</span>
-            <span>{new Date(post.date).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' })}</span>
+            <span>{new Date(post.date + 'T12:00:00').toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' })}</span>
           </div>
         </div>
 
