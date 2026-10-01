@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <div className="min-h-screen font-sans text-slate-800 bg-white">
       <Helmet>
-        <title>ArraisPro | Simulados e Apostila para Arrais Amador e Motonauta</title>
-        <meta name="description" content="O ecossistema definitivo para a sua preparação: simulados alinhados ao conteúdo oficial, trilha gamificada e Apostila ArraisPro. Baixe sua amostra grátis." />
+        <title>Simulados para Arrais-Amador e Motonauta | ArraisPro</title>
+        <meta name="description" content="Prepare-se para as provas de Arrais-Amador e Motonauta com simulados, questões comentadas e apostila digital de apoio. Baixe o ArraisPro." />
       </Helmet>
 
       {/* 1. HEADER - OTIMIZADO PARA DESKTOP E MOBILE */}
@@ -30,7 +30,7 @@ export default function Home() {
             <a href="/blog" className="text-blue-600 font-bold hover:text-blue-800 transition">Blog</a>
             {/* Botão de CTA no desktop movido para dentro da nav para melhor alinhamento */}
             <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=header_cta" target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-500 text-white font-semibold py-2.5 px-6 rounded-full transition shadow-md whitespace-nowrap ml-4">
-              Baixe Grátis no Google Play
+              Baixar o ArraisPro grátis no Google Play
             </a>
           </nav>
           
@@ -57,7 +57,7 @@ export default function Home() {
             <a href="#faq" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Dúvidas</a>
             <a href="/blog" onClick={() => setIsMobileMenuOpen(false)} className="text-blue-600 font-bold hover:text-blue-800 transition block py-2">Blog ArraisPro</a>
             <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=header_cta" target="_blank" rel="noopener noreferrer" className="bg-blue-600 text-center text-white font-bold py-3.5 px-6 rounded-xl mt-4 shadow-lg active:scale-95 transition-transform">
-              Baixar App Grátis
+              Baixar o ArraisPro grátis no Google Play
             </a>
           </div>
         )}
@@ -71,13 +71,15 @@ export default function Home() {
             {/* Background Glow */}
             <div className="absolute -top-12 -left-12 w-64 h-64 bg-blue-500 rounded-full mix-blend-screen filter blur-[100px] opacity-30 animate-pulse pointer-events-none"></div>
             
+            <p className="text-xs sm:text-sm text-blue-300 font-medium mb-3 relative z-10 uppercase tracking-widest">
+              Escolha sua categoria, revise os principais temas da prova e acompanhe sua evolução pelo celular com o ArraisPro.
+            </p>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black leading-[1.05] tracking-tighter relative z-10">
-              Passe na prova de <br className="hidden lg:block" />
-              <span className="bg-gradient-to-r from-blue-400 via-blue-300 to-cyan-300 bg-clip-text text-transparent drop-shadow-sm">Arrais Amador e Motonauta</span> 
-              <br className="hidden lg:block" /> sem decoreba.
+              Estude para a prova de <br className="hidden lg:block" />
+              <span className="bg-gradient-to-r from-blue-400 via-blue-300 to-cyan-300 bg-clip-text text-transparent drop-shadow-sm">Arrais-Amador e Motonauta</span>
             </h1>
             <p className="text-base sm:text-lg md:text-xl text-slate-300 leading-relaxed max-w-xl mx-auto md:mx-0 mt-4 relative z-10">
-              O único aplicativo com mais de 1.000 questões comentadas e validadas, com material 100% atualizado e rigorosamente baseado no programa oficial da Marinha do Brasil <span className="whitespace-nowrap text-blue-300 font-medium">(NORMAM-211 e 212/DPC)</span>.
+              Prepare-se com simulados, questões comentadas, trilha de estudos e apostila digital de apoio para sua habilitação náutica. Conteúdo organizado com base no programa de estudos oficial <span className="whitespace-nowrap text-blue-300 font-medium">(NORMAM-211 e 212/DPC)</span>.
             </p>
             
             <div className="flex flex-col gap-3 mt-6 w-full items-center md:items-start relative z-10">
@@ -85,7 +87,7 @@ export default function Home() {
                 <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=hero_cta" target="_blank" rel="noopener noreferrer" className="group relative flex items-center justify-center gap-2 bg-gradient-to-r from-blue-600 to-blue-500 hover:from-blue-500 hover:to-blue-400 text-white font-bold py-4 px-8 rounded-xl transition-all duration-300 hover:scale-105 shadow-xl shadow-blue-500/40 w-full sm:w-auto text-lg overflow-hidden">
                   <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out"></div>
                   <svg className="w-6 h-6 relative z-10" viewBox="0 0 24 24" fill="currentColor"><path d="M5 2.5v19l15.5-9.5L5 2.5zm2 3.8l9.8 5.7-9.8 5.7V6.3z"/></svg>
-                  <span className="relative z-10">Baixe grátis</span>
+                  <span className="relative z-10">Baixar o ArraisPro grátis</span>
                 </a>
                 <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=hero_badge" target="_blank" rel="noopener noreferrer" className="hidden sm:block hover:scale-105 transition-transform duration-300">
                   <img alt="Disponível no Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" className="h-[68px]" />
@@ -100,7 +102,7 @@ export default function Home() {
               <div className="flex text-amber-400 text-base sm:text-lg">
                 ★★★★★
               </div>
-              <p><strong>Estude. Simule. Memorize. Navegue preparado.</strong></p>
+              <p><strong>Estude. Simule. Revise. Navegue preparado.</strong></p>
             </div>
           </div>
 
@@ -179,15 +181,15 @@ export default function Home() {
         <div className="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-3 gap-6 text-center divide-y sm:divide-y-0 sm:divide-x divide-blue-500/50">
           <div className="px-4 py-2 sm:py-0">
             <p className="text-3xl md:text-4xl font-black text-white mb-2">+1.000</p>
-            <p className="text-xs md:text-sm text-blue-100 font-medium">Questões Atualizadas</p>
+            <p className="text-xs md:text-sm text-blue-100 font-medium">Questões para praticar</p>
           </div>
           <div className="px-4 py-2 sm:py-0">
-            <p className="text-3xl md:text-4xl font-black text-white mb-2">100%</p>
-            <p className="text-xs md:text-sm text-blue-100 font-medium">Baseado no Edital Oficial</p>
+            <p className="text-3xl md:text-4xl font-black text-white mb-2">Programa</p>
+            <p className="text-xs md:text-sm text-blue-100 font-medium">Baseado na NORMAM</p>
           </div>
           <div className="px-4 py-2 sm:py-0">
             <p className="text-3xl md:text-4xl font-black text-white mb-2">15</p>
-            <p className="text-xs md:text-sm text-blue-100 font-medium">Temas Cobertos do Edital</p>
+            <p className="text-xs md:text-sm text-blue-100 font-medium">Temas para revisar</p>
           </div>
         </div>
       </section>
@@ -200,10 +202,10 @@ export default function Home() {
             Transparência Total
           </div>
           <h2 className="text-3xl md:text-4xl font-black text-slate-800 text-balance tracking-tighter">
-            Estude pelo programa oficial e otimize seu tempo
+            Estude por temas e acompanhe seu progresso
           </h2>
           <p className="text-base sm:text-lg text-slate-600 leading-relaxed mt-6 text-pretty">
-            Cansado de materiais desatualizados, gabaritos sem explicação e conteúdos espalhados em arquivos confusos? O ArraisPro resolve esse problema organizando a sua preparação em uma sequência clara: você estuda a teoria (atualizada pelas normas <span className="whitespace-nowrap">NORMAM-211 e 212/DPC</span>), pratica com mais de 1.000 questões, reforça a memória com <em>flashcards</em> e revisa os pontos em que errou. Nossa plataforma abrange as habilitações de Arrais Amador e Motonauta. Muito além de um PDF com respostas decoradas, nós explicamos o motivo de cada alternativa correta.
+            Cansado de materiais pouco claros e questões espalhadas em arquivos confusos? O ArraisPro ajuda na sua preparação organizando os estudos em uma sequência lógica: você lê a teoria de apoio (com base nas normas <span className="whitespace-nowrap">NORMAM-211 e 212/DPC</span>), pratica com simulados, reforça a memória com <em>flashcards</em> e revisa os pontos em que errou. Nossa plataforma abrange as habilitações de Arrais-Amador e Motonauta.
           </p>
           <div className="mt-8">
             <a href="#recursos" className="inline-flex items-center gap-2 text-blue-600 font-bold hover:text-blue-700 transition group">
@@ -217,7 +219,7 @@ export default function Home() {
       {/* 4. FEATURES */}
       <section id="recursos" className="py-24 px-6 bg-slate-50 scroll-mt-24">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-3xl md:text-4xl font-black text-center text-slate-800 mb-16 tracking-tight">Um ecossistema completo de estudos na palma da sua mão</h2>
+          <h2 className="text-3xl md:text-4xl font-black text-center text-slate-800 mb-16 tracking-tight">Simulados e questões para sua preparação</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             
             <div className="bg-white p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
@@ -235,7 +237,7 @@ export default function Home() {
             <div className="bg-white p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
               <div className="w-14 h-14 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center mb-6 text-3xl shadow-inner border border-blue-100">⚡</div>
               <h3 className="font-black text-xl mb-4 text-slate-800 tracking-tight">Flashcards</h3>
-              <p className="text-slate-600 leading-relaxed">Revisões dinâmicas para você memorizar luzes, sinais, regras, limites e os conceitos essenciais da navegação de forma definitiva.</p>
+              <p className="text-slate-600 leading-relaxed">Revisões dinâmicas para você reforçar a memorização de luzes, sinais, regras, limites e os conceitos essenciais da navegação de forma prática.</p>
             </div>
 
             <div className="bg-white p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
@@ -284,10 +286,10 @@ export default function Home() {
               Bônus Exclusivo da Versão Pro
             </div>
             <h2 className="text-3xl md:text-4xl font-black leading-tight text-balance tracking-tighter">
-              A apostila que completa o seu <span className="text-blue-400">ecossistema de estudos.</span>
+              Apostila digital ArraisPro
             </h2>
             <p className="text-lg text-slate-300 leading-relaxed text-pretty">
-              O conteúdo é a base da sua aprovação. Por isso, ao desbloquear o acesso Pro, você ganha o download da <strong>Apostila ArraisPro</strong>. São 152 páginas, divididas em 8 módulos, que abrangem legislação, manobras, RIPEAM, balizamento, segurança, primeiros socorros e meteorologia. Estruturada rigorosamente com base no conteúdo programático oficial do exame de habilitação, ela é o complemento ideal para a gamificação e os simulados do aplicativo. Juntos, esses recursos formam o ecossistema que já está ajudando a aprovar milhares de candidatos.
+              O conteúdo é essencial para a sua preparação. Por isso, ao desbloquear o acesso Pro, você ganha o download da <strong>Apostila ArraisPro</strong>. São 152 páginas, divididas em 8 módulos, que abrangem legislação, manobras, RIPEAM, balizamento, segurança, primeiros socorros e meteorologia. Estruturada com base no programa de estudos oficial do exame, ela é o complemento ideal para os simulados do aplicativo. Juntos, esses recursos formam o ecossistema de estudos que vai te apoiar no seu aprendizado.
             </p>
           </div>
         </div>
@@ -297,7 +299,7 @@ export default function Home() {
       <section id="preco" className="py-24 px-6 bg-slate-50 scroll-mt-24">
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-slate-800 mb-4 tracking-tighter">Investimento único com acesso vitalício.</h2>
+            <h2 className="text-3xl md:text-4xl font-black text-slate-800 mb-4 tracking-tighter">Baixe o ArraisPro</h2>
             <p className="text-slate-600 text-lg">Sem taxas de assinatura ou mensalidades. Pague apenas uma vez e obtenha acesso ilimitado a todo o ecossistema: simulados, gamificação e apostila completa.</p>
           </div>
 
@@ -380,7 +382,7 @@ export default function Home() {
         <div className="max-w-3xl mx-auto text-white">
           <h2 className="text-3xl font-black mb-4 tracking-tight">Gostaria de uma amostra do nosso material?</h2>
           <p className="text-lg md:text-xl mb-8 text-blue-100 leading-relaxed">
-            Baixe, gratuitamente, o <span className="font-bold text-white">1º Módulo da nossa Apostila Oficial</span>. É um material direto ao ponto para que você ateste a qualidade do ecossistema ArraisPro antes de tomar a sua decisão.
+            Baixe, gratuitamente, o <span className="font-bold text-white">1º Módulo da nossa Apostila ArraisPro</span>. É um material direto ao ponto para que você ateste a qualidade do conteúdo de apoio antes de tomar a sua decisão.
           </p>
           <form className="flex flex-col sm:flex-row justify-center gap-3 max-w-xl mx-auto" onSubmit={(e) => e.preventDefault()}>
             <input 
@@ -452,7 +454,7 @@ export default function Home() {
           </p>
           <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=final_cta" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-3 bg-blue-600 hover:bg-blue-500 text-white font-bold py-4 px-10 rounded-full shadow-xl shadow-blue-600/30 transition text-lg">
             <svg className="w-6 h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M5 2.5v19l15.5-9.5L5 2.5zm2 3.8l9.8 5.7-9.8 5.7V6.3z"/></svg>
-            Baixe Grátis no Google Play
+            Baixar o ArraisPro grátis no Google Play
           </a>
         </div>
       </section>
@@ -482,7 +484,7 @@ export default function Home() {
           className="flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-500 text-white font-bold py-3.5 rounded-xl shadow-lg shadow-blue-600/30 transition text-base w-full"
         >
           <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor"><path d="M5 2.5v19l15.5-9.5L5 2.5zm2 3.8l9.8 5.7-9.8 5.7V6.3z"/></svg>
-          Baixe grátis no Google Play
+          Baixar o ArraisPro grátis no Google Play
         </a>
       </div>
 

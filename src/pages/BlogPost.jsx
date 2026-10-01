@@ -19,12 +19,12 @@ export default function BlogPost() {
     <div className="min-h-screen bg-white font-sans text-slate-800 flex flex-col">
       <Helmet>
         <title>{post.title} | Blog ArraisPro</title>
-        <meta name="description" content={post.description} />
+        <meta name="description" content={post.excerpt} />
         <link rel="canonical" href={`https://www.arraispro.com.br/blog/${post.slug}`} />
         
         {/* Open Graph / Social Media */}
         <meta property="og:title" content={`${post.title} | Blog ArraisPro`} />
-        <meta property="og:description" content={post.description} />
+        <meta property="og:description" content={post.excerpt} />
         <meta property="og:type" content="article" />
         <meta property="og:url" content={`https://www.arraispro.com.br/blog/${post.slug}`} />
         <meta property="og:site_name" content="ArraisPro" />
@@ -35,10 +35,10 @@ export default function BlogPost() {
             "@context": "https://schema.org",
             "@type": "Article",
             "headline": post.title,
-            "description": post.description,
+            "description": post.excerpt,
             "author": {
               "@type": "Person",
-              "name": post.author
+              "name": post.author || "ArraisPro"
             },
             "publisher": {
               "@type": "Organization",
@@ -77,7 +77,7 @@ export default function BlogPost() {
             {post.title}
           </h1>
           <div className="flex items-center justify-center gap-4 text-sm text-slate-500 font-medium">
-            <span>Por {post.author}</span>
+            <span>Por {post.author || "ArraisPro"}</span>
             <span>•</span>
             <span>{new Date(post.date + 'T12:00:00').toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' })}</span>
           </div>
@@ -90,10 +90,10 @@ export default function BlogPost() {
 
         {/* CTA FINAL DO ARTIGO */}
         <div className="mt-20 bg-slate-50 border border-slate-200 rounded-3xl p-8 md:p-12 text-center">
-          <h3 className="text-2xl font-black text-slate-900 mb-4">Pronto para passar de primeira?</h3>
-          <p className="text-slate-600 mb-8 max-w-lg mx-auto">Baixe o aplicativo ArraisPro e tenha acesso ao maior banco de questões comentadas e simulados da Marinha.</p>
+          <h3 className="text-2xl font-black text-slate-900 mb-4">Pronto para testar seus conhecimentos?</h3>
+          <p className="text-slate-600 mb-8 max-w-lg mx-auto">Baixe o aplicativo ArraisPro e tenha acesso a milhares de questões comentadas e simulados para sua preparação.</p>
           <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=blog_footer" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-500 text-white font-bold py-4 px-8 rounded-full transition shadow-lg w-full sm:w-auto">
-            Baixar Grátis no Google Play
+            Baixar o ArraisPro grátis no Google Play
           </a>
         </div>
       </main>

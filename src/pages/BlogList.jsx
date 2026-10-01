@@ -7,13 +7,13 @@ export default function BlogList() {
   return (
     <div className="min-h-screen bg-slate-50 font-sans text-slate-800 flex flex-col">
       <Helmet>
-        <title>Blog ArraisPro | Dicas para Prova de Arrais Amador e Motonauta</title>
-        <meta name="description" content="O guia definitivo para passar no exame da Marinha. Simulados, diferença entre Arrais e Motonauta, dicas práticas e conteúdo 100% atualizado." />
+        <title>Blog ArraisPro | Dicas para Prova de Arrais-Amador e Motonauta</title>
+        <meta name="description" content="Guias e dicas para o exame da Marinha. Simulados, diferença entre Arrais-Amador e Motonauta, e conteúdo de apoio." />
         <link rel="canonical" href="https://www.arraispro.com.br/blog" />
         
         {/* Open Graph / Social Media */}
-        <meta property="og:title" content="Blog ArraisPro | Dicas para Prova de Arrais Amador e Motonauta" />
-        <meta property="og:description" content="O guia definitivo para passar no exame da Marinha. Simulados, diferença entre Arrais e Motonauta, dicas práticas e conteúdo 100% atualizado." />
+        <meta property="og:title" content="Blog ArraisPro | Dicas para Prova de Arrais-Amador e Motonauta" />
+        <meta property="og:description" content="Guias e dicas para o exame da Marinha. Simulados, diferença entre Arrais-Amador e Motonauta, e conteúdo de apoio." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.arraispro.com.br/blog" />
         <meta property="og:site_name" content="ArraisPro" />
@@ -24,7 +24,7 @@ export default function BlogList() {
             "@context": "https://schema.org",
             "@type": "Blog",
             "name": "Blog ArraisPro",
-            "description": "O guia definitivo para passar no exame da Marinha. Simulados, dicas de Arrais Amador e Motonauta.",
+            "description": "Guias e dicas para o exame da Marinha. Simulados, e orientações de Arrais-Amador e Motonauta.",
             "url": "https://www.arraispro.com.br/blog",
             "publisher": {
               "@type": "Organization",
@@ -53,10 +53,10 @@ export default function BlogList() {
       {/* CONTEÚDO PRINCIPAL */}
       <main className="flex-1 max-w-4xl mx-auto px-6 py-16 w-full">
         <h1 className="text-3xl md:text-4xl font-black text-slate-900 mb-4 tracking-tight">
-          Blog ArraisPro: Preparação para Arrais Amador e Motonauta
+          Blog ArraisPro: Preparação para Arrais-Amador e Motonauta
         </h1>
         <p className="text-lg text-slate-600 mb-12">
-          Guias, dicas exclusivas e tudo o que você precisa saber para passar de primeira no exame da Marinha e pilotar sua embarcação com segurança.
+          Guias, dicas e tudo o que você precisa saber para se preparar para o exame da Marinha e pilotar sua embarcação com segurança.
         </p>
 
         <div className="grid gap-8">
@@ -69,7 +69,7 @@ export default function BlogList() {
                 <Link to={`/blog/${post.slug}`}>{post.title}</Link>
               </h2>
               <p className="text-slate-600 mb-6 leading-relaxed">
-                {post.description}
+                {post.excerpt}
               </p>
               <Link 
                 to={`/blog/${post.slug}`} 
