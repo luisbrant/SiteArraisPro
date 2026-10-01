@@ -1,8 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Helmet } from 'react-helmet-async';
 import '../App.css'; // ajustado import
 
 export default function Home() {
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   return (
     <div className="min-h-screen font-sans text-slate-800 bg-white">
       <Helmet>
@@ -15,25 +16,50 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 md:py-6 flex justify-between items-center">
           
           <div className="flex items-center">
-            {/* Logo maior no desktop */}
-            <img src="/logo.png" alt="ArraisPro Logo" className="h-16 md:h-28 w-auto object-contain" />
+            {/* Logo menor no mobile para não quebrar layout */}
+            <img src="/logo.png" alt="ArraisPro Logo" className="h-10 md:h-16 lg:h-20 w-auto object-contain" />
           </div>
           
-          {/* Menu com fonte maior e mais espaçado para desktop */}
-          <nav className="hidden lg:flex gap-10 xl:gap-12 font-semibold text-slate-700 text-lg xl:text-xl">
+          {/* Menu Desktop */}
+          <nav className="hidden lg:flex gap-8 xl:gap-12 font-semibold text-slate-700 text-lg items-center">
             <a href="#recursos" className="hover:text-blue-600 transition">Recursos</a>
             <a href="#bonus" className="hover:text-blue-600 transition">Apostila</a>
             <a href="#preco" className="hover:text-blue-600 transition">Preço</a>
             <a href="#faq" className="hover:text-blue-600 transition">Dúvidas</a>
             <a href="/blog" className="text-blue-600 font-bold hover:text-blue-800 transition">Blog</a>
+            {/* Botão de CTA no desktop movido para dentro da nav para melhor alinhamento */}
+            <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=header_cta" target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-500 text-white font-semibold py-2.5 px-6 rounded-full transition shadow-md whitespace-nowrap ml-4">
+              Baixe Grátis no Google Play
+            </a>
           </nav>
           
-          {/* Botão de topo mais chamativo no desktop */}
-          <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=header_cta" target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-500 text-white font-semibold py-2 px-6 rounded-full transition shadow-md whitespace-nowrap">
-            Baixe Grátis no Google Play
-          </a>
-          
+          {/* Hamburger Icon para Mobile */}
+          <button 
+            className="lg:hidden p-2 text-slate-600 hover:text-blue-600 focus:outline-none"
+            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+            aria-label="Abrir menu"
+          >
+            {isMobileMenuOpen ? (
+              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg>
+            ) : (
+              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" /></svg>
+            )}
+          </button>
         </div>
+
+        {/* Menu Mobile Dropdown */}
+        {isMobileMenuOpen && (
+          <div className="lg:hidden absolute top-full left-0 w-full bg-white border-b border-slate-200 shadow-2xl flex flex-col py-4 px-6 gap-3 font-semibold text-slate-700 text-lg max-h-[80vh] overflow-y-auto z-50">
+            <a href="#recursos" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Recursos</a>
+            <a href="#bonus" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Apostila</a>
+            <a href="#preco" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Preço</a>
+            <a href="#faq" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Dúvidas</a>
+            <a href="/blog" onClick={() => setIsMobileMenuOpen(false)} className="text-blue-600 font-bold hover:text-blue-800 transition block py-2">Blog ArraisPro</a>
+            <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=header_cta" target="_blank" rel="noopener noreferrer" className="bg-blue-600 text-center text-white font-bold py-3.5 px-6 rounded-xl mt-4 shadow-lg active:scale-95 transition-transform">
+              Baixar App Grátis
+            </a>
+          </div>
+        )}
       </header>
 
       {/* 2. HERO SECTION */}
