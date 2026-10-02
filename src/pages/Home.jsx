@@ -420,7 +420,7 @@ export default function Home() {
               <h3 className="text-2xl font-bold text-white mb-2">Tudo certo! 🎉</h3>
               <p className="text-blue-100">
                 O arquivo já começou a baixar no seu dispositivo.<br />
-                Em um cenário real, você também receberia uma cópia no seu e-mail.
+                Enviamos também uma cópia de segurança para o seu e-mail.
               </p>
               <a href="/Apostila_ArraisPro_Modulo1.pdf" target="_blank" rel="noopener noreferrer" className="inline-block mt-4 text-white font-bold underline hover:text-blue-200">
                 Clique aqui para baixar manualmente
