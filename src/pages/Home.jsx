@@ -459,7 +459,7 @@ export default function Home() {
       <section className="py-24 px-6 bg-white border-t border-slate-100">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-black text-slate-800 mb-8 tracking-tighter text-center">Como o ArraisPro ajuda na sua preparação</h2>
-          <div className="flex flex-col gap-6 text-lg text-slate-600 leading-relaxed text-pretty">
+          <div className="flex flex-col gap-6 text-lg text-slate-600 leading-relaxed text-justify">
             <p>
               O ArraisPro reúne os recursos necessários para organizar a sua preparação para as provas teóricas de Arrais-Amador e Motonauta. Em vez de depender de materiais espalhados, você pode combinar simulados, questões comentadas, apostila digital e uma trilha de estudos gamificada para revisar os temas no seu próprio ritmo e identificar rapidamente quais assuntos merecem mais atenção antes do exame.
             </p>
