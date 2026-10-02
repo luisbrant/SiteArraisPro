@@ -63,22 +63,38 @@ export default function Home() {
   const [email, setEmail] = useState('');
   const [leadStatus, setLeadStatus] = useState('idle'); // idle, loading, success
 
-  const handleLeadSubmit = (e) => {
+  const handleLeadSubmit = async (e) => {
     e.preventDefault();
     if (!email) return;
     setLeadStatus('loading');
     
-    // Simula envio de e-mail e faz o download automático após 1.5s
-    setTimeout(() => {
-      setLeadStatus('success');
-      // Dispara o download da amostra
-      const link = document.createElement('a');
-      link.href = '/Apostila_ArraisPro_Modulo1.pdf';
-      link.download = 'Apostila_ArraisPro_Modulo1.pdf';
-      document.body.appendChild(link);
-      link.click();
-      document.body.removeChild(link);
-    }, 1500);
+    try {
+      // Envia silenciosamente o e-mail coletado para o contato@arraispro.com.br
+      await fetch("https://formsubmit.co/ajax/contato@arraispro.com.br", {
+        method: "POST",
+        headers: { 
+            "Content-Type": "application/json",
+            "Accept": "application/json"
+        },
+        body: JSON.stringify({
+            _subject: "Novo Lead - Amostra Grátis (ArraisPro)",
+            email: email,
+            _captcha: "false"
+        })
+      });
+    } catch (error) {
+      console.error("Erro ao salvar lead:", error);
+      // O fluxo de download não é bloqueado caso o serviço externo falhe
+    }
+
+    setLeadStatus('success');
+    // Dispara o download da amostra no navegador do usuário
+    const link = document.createElement('a');
+    link.href = '/Apostila_ArraisPro_Modulo1.pdf';
+    link.download = 'Apostila_ArraisPro_Modulo1.pdf';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
   };
 
   return (
@@ -419,8 +435,8 @@ export default function Home() {
             <div className="bg-blue-700/50 p-6 rounded-2xl border border-blue-400 animate-fade-in-up">
               <h3 className="text-2xl font-bold text-white mb-2">Tudo certo! 🎉</h3>
               <p className="text-blue-100">
-                O arquivo já começou a baixar no seu dispositivo.<br />
-                Enviamos também uma cópia de segurança para o seu e-mail.
+                O download da sua apostila já começou!<br />
+                Bom proveito e ótimos estudos.
               </p>
               <a href="/Apostila_ArraisPro_Modulo1.pdf" target="_blank" rel="noopener noreferrer" className="inline-block mt-4 text-white font-bold underline hover:text-blue-200">
                 Clique aqui para baixar manualmente
