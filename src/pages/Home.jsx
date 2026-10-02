@@ -549,7 +549,7 @@ export default function Home() {
             <Link to="/sobre" className="hover:text-white transition">Sobre o ArraisPro</Link>
             <Link to="/como-produzimos-o-conteudo" className="hover:text-white transition">Como produzimos o conteúdo</Link>
             <Link to="/politica-editorial" className="hover:text-white transition">Política Editorial</Link>
-            <Link to="/fontes-e-atualizacoes" className="hover:text-white transition">Fontes e Atualizações</Link>
+            <Link to="/fontes-e-atualizacoes" className="hover:text-white transition">Fontes e Referências</Link>
             <Link to="/politica-de-privacidade" className="hover:text-white transition">Política de Privacidade</Link>
             <Link to="/termos-de-uso" className="hover:text-white transition">Termos de Uso</Link>
             <Link to="/suporte" className="hover:text-white transition">Suporte</Link>
