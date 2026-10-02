@@ -478,22 +478,22 @@ export default function Home() {
             
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
               <h4 className="font-bold text-lg text-slate-800 mb-2">O aplicativo cobra alguma mensalidade?</h4>
-              <p className="text-slate-600">Não! Você investe R$ 39,90 uma única vez, de forma segura pela Play Store, e desbloqueia todo o ecossistema: simulados ilimitados, gamificação completa e o download da nossa apostila de 152 páginas. O acesso é seu para sempre.</p>
+              <p className="text-slate-600 text-justify">Não! Você investe R$ 39,90 uma única vez, de forma segura pela Play Store, e desbloqueia todo o ecossistema: simulados ilimitados, gamificação completa e o download da nossa apostila de 152 páginas. O acesso é seu para sempre.</p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
               <h4 className="font-bold text-lg text-slate-800 mb-2">O material serve também para a prova de Motonauta?</h4>
-              <p className="text-slate-600 text-pretty">Sim! Todo o nosso ecossistema — simulados, trilha de estudos gamificada e apostila — engloba o conteúdo programático das provas de Arrais Amador <span className="whitespace-nowrap">(NORMAM-211)</span> e de Motonauta <span className="whitespace-nowrap">(NORMAM-212)</span>, incluindo as regras específicas para moto aquática (jet ski).</p>
+              <p className="text-slate-600 text-justify">Sim! Todo o nosso ecossistema — simulados, trilha de estudos gamificada e apostila — engloba o conteúdo programático das provas de Arrais Amador <span className="whitespace-nowrap">(NORMAM-211)</span> e de Motonauta <span className="whitespace-nowrap">(NORMAM-212)</span>, incluindo as regras específicas para moto aquática (jet ski).</p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
               <h4 className="font-bold text-lg text-slate-800 mb-2">O que a apostila aborda exatamente?</h4>
-              <p className="text-slate-600">O material possui 152 páginas, distribuídas em 8 módulos e 18 capítulos. Os temas incluem: trâmites para habilitação e prova, legislação náutica (LESTA/RLESTA), terminologia e manobra, motores e segurança, RIPEAM (com luzes e marcas), balizamento, comunicações, meteorologia e marés. Além disso, disponibilizamos um checklist para a véspera da prova e um glossário náutico de A a Z. O arquivo é um PDF digital com download imediato logo após a ativação da versão Pro.</p>
+              <p className="text-slate-600 text-justify">O material possui 152 páginas, distribuídas em 8 módulos e 18 capítulos. Os temas incluem: trâmites para habilitação e prova, legislação náutica (LESTA/RLESTA), terminologia e manobra, motores e segurança, RIPEAM (com luzes e marcas), balizamento, comunicações, meteorologia e marés. Além disso, disponibilizamos um checklist para a véspera da prova e um glossário náutico de A a Z. O arquivo é um PDF digital com download imediato logo após a ativação da versão Pro.</p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
               <h4 className="font-bold text-lg text-slate-800 mb-2">Como e onde eu realizo o pagamento?</h4>
-              <p className="text-slate-600">Todo o processo é feito de forma segura pela Google Play Store. Você baixa o ArraisPro gratuitamente, experimenta os simulados básicos e conhece a nossa gamificação. Quando se sentir confortável, pode desbloquear a versão Pro diretamente pelo aplicativo. Em apenas um clique, você libera os simulados ilimitados e a apostila completa.</p>
+              <p className="text-slate-600 text-justify">Todo o processo é feito de forma segura pela Google Play Store. Você baixa o ArraisPro gratuitamente, experimenta os simulados básicos e conhece a nossa gamificação. Quando se sentir confortável, pode desbloquear a versão Pro diretamente pelo aplicativo. Em apenas um clique, você libera os simulados ilimitados e a apostila completa.</p>
             </div>
 
           </div>
