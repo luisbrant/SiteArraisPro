@@ -26,20 +26,20 @@ export default function Sobre() {
         <h1 className="text-3xl md:text-4xl font-black text-slate-900 mb-6 tracking-tight">Sobre o ArraisPro</h1>
 
         <p className="text-lg text-slate-600 leading-relaxed mb-6">
-          O ArraisPro é uma plataforma independente de tecnologia educacional criada para apoiar a preparação teórica de candidatos às habilitações de Arrais-Amador e Motonauta.
+          O ArraisPro é uma plataforma independente de tecnologia educacional desenvolvida para apoiar a preparação teórica de candidatos às habilitações de Arrais-Amador e Motonauta.
         </p>
 
         <p className="text-lg text-slate-600 leading-relaxed mb-6">
-          Nosso objetivo é transformar conteúdos extensos de navegação, segurança e regulamentação em uma jornada de estudos mais clara e organizada. Para isso, reunimos recursos como apostila digital, simulados, questões comentadas, flashcards e trilhas de revisão, conforme a disponibilidade no aplicativo.
+          Nosso objetivo é tornar o estudo de temas como navegação, segurança e regulamentação mais claro e organizado. Para isso, o aplicativo reúne recursos de aprendizagem, como apostila digital, simulados, questões comentadas, flashcards e trilhas de revisão.
         </p>
 
         <p className="text-lg text-slate-600 leading-relaxed mb-10">
-          O ArraisPro foi desenvolvido para ajudar o aluno a praticar, retomar conceitos e identificar os assuntos que merecem mais atenção durante a preparação. O aplicativo não substitui o treinamento prático, os requisitos formais para habilitação nem as orientações da Autoridade Marítima.
+          O ArraisPro ajuda o aluno a praticar, revisar conceitos e identificar os assuntos que exigem mais atenção ao longo da preparação. O aplicativo não substitui treinamento prático, requisitos formais para habilitação ou orientações da Autoridade Marítima.
         </p>
 
         <h2 className="text-2xl font-bold text-slate-800 mb-4">Nossa proposta</h2>
         <p className="text-slate-600 leading-relaxed mb-10">
-          Estudar para uma habilitação náutica envolve temas técnicos, regras de navegação, segurança, sinalização e responsabilidades do condutor. O ArraisPro organiza esses assuntos em recursos de estudo que ajudam o candidato a avançar no próprio ritmo, sem depender de materiais espalhados ou difíceis de encontrar.
+          A preparação para uma habilitação náutica envolve temas técnicos, regras de navegação, segurança, sinalização e responsabilidades do condutor. O ArraisPro organiza esses conteúdos em uma jornada de estudos que permite avançar no próprio ritmo, com materiais reunidos em um só lugar.
         </p>
 
         <h2 className="text-2xl font-bold text-slate-800 mb-4">Independência e limites</h2>
