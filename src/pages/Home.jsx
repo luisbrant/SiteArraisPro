@@ -3,8 +3,63 @@ import { Helmet } from 'react-helmet-async';
 import { Link } from 'react-router-dom';
 import '../App.css'; // ajustado import
 
-export default function Home() {
+const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+
+  return (
+    <header className="sticky top-0 z-50 bg-white border-b border-slate-200 shadow-sm">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 md:py-6 flex justify-between items-center">
+        
+        <div className="flex items-center">
+          {/* Logo corrigido para não vazar a tela no mobile */}
+          <img src="/logo.png" alt="ArraisPro Logo" className="h-10 sm:h-12 md:h-14 lg:h-16 w-auto max-w-[200px] sm:max-w-xs object-contain" />
+        </div>
+        
+        {/* Menu Desktop */}
+        <nav className="hidden lg:flex gap-8 xl:gap-12 font-semibold text-slate-700 text-lg items-center">
+          <a href="#recursos" className="hover:text-blue-600 transition">Recursos</a>
+          <a href="#bonus" className="hover:text-blue-600 transition">Apostila</a>
+          <a href="#preco" className="hover:text-blue-600 transition">Preço</a>
+          <a href="#faq" className="hover:text-blue-600 transition">Dúvidas</a>
+          <a href="/blog" className="text-blue-600 font-bold hover:text-blue-800 transition">Blog</a>
+          {/* Botão de CTA no desktop movido para dentro da nav para melhor alinhamento */}
+          <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=header_cta" target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-500 text-white font-semibold py-2.5 px-6 rounded-full transition shadow-md whitespace-nowrap ml-4">
+            Baixar o ArraisPro grátis no Google Play
+          </a>
+        </nav>
+        
+        {/* Hamburger Icon para Mobile */}
+        <button 
+          className="lg:hidden p-2 text-slate-800 hover:text-blue-600 focus:outline-none transition-colors"
+          onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+          aria-label="Abrir menu"
+        >
+          {isMobileMenuOpen ? (
+            <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg>
+          ) : (
+            <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M4 6h16M4 12h16M4 18h16" /></svg>
+          )}
+        </button>
+      </div>
+
+      {/* Menu Mobile Dropdown */}
+      {isMobileMenuOpen && (
+        <div className="lg:hidden absolute top-full left-0 w-full bg-white border-b border-slate-200 shadow-2xl flex flex-col py-4 px-6 gap-3 font-semibold text-slate-700 text-lg max-h-[80vh] overflow-y-auto z-50">
+          <a href="#recursos" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Recursos</a>
+          <a href="#bonus" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Apostila</a>
+          <a href="#preco" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Preço</a>
+          <a href="#faq" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Dúvidas</a>
+          <a href="/blog" onClick={() => setIsMobileMenuOpen(false)} className="text-blue-600 font-bold hover:text-blue-800 transition block py-2">Blog ArraisPro</a>
+          <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=header_cta" target="_blank" rel="noopener noreferrer" className="bg-blue-600 text-center text-white font-bold py-3.5 px-6 rounded-xl mt-4 shadow-lg active:scale-95 transition-transform">
+            Baixar o ArraisPro grátis no Google Play
+          </a>
+        </div>
+      )}
+    </header>
+  );
+};
+
+export default function Home() {
   const [email, setEmail] = useState('');
   const [leadStatus, setLeadStatus] = useState('idle'); // idle, loading, success
 
@@ -30,61 +85,13 @@ export default function Home() {
     <div className="min-h-screen font-sans text-slate-800 bg-white">
       <Helmet>
         <title>Simulados para Arrais-Amador e Motonauta | ArraisPro</title>
-        <meta name="description" content="Prepare-se para as provas de Arrais-Amador e Motonauta com simulados, questões comentadas e apostila digital de apoio. Baixe o ArraisPro." />
+        <meta name="description" content="Estude para Arrais-Amador e Motonauta com simulados, questões comentadas, apostila e trilha de estudos. Baixe o ArraisPro." />
       </Helmet>
 
       <a href="#conteudo-principal" className="sr-only focus:not-sr-only bg-blue-600 text-white p-4 absolute z-[100] left-0 top-0">Ir para o conteúdo principal</a>
 
       {/* 1. HEADER - OTIMIZADO PARA DESKTOP E MOBILE */}
-      <header className="sticky top-0 z-50 bg-white border-b border-slate-200 shadow-sm">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 md:py-6 flex justify-between items-center">
-          
-          <div className="flex items-center">
-            {/* Logo gigante com espaço real na página para não vazar do cabeçalho */}
-            <img src="/logo.png" alt="ArraisPro Logo" className="h-32 md:h-40 lg:h-48 w-auto object-contain" />
-          </div>
-          
-          {/* Menu Desktop */}
-          <nav className="hidden lg:flex gap-8 xl:gap-12 font-semibold text-slate-700 text-lg items-center">
-            <a href="#recursos" className="hover:text-blue-600 transition">Recursos</a>
-            <a href="#bonus" className="hover:text-blue-600 transition">Apostila</a>
-            <a href="#preco" className="hover:text-blue-600 transition">Preço</a>
-            <a href="#faq" className="hover:text-blue-600 transition">Dúvidas</a>
-            <a href="/blog" className="text-blue-600 font-bold hover:text-blue-800 transition">Blog</a>
-            {/* Botão de CTA no desktop movido para dentro da nav para melhor alinhamento */}
-            <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=header_cta" target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-500 text-white font-semibold py-2.5 px-6 rounded-full transition shadow-md whitespace-nowrap ml-4">
-              Baixar o ArraisPro grátis no Google Play
-            </a>
-          </nav>
-          
-          {/* Hamburger Icon para Mobile */}
-          <button 
-            className="lg:hidden p-2 text-slate-800 hover:text-blue-600 focus:outline-none transition-colors"
-            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            aria-label="Abrir menu"
-          >
-            {isMobileMenuOpen ? (
-              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg>
-            ) : (
-              <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M4 6h16M4 12h16M4 18h16" /></svg>
-            )}
-          </button>
-        </div>
-
-        {/* Menu Mobile Dropdown */}
-        {isMobileMenuOpen && (
-          <div className="lg:hidden absolute top-full left-0 w-full bg-white border-b border-slate-200 shadow-2xl flex flex-col py-4 px-6 gap-3 font-semibold text-slate-700 text-lg max-h-[80vh] overflow-y-auto z-50">
-            <a href="#recursos" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Recursos</a>
-            <a href="#bonus" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Apostila</a>
-            <a href="#preco" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Preço</a>
-            <a href="#faq" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Dúvidas</a>
-            <a href="/blog" onClick={() => setIsMobileMenuOpen(false)} className="text-blue-600 font-bold hover:text-blue-800 transition block py-2">Blog ArraisPro</a>
-            <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=header_cta" target="_blank" rel="noopener noreferrer" className="bg-blue-600 text-center text-white font-bold py-3.5 px-6 rounded-xl mt-4 shadow-lg active:scale-95 transition-transform">
-              Baixar o ArraisPro grátis no Google Play
-            </a>
-          </div>
-        )}
-      </header>
+      <Header />
 
       <main id="conteudo-principal">
         {/* 2. HERO SECTION */}
@@ -434,7 +441,7 @@ export default function Home() {
                 <button 
                   type="submit" 
                   disabled={leadStatus === 'loading'}
-                  className="px-8 py-4 bg-slate-900 text-white font-bold rounded-xl hover:bg-slate-800 transition-colors whitespace-nowrap shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 disabled:opacity-75 disabled:cursor-wait"
+                  className="px-8 py-4 bg-slate-900 text-white font-bold rounded-xl hover:bg-slate-800 transition-colors shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 disabled:opacity-75 disabled:cursor-wait"
                 >
                   {leadStatus === 'loading' ? 'Enviando...' : 'Quero minha amostra grátis'}
                 </button>
@@ -445,6 +452,24 @@ export default function Home() {
               </p>
             </>
           )}
+        </div>
+      </section>
+
+      {/* 7.5 COMO O ARRAISPRO AJUDA (Conteúdo adicional SEO) */}
+      <section className="py-24 px-6 bg-white border-t border-slate-100">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-3xl md:text-4xl font-black text-slate-800 mb-8 tracking-tighter text-center">Como o ArraisPro ajuda na sua preparação</h2>
+          <div className="flex flex-col gap-6 text-lg text-slate-600 leading-relaxed text-pretty">
+            <p>
+              O aplicativo ArraisPro foi projetado para oferecer uma jornada de aprendizado contínua e eficiente. Seja você um iniciante buscando a habilitação de Arrais-Amador ou alguém que deseja estender seus conhecimentos para Motonauta, nossa plataforma adapta-se ao seu ritmo.
+            </p>
+            <p>
+              A nossa trilha de estudos gamificada guia você pelos módulos de legislação, marinharia, RIPEAM e balizamento. Em vez de ler materiais exaustivos e desorganizados, você avança por tópicos estruturados, consolidando o conhecimento através de simulados e questões comentadas. 
+            </p>
+            <p>
+              Para reforçar, a apostila digital serve como material de apoio para consulta rápida, enquanto os flashcards ajudam na memorização visual de luzes e sinais. Todo o ecossistema foi pensado para simular o ambiente do exame oficial, oferecendo a confiança necessária para você navegar preparado.
+            </p>
+          </div>
         </div>
       </section>
 
@@ -507,7 +532,7 @@ export default function Home() {
       <footer className="bg-slate-950 text-slate-400 pt-12 pb-24 md:pb-12 px-6 text-center text-sm border-t border-slate-900">
         <div className="max-w-6xl mx-auto flex flex-col items-center gap-6">
           <img src="/logo.png" alt="ArraisPro" className="h-10 opacity-60 hover:opacity-100 transition" />
-          <div className="flex gap-6 justify-center">
+          <div className="flex flex-wrap gap-4 md:gap-6 justify-center">
             <Link to="/termos-de-uso" className="hover:text-white transition">Termos de Uso</Link>
             <Link to="/politica-de-privacidade" className="hover:text-white transition">Política de Privacidade</Link>
             <Link to="/suporte" className="hover:text-white transition">Suporte</Link>
