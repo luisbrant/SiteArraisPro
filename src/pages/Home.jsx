@@ -33,7 +33,8 @@ export default function Home() {
         <meta name="description" content="Prepare-se para as provas de Arrais-Amador e Motonauta com simulados, questões comentadas e apostila digital de apoio. Baixe o ArraisPro." />
       </Helmet>
 
-      {/* 1. HEADER - OTIMIZADO PARA DESKTOP E MOBILE */}
+      <a href="#conteudo-principal" className="sr-only focus:not-sr-only bg-blue-600 text-white p-4 absolute z-[100] left-0 top-0">Ir para o conteúdo principal</a>
+
       {/* 1. HEADER - OTIMIZADO PARA DESKTOP E MOBILE */}
       <header className="sticky top-0 z-50 bg-white border-b border-slate-200 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 md:py-6 flex justify-between items-center">
@@ -85,8 +86,9 @@ export default function Home() {
         )}
       </header>
 
-      {/* 2. HERO SECTION */}
-      <section className="bg-slate-900 text-white pt-16 pb-20 md:pt-24 md:pb-24 px-4 sm:px-6 relative overflow-hidden">
+      <main id="conteudo-principal">
+        {/* 2. HERO SECTION */}
+        <section className="bg-slate-900 text-white pt-16 pb-20 md:pt-24 md:pb-24 px-4 sm:px-6 relative overflow-hidden">
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 md:gap-12 items-center relative z-10">
           
           <div className="flex flex-col gap-5 md:gap-6 text-center md:text-left relative">
@@ -499,6 +501,7 @@ export default function Home() {
           </a>
         </div>
       </section>
+      </main>
 
       {/* 10. FOOTER */}
       <footer className="bg-slate-950 text-slate-400 pt-12 pb-24 md:pb-12 px-6 text-center text-sm border-t border-slate-900">
