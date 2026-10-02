@@ -461,13 +461,10 @@ export default function Home() {
           <h2 className="text-3xl md:text-4xl font-black text-slate-800 mb-8 tracking-tighter text-center">Como o ArraisPro ajuda na sua preparação</h2>
           <div className="flex flex-col gap-6 text-lg text-slate-600 leading-relaxed text-pretty">
             <p>
-              O aplicativo ArraisPro foi projetado para oferecer uma jornada de aprendizado contínua e eficiente. Seja você um iniciante buscando a habilitação de Arrais-Amador ou alguém que deseja estender seus conhecimentos para Motonauta, nossa plataforma adapta-se ao seu ritmo.
+              O ArraisPro reúne os recursos necessários para organizar a sua preparação para as provas teóricas de Arrais-Amador e Motonauta. Em vez de depender de materiais espalhados, você pode combinar simulados, questões comentadas, apostila digital e uma trilha de estudos gamificada para revisar os temas no seu próprio ritmo e identificar rapidamente quais assuntos merecem mais atenção antes do exame.
             </p>
             <p>
-              A nossa trilha de estudos gamificada guia você pelos módulos de legislação, marinharia, RIPEAM e balizamento. Em vez de ler materiais exaustivos e desorganizados, você avança por tópicos estruturados, consolidando o conhecimento através de simulados e questões comentadas. 
-            </p>
-            <p>
-              Para reforçar, a apostila digital serve como material de apoio para consulta rápida, enquanto os flashcards ajudam na memorização visual de luzes e sinais. Todo o ecossistema foi pensado para simular o ambiente do exame oficial, oferecendo a confiança necessária para você navegar preparado.
+              Use os simulados categorizados para praticar os conhecimentos adquiridos, consulte os comentários detalhados para entender o motivo de cada resposta e retome os módulos da apostila sempre que precisar revisar um conceito de marinharia ou legislação. O ecossistema foi desenvolvido para proporcionar confiança real. Vale ressaltar que o ArraisPro é uma plataforma totalmente independente de apoio aos estudos e não possui vínculo, homologação ou endosso da Marinha do Brasil.
             </p>
           </div>
         </div>
