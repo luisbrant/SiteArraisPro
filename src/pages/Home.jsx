@@ -542,18 +542,22 @@ export default function Home() {
       </main>
 
       {/* 10. FOOTER */}
-      <footer className="bg-slate-950 text-slate-400 pt-12 pb-24 md:pb-12 px-6 text-center text-sm border-t border-slate-900">
+      <footer className="bg-slate-950 text-slate-400 pt-12 pb-24 md:pb-12 px-6 text-sm border-t border-slate-900">
         <div className="max-w-6xl mx-auto flex flex-col items-center gap-6">
           <img src="/logo.png" alt="ArraisPro" className="h-10 opacity-60 hover:opacity-100 transition" />
           <div className="flex flex-wrap gap-4 md:gap-6 justify-center">
-            <Link to="/termos-de-uso" className="hover:text-white transition">Termos de Uso</Link>
+            <Link to="/sobre" className="hover:text-white transition">Sobre o ArraisPro</Link>
+            <Link to="/como-produzimos-o-conteudo" className="hover:text-white transition">Como produzimos o conteúdo</Link>
+            <Link to="/politica-editorial" className="hover:text-white transition">Política Editorial</Link>
+            <Link to="/fontes-e-atualizacoes" className="hover:text-white transition">Fontes e Atualizações</Link>
             <Link to="/politica-de-privacidade" className="hover:text-white transition">Política de Privacidade</Link>
+            <Link to="/termos-de-uso" className="hover:text-white transition">Termos de Uso</Link>
             <Link to="/suporte" className="hover:text-white transition">Suporte</Link>
           </div>
-          <p className="max-w-xl mx-auto mt-4 text-xs opacity-60">
-            Aviso legal: O ArraisPro é um aplicativo independente, de cunho estritamente educacional, criado para auxiliar os candidatos nos estudos. Não possuímos qualquer vínculo governamental com a Marinha do Brasil.
+          <p className="max-w-xl mx-auto mt-2 text-xs text-center opacity-60 leading-relaxed">
+            O ArraisPro é uma plataforma independente de apoio aos estudos para Arrais-Amador e Motonauta. Não emite habilitações e não possui vínculo, homologação ou endosso da Marinha do Brasil.
           </p>
-          <p className="mt-4">© 2026 ArraisPro. Todos os direitos reservados.</p>
+          <p className="text-xs opacity-50">© 2026 ArraisPro. Todos os direitos reservados.</p>
         </div>
       </footer>
 
