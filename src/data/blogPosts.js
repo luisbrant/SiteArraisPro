@@ -626,9 +626,9 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     id: 11,
     slug: 'ripeam-descomplicado-regras-ouro',
     title: 'RIPEAM para Arrais-Amador: regras 5 a 8 explicadas',
-    date: '2026-10-05T12:00:00',
+    date: '2026-10-02T12:00:00',
     readTime: '6 min',
-    draft: true,
+    draft: false,
     excerpt: 'Entenda quatro regras fundamentais do RIPEAM para a prova e para a navegação: vigilância, velocidade de segurança, risco de abalroamento e manobras.',
     content: `
 # RIPEAM para iniciantes: vigilância, velocidade e risco de abalroamento
@@ -695,9 +695,9 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     id: 12,
     slug: 'entendendo-o-balizamento-maritimo',
     title: 'Balizamento IALA Região B: cores e sinais',
-    date: '2026-10-07T12:00:00',
+    date: '2026-10-02T12:00:00',
     readTime: '7 min',
-    draft: true,
+    draft: false,
     excerpt: 'Aprenda a identificar os sinais laterais da Região B, perigo isolado, águas seguras e canal preferencial para estudar balizamento náutico.',
     content: `
 # Balizamento IALA Região B: como identificar os principais sinais
