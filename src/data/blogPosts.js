@@ -956,13 +956,13 @@ Por isso, a forma mais segura de estudar é separar duas perguntas:
 1. **O que cada luz significa e qual é seu setor?**
 2. **Quais luzes aquela embarcação deve exibir naquela situação?**
 
-**Atenção para Motonauta:** reconhecer luzes de outras embarcações faz parte do estudo de segurança, mas isso **não autoriza navegar de moto aquática à noite**. A NORMAM-212/DPC restringe sua condução ao período entre o nascer e o pôr do sol.
+**Atenção para <Link to="/motonauta">Motonauta</Link>:** reconhecer luzes de outras embarcações faz parte do estudo de segurança, mas isso **não autoriza navegar de moto aquática à noite**. A NORMAM-212/DPC restringe sua condução ao período entre o nascer e o pôr do sol.
 
 ## Pratique a identificação com contexto
 
 Ao resolver uma questão, observe quais luzes aparecem, qual é o tipo de embarcação descrito e se ela está em movimento ou fundeada. Só depois avalie qual regra de navegação se aplica.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para praticar esses cenários e acompanhar seu desempenho.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para praticar esses cenários e acompanhar seu desempenho.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -1008,7 +1008,7 @@ Se for possível **desligar a alimentação elétrica com segurança**, isso eli
 
 A **Classe D** diz respeito a incêndios em **metais combustíveis específicos** e pode exigir agentes extintores especiais. É uma classificação existente na literatura de combate a incêndio, mas **não integra a lista de classes A, B e C apresentada no item 4.27.2 da NORMAM-211/DPC** para os extintores tratados nesse ponto.
 
-Para a preparação de Arrais-Amador, concentre a revisão na classificação e na dotação de extintores previstas no programa e na norma aplicáveis à sua categoria. Não escolha um agente para um fogo em metal com base apenas na sigla “pó químico”: o produto precisa ser apropriado ao metal e ao cenário.
+Para a preparação de <Link to="/arrais-amador">Arrais-Amador</Link>, concentre a revisão na classificação e na dotação de extintores previstas no programa e na norma aplicáveis à sua categoria. Não escolha um agente para um fogo em metal com base apenas na sigla “pó químico”: o produto precisa ser apropriado ao metal e ao cenário.
 
 ## Como estudar esse assunto?
 
@@ -1019,7 +1019,7 @@ Ao resolver uma questão, faça duas perguntas:
 
 Depois, confira a explicação e volte à regra correspondente. Saber a letra da classe é útil; entender **por que ela se aplica** é mais importante para responder bem e navegar com segurança.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para revisar temas de segurança.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para revisar temas de segurança.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -1092,7 +1092,7 @@ Por isso, não use uma fórmula como “lancha a motor = um B-1”. Antes de com
 
 Para estudar, relacione o **material que está queimando**, a presença de **energia elétrica** e as **letras no rótulo** do extintor. Essa sequência é mais útil do que decorar que um único agente “serve para tudo”.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para revisar temas de segurança.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para revisar temas de segurança.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -1112,7 +1112,7 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
 
 **A dotação de segurança não é igual para toda embarcação.** As exigências dependem de fatores como seu enquadramento, porte e classificação de navegação. Por isso, antes de montar uma lista de equipamentos, consulte o **Título de Inscrição de Embarcação (TIE)** e os quadros aplicáveis da **NORMAM-211/DPC**.
 
-Para quem estuda para Arrais-Amador, é importante lembrar: a categoria habilita a condução **nos limites da navegação interior**. A dotação exigida para uma embarcação classificada para navegação costeira ou oceânica **não amplia a habilitação do condutor**.
+Para quem estuda para <Link to="/arrais-amador">Arrais-Amador</Link>, é importante lembrar: a categoria habilita a condução **nos limites da navegação interior**. A dotação exigida para uma embarcação classificada para navegação costeira ou oceânica **não amplia a habilitação do condutor**.
 
 ## Coletes salva-vidas: um para cada pessoa
 
@@ -1144,7 +1144,7 @@ Os **artefatos pirotécnicos** incluem diferentes tipos de sinais, como fachos d
 
 Quando exigidos, verifique se os equipamentos estão em boas condições e dentro do prazo de validade. Não transporte um sinal vencido como se ele atendesse à dotação obrigatória.
 
-**Atenção:** levar equipamentos previstos para uma embarcação classificada para navegação costeira ou oceânica não autoriza um Arrais-Amador a conduzi-la fora dos limites de sua própria habilitação.
+**Atenção:** levar equipamentos previstos para uma embarcação classificada para navegação costeira ou oceânica não autoriza um <Link to="/arrais-amador">Arrais-Amador</Link> a conduzi-la fora dos limites de sua própria habilitação.
 
 ## Como conferir a dotação da sua embarcação?
 
@@ -1160,7 +1160,7 @@ A dotação normativa é um **mínimo**. O responsável pela embarcação també
 
 ## Revise com o ArraisPro
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para revisar temas de segurança e salvatagem.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para revisar temas de segurança e salvatagem.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -1204,7 +1204,7 @@ Ao abandonar uma embarcação acidentada (especialmente se estiver em chamas ou 
 ## 5. Sobrevivência na Água
 Uma vez na água, os náufragos devem se afastar rapidamente da embarcação em perigo (evitando o efeito de sucção do naufrágio ou explosões) e, em seguida, manter-se agrupados (unidos em roda). Um grupo é mentalmente mais forte, preserva mais o calor corporal e é infinitamente mais fácil de ser avistado pelo resgate do que pessoas dispersas.
 
-Revisar esses conceitos salva vidas. O **ArraisPro** conta com quizzes e testes focados em situações de sobrevivência para manter o candidato afiado para a prova teórica.
+Revisar esses conceitos salva vidas. O **ArraisPro** conta com quizzes e <Link to="/simulado-arrais-amador">simulados</Link> focados em situações de sobrevivência para manter o candidato afiado para a prova teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -1262,7 +1262,7 @@ Se a pessoa estiver inconsciente ou não respirar normalmente, **acione o socorr
 
 Para Arrais-Amador e Motonauta, a preparação teórica deve ajudar você a reconhecer uma emergência e **não decorar uma sequência que substitua treinamento real**. Revise especialmente: segurança do socorrista, acionamento de ajuda, avaliação da respiração, papel das ventilações no afogamento e prevenção da perda adicional de calor.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para revisar os temas previstos para os exames.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para revisar os temas previstos para os exames.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
