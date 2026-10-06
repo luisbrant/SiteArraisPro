@@ -768,7 +768,7 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     content: `
 # Sinais sonoros do RIPEAM: como entender os apitos
 
-Os sinais sonoros do **RIPEAM** ajudam a comunicar manobras, intenções e dúvidas entre embarcações. Para interpretá-los corretamente, você precisa reconhecer **a sequência dos sons e a situação em que ela é usada**.
+Os sinais sonoros do <Link to="/blog/ripeam-regras-5-8">**RIPEAM**</Link> ajudam a comunicar manobras, intenções e dúvidas entre embarcações. Para interpretá-los corretamente, você precisa reconhecer **a sequência dos sons e a situação em que ela é usada**.
 
 Neste guia, veja os sinais básicos de manobra, o alerta de dúvida e os sinais específicos para ultrapassagem em canal estreito ou via de acesso.
 
@@ -823,7 +823,7 @@ Separe primeiro a situação descrita no enunciado:
 3. **É uma ultrapassagem em canal estreito nas condições descritas pela regra?** Procure os dois apitos **longos** seguidos de um ou dois **curtos**.
 4. **De qual embarcação é o bordo mencionado?** Na intenção de ultrapassar, o sinal nomeia o bordo da embarcação **alcançada**.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para praticar regras de navegação e revisar os temas em que você tem dúvidas.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para praticar regras de navegação e revisar os temas em que você tem dúvidas.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -841,7 +841,7 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     content: `
 # Quem deve manobrar? Regras de passagem entre embarcações
 
-No RIPEAM, a pergunta mais útil não é simplesmente **“quem tem prioridade?”**, mas **“quem deve manter-se fora do caminho e quem deve manter rumo e velocidade nesta situação?”** A resposta depende de como as embarcações se aproximam, do tipo de embarcação e das condições de navegação.
+No <Link to="/blog/ripeam-regras-5-8">RIPEAM</Link>, a pergunta mais útil não é simplesmente **“quem tem prioridade?”**, mas **“quem deve manter-se fora do caminho e quem deve manter rumo e velocidade nesta situação?”** A resposta depende de como as embarcações se aproximam, do tipo de embarcação e das condições de navegação.
 
 Os exemplos de roda a roda, rumos cruzados e ultrapassagem abaixo consideram **embarcações no visual uma da outra**. Antes de aplicar qualquer regra, verifique se há risco de abalroamento e se o enunciado descreve alguma condição especial.
 
@@ -892,7 +892,7 @@ Para estudar, pergunte sempre:
 4. Quais são os **tipos e as condições** das embarcações?
 5. Existe alguma **regra específica** para o local, como canal estreito?
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para praticar cenários de navegação e revisar seus erros.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para praticar cenários de navegação e revisar seus erros.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
