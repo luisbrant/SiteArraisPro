@@ -45,13 +45,13 @@ const referencias = [
   },
 ];
 
-export default function FonteseAtualizacoes() {
+export default function FontesEReferencias() {
   return (
     <div className="min-h-screen bg-slate-50 font-sans text-slate-800 flex flex-col">
       <Helmet>
         <title>Fontes e Referências | ArraisPro</title>
         <meta name="description" content="Referências normativas e institucionais consultadas na elaboração dos conteúdos educacionais do ArraisPro: NORMAM-211, NORMAM-212, RIPEAM-72, LESTA e RLESTA." />
-        <link rel="canonical" href="https://www.arraispro.com.br/fontes-e-atualizacoes" />
+        <link rel="canonical" href="https://www.arraispro.com.br/fontes-e-referencias" />
       </Helmet>
 
       <header className="bg-white border-b border-slate-200 shadow-sm py-6">

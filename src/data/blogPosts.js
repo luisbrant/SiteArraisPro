@@ -1269,4 +1269,279 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
 *O ArraisPro não presta atendimento médico, não substitui treinamento prático em primeiros socorros e não possui vínculo ou endosso da Marinha do Brasil.*
     `
   }
+,
+  {
+    id: 101,
+    slug: 'ripeam-regras-5-8',
+    title: 'Regras 5 a 8 do RIPEAM: vigilância, velocidade e manobra',
+    description: 'Entenda as Regras 5, 6, 7 e 8 do RIPEAM. Saiba como revisar vigilância, velocidade de segurança e risco de abalroamento para a prova de Arrais-Amador.',
+    date: '2026-10-06',
+    author: 'Equipe ArraisPro',
+    content: `
+# Regras 5 a 8 do RIPEAM: como revisar para a prova
+
+Para entender as regras de governo e navegação, os candidatos a Arrais-Amador precisam compreender as ações para evitar colisões. As Regras 5 a 8 do RIPEAM (Regulamento Internacional para Evitar Abalroamentos no Mar) tratam dos princípios mais importantes de vigilância, velocidade e manobras.
+
+> **Nota de transparência:** este conteúdo é educacional e foi preparado com base nas fontes consultadas na data de atualização. Ele não substitui treinamento prático, orientação profissional ou instruções das autoridades competentes.
+
+## Regra 5: vigilância
+
+A regra estabelece que toda embarcação deve manter vigilância visual e auditiva constante. Isso significa usar todos os meios disponíveis para avaliar adequadamente a situação e o risco de abalroamento. 
+
+## Regra 6: velocidade de segurança
+
+Toda embarcação deve navegar a uma velocidade de segurança que permita ação apropriada para evitar abalroamento. A velocidade ideal varia conforme a visibilidade, tráfego e condições meteorológicas.
+
+## Regra 7: risco de abalroamento
+
+Esta regra obriga o uso de todos os meios para determinar se existe risco de abalroamento. Uma das dicas de ouro é: se a marcação de uma embarcação que se aproxima não se altera sensivelmente, o risco de colisão existe.
+
+## Regra 8: manobras para evitar abalroamento
+
+Qualquer manobra deve ser feita de forma franca, positiva e com ampla antecedência. Se for necessário, a embarcação deve diminuir a velocidade ou até parar e reverter a propulsão.
+
+## Como estudar essas regras para Arrais-Amador
+
+A melhor forma de fixar essas regras é relacioná-las a situações práticas. Tente imaginar cenários e pratique resolvendo questões. Visite o hub de [Arrais-Amador](/arrais-amador) ou faça um [simulado de Arrais-Amador](/simulado-arrais-amador) para praticar. Aproveite também para conferir o nosso guia de [Luzes de navegação no RIPEAM](/blog/luzes-navegacao-ripeam).
+
+## Fontes consultadas
+
+- RIPEAM-72
+- NORMAM-211/DPC
+
+**Última revisão:** Outubro/2026
+
+---
+
+O ArraisPro é uma plataforma independente de apoio aos estudos para Arrais-Amador e Motonauta. Não emite habilitações e não possui vínculo, homologação ou endosso da Marinha do Brasil.
+`
+  },
+  {
+    id: 102,
+    slug: 'luzes-navegacao-ripeam',
+    title: 'Luzes de navegação no RIPEAM: guia de estudo',
+    description: 'Aprenda os conceitos e o agrupamento das luzes de navegação no RIPEAM para se preparar corretamente para a prova de Arrais-Amador.',
+    date: '2026-10-06',
+    author: 'Equipe ArraisPro',
+    content: `
+# Luzes de navegação no RIPEAM: como estudar
+
+O uso correto e a identificação das luzes de navegação são conhecimentos fundamentais para a condução segura e sempre caem na prova.
+
+> **Nota de transparência:** este conteúdo é educacional e foi preparado com base nas fontes consultadas na data de atualização. Ele não substitui treinamento prático, orientação profissional ou instruções das autoridades competentes.
+
+## Para que servem as luzes de navegação
+
+Elas indicam a presença, o tipo, a dimensão e o rumo relativo de uma embarcação. Devem ser exibidas do pôr ao nascer do sol e em condições de visibilidade restrita.
+
+## Conceitos que costumam aparecer na prova
+
+Compreenda o conceito de luz de mastro (branca), luzes de bordos (verde a boreste, encarnada a bombordo), luz de alcançado (branca na popa) e luz de reboque (amarela).
+
+## Como revisar luzes, setores e situações
+
+Para facilitar os estudos, agrupe as embarcações. Embarcações de propulsão mecânica em movimento possuem luzes padrão. Quando há reboque, pesca ou restrição de manobra, luzes adicionais entram em cena.
+
+## Erros comuns ao memorizar luzes
+
+Um erro frequente é tentar decorar cada combinação de luz isoladamente, sem entender o arco de visibilidade. Memorize primeiro os arcos (ex: luz de mastro cobre 225 graus).
+
+## Pratique com simulados
+
+Após entender os conceitos, é fundamental testar os conhecimentos. Consulte a página de [Arrais-Amador](/arrais-amador) ou realize um [simulado para Arrais-Amador](/simulado-arrais-amador). Você também pode revisar os [sinais sonoros no RIPEAM](/blog/sinais-sonoros-ripeam) e as [Regras 5 a 8 do RIPEAM](/blog/ripeam-regras-5-8).
+
+## Fontes consultadas
+
+- RIPEAM-72
+- NORMAM-211/DPC
+
+**Última revisão:** Outubro/2026
+
+---
+
+O ArraisPro é uma plataforma independente de apoio aos estudos para Arrais-Amador e Motonauta. Não emite habilitações e não possui vínculo, homologação ou endosso da Marinha do Brasil.
+`
+  },
+  {
+    id: 103,
+    slug: 'balizamento-iala-regiao-b',
+    title: 'Balizamento IALA Região B: cores e sinais para estudar',
+    description: 'Entenda o Sistema de Balizamento Marítimo IALA Região B. Guia focado no estudo das cores, marcas e sinais para as provas de Arrais e Motonauta.',
+    date: '2026-10-06',
+    author: 'Equipe ArraisPro',
+    content: `
+# Balizamento IALA Região B: guia de estudo
+
+Saber interpretar boias, balizas e marcas é uma das habilidades cobradas tanto na prova de Arrais-Amador quanto na de Motonauta. O Brasil adota o sistema IALA Região B.
+
+> **Nota de transparência:** este conteúdo é educacional e foi preparado com base nas fontes consultadas na data de atualização. Ele não substitui treinamento prático, orientação profissional ou instruções das autoridades competentes.
+
+## O que é o sistema de balizamento marítimo
+
+É um conjunto de sinais visuais, sonoros e luminosos usado para indicar os limites de canais navegáveis, perigos e outras áreas de importância para a navegação.
+
+## IALA Região B: lógica de cores
+
+Na Região B, o sentido convencional do balizamento (quando a embarcação entra num porto vindo do mar) determina que o bordo de **bombordo tem a cor verde** e o bordo de **boreste tem a cor encarnada (vermelha)**.
+
+## Marcas laterais e significado
+
+- **Sinal de bombordo:** verde, formato cilíndrico, pilar ou charuto. Luz verde.
+- **Sinal de boreste:** encarnado, formato cônico, pilar ou charuto. Luz encarnada.
+Existem também os sinais de canal preferencial, perigo isolado, águas seguras e sinais especiais.
+
+## Como revisar balizamento para a prova
+
+Crie associações visuais: Região B = Bombordo/Verde. Pratique exercícios constantes no app. Confira as páginas de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta), e teste-se no [simulado de Arrais-Amador](/simulado-arrais-amador) e no [simulado de Motonauta](/simulado-motonauta).
+
+## Fontes consultadas
+
+- NORMAM-211/DPC
+- NORMAM-212/DPC
+- Sistema de Balizamento Marítimo IALA
+
+**Última revisão:** Outubro/2026
+
+---
+
+O ArraisPro é uma plataforma independente de apoio aos estudos para Arrais-Amador e Motonauta. Não emite habilitações e não possui vínculo, homologação ou endosso da Marinha do Brasil.
+`
+  },
+  {
+    id: 104,
+    slug: 'sinais-sonoros-ripeam',
+    title: 'Sinais sonoros no RIPEAM: como revisar para a prova',
+    description: 'Guia de estudo para revisar os sinais sonoros previstos no RIPEAM: sinais de manobra, advertência e uso em visibilidade restrita.',
+    date: '2026-10-06',
+    author: 'Equipe ArraisPro',
+    content: `
+# Sinais sonoros no RIPEAM: guia de estudo
+
+A prova de Arrais-Amador costuma incluir perguntas sobre apitos curtos e longos. Entender a lógica por trás dos sinais evita que você decore sem sentido.
+
+> **Nota de transparência:** este conteúdo é educacional e foi preparado com base nas fontes consultadas na data de atualização. Ele não substitui treinamento prático, orientação profissional ou instruções das autoridades competentes.
+
+## Quando os sinais sonoros são usados
+
+Eles são necessários para comunicar as intenções de manobra a outras embarcações que estejam à vista, e também para assinalar a presença quando houver visibilidade restrita. Um apito curto dura cerca de 1 segundo; o apito longo, de 4 a 6 segundos.
+
+## Sinais de manobra e advertência
+
+Algumas regras básicas:
+- 1 apito curto: "Estou guinando para boreste".
+- 2 apitos curtos: "Estou guinando para bombordo".
+- 3 apitos curtos: "Estou operando a máquina a ré".
+- 5 ou mais apitos curtos (advertência): "Não entendo sua manobra".
+
+## Visibilidade restrita e sinais aplicáveis
+
+Em neblina ou chuvas fortes, embarcações em movimento devem emitir sinais em intervalos não superiores a 2 minutos (ex: 1 longo para propulsão mecânica com seguimento).
+
+## Como memorizar sem decorar isoladamente
+
+Relacione os sons aos movimentos. Pratique exercícios lendo atentamente as perguntas. Veja também o artigo sobre [Luzes de navegação no RIPEAM](/blog/luzes-navegacao-ripeam) para associar as respostas. Quer testar os conhecimentos? Acesse o [hub de Arrais-Amador](/arrais-amador) ou faça um [simulado para Arrais-Amador](/simulado-arrais-amador).
+
+## Fontes consultadas
+
+- RIPEAM-72
+- NORMAM-211/DPC
+
+**Última revisão:** Outubro/2026
+
+---
+
+O ArraisPro é uma plataforma independente de apoio aos estudos para Arrais-Amador e Motonauta. Não emite habilitações e não possui vínculo, homologação ou endosso da Marinha do Brasil.
+`
+  },
+  {
+    id: 105,
+    slug: 'seguranca-moto-aquatica',
+    title: 'Segurança com moto aquática: cuidados para estudar e navegar',
+    description: 'Entenda a importância dos equipamentos e das regras para a condução segura de motos aquáticas, com foco na prova de Motonauta.',
+    date: '2026-10-06',
+    author: 'Equipe ArraisPro',
+    content: `
+# Segurança com moto aquática: pontos importantes para Motonauta
+
+A condução de motos aquáticas (jet skis) exige agilidade, prudência e respeito às normas de segurança da navegação, temas frequentes no exame para Motonauta.
+
+> **Nota de transparência:** este conteúdo é educacional e foi preparado com base nas fontes consultadas na data de atualização. Ele não substitui treinamento prático, orientação profissional ou instruções das autoridades competentes.
+
+## Equipamentos e conduta responsável
+
+O colete salva-vidas homologado é de uso obrigatório para o condutor e todos os passageiros. Além disso, a chave de segurança (cordão de corte) deve estar presa ao condutor em todos os momentos, garantindo o desligamento do motor em caso de queda.
+
+## Distância, velocidade e áreas de uso
+
+As motos aquáticas não devem operar em áreas de banhistas, aproximando-se da praia apenas de forma perpendicular e com velocidade reduzida. Respeite as distâncias mínimas previstas na norma e a prudência de acordo com a situação de tráfego.
+
+## Passageiros e lotação
+
+Nunca exceda a capacidade de pessoas estabelecida pelo fabricante e inscrita no documento da embarcação. O equilíbrio da moto aquática depende fundamentalmente da correta distribuição de peso.
+
+## O que revisar para a prova de Motonauta
+
+Preste atenção especial às questões que envolvem distanciamento, equipamentos e conduta de segurança. Teste seus conhecimentos acessando o [simulado para Motonauta](/simulado-motonauta) e conheça mais no [hub da categoria Motonauta](/motonauta). Outro tema essencial é a [Habilitação de Motonauta: preparação teórica](/blog/habilitacao-motonauta).
+
+## Limites deste guia
+
+Nenhuma explicação substitui o treinamento prático e o bom senso na água.
+
+## Fontes consultadas
+
+- NORMAM-212/DPC
+- LESTA (Lei nº 9.537/1997)
+
+**Última revisão:** Outubro/2026
+
+---
+
+O ArraisPro é uma plataforma independente de apoio aos estudos para Arrais-Amador e Motonauta. Não emite habilitações e não possui vínculo, homologação ou endosso da Marinha do Brasil.
+`
+  },
+  {
+    id: 106,
+    slug: 'habilitacao-motonauta',
+    title: 'Habilitação de Motonauta: como se preparar para a prova',
+    description: 'Guia educacional orientando sobre a preparação teórica, as etapas para a obtenção da habilitação de Motonauta e as fontes oficiais.',
+    date: '2026-10-06',
+    author: 'Equipe ArraisPro',
+    content: `
+# Habilitação de Motonauta: preparação teórica e estudo
+
+Pilotar uma moto aquática exige uma categoria específica de habilitação: Motonauta. Este guia detalha o processo de preparação teórica.
+
+> **Nota de transparência:** este conteúdo é educacional e foi preparado com base nas fontes consultadas na data de atualização. Ele não substitui treinamento prático, orientação profissional ou instruções das autoridades competentes.
+
+## O que verificar antes de iniciar a preparação
+
+Todo candidato deve ser maior de idade e realizar treinamento prático em instituição habilitada pela Marinha. Certifique-se sempre das exigências da Capitania, Delegacia ou Agência responsável.
+
+## Temas teóricos para estudar
+
+O exame engloba segurança, RIPEAM, balizamento marítimo, primeiros socorros e legislação. Diferentemente de Arrais-Amador, Motonauta possui ênfase total nos aspectos operacionais e perigos inerentes às motos aquáticas.
+
+## Treinamento prático e exigências aplicáveis
+
+O treinamento prático atestado é requisito indispensável. Não se deixe enganar por promessas de habilitação baseadas apenas na teoria. A segurança da navegação exige destreza na condução.
+
+## Como usar simulados e revisões
+
+Revisar com questões e simulados aumenta a retenção de conteúdo. Conheça a nossa seção sobre [Motonauta](/motonauta) e não deixe de praticar usando nosso [simulado para Motonauta](/simulado-motonauta). Reforce a leitura sobre [Segurança com moto aquática](/blog/seguranca-moto-aquatica).
+
+## Onde consultar informações oficiais
+
+Sempre confirme documentos, taxas e prazos nos sites oficiais da Marinha do Brasil (Diretoria de Portos e Costas - DPC). Veja nossa relação de [fontes e referências](/fontes-e-referencias).
+
+## Fontes consultadas
+
+- NORMAM-212/DPC
+
+**Última revisão:** Outubro/2026
+
+---
+
+O ArraisPro é uma plataforma independente de apoio aos estudos para Arrais-Amador e Motonauta. Não emite habilitações e não possui vínculo, homologação ou endosso da Marinha do Brasil.
+`
+  }
 ];

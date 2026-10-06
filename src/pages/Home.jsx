@@ -486,6 +486,31 @@ export default function Home() {
         </div>
       </section>
 
+      {/* 7.6 ESTUDE PARA SUA CATEGORIA (Links Internos SEO) */}
+      <section className="py-24 px-6 bg-slate-50 border-t border-slate-100">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-3xl md:text-4xl font-black text-slate-800 mb-12 tracking-tighter text-center">Estude para sua categoria</h2>
+          <div className="grid md:grid-cols-2 gap-8">
+            <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200">
+              <h3 className="text-xl font-bold text-slate-800 mb-3"><Link to="/arrais-amador" className="hover:text-blue-600 transition">Arrais-Amador</Link></h3>
+              <p className="text-slate-600">Conheça os temas da preparação teórica, os simulados e os recursos de revisão para Arrais-Amador.</p>
+            </div>
+            <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200">
+              <h3 className="text-xl font-bold text-slate-800 mb-3"><Link to="/motonauta" className="hover:text-blue-600 transition">Motonauta</Link></h3>
+              <p className="text-slate-600">Revise conteúdos relacionados à preparação teórica para Motonauta e pratique com questões por tema.</p>
+            </div>
+            <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200">
+              <h3 className="text-xl font-bold text-slate-800 mb-3"><Link to="/simulado-arrais-amador" className="hover:text-blue-600 transition">Simulados para Arrais-Amador</Link></h3>
+              <p className="text-slate-600">Pratique questões e acompanhe seu desempenho por assunto.</p>
+            </div>
+            <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200">
+              <h3 className="text-xl font-bold text-slate-800 mb-3"><Link to="/simulado-motonauta" className="hover:text-blue-600 transition">Simulados para Motonauta</Link></h3>
+              <p className="text-slate-600">Treine os temas relacionados à categoria de Motonauta no aplicativo.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* 8. FAQ */}
       <section id="faq" className="py-24 px-6 bg-white scroll-mt-24">
         <div className="max-w-3xl mx-auto">
@@ -549,7 +574,7 @@ export default function Home() {
             <Link to="/sobre" className="hover:text-white transition">Sobre o ArraisPro</Link>
             <Link to="/como-produzimos-o-conteudo" className="hover:text-white transition">Como produzimos o conteúdo</Link>
             <Link to="/politica-editorial" className="hover:text-white transition">Política Editorial</Link>
-            <Link to="/fontes-e-atualizacoes" className="hover:text-white transition">Fontes e Referências</Link>
+            <Link to="/fontes-e-referencias" className="hover:text-white transition">Fontes e Referências</Link>
             <Link to="/politica-de-privacidade" className="hover:text-white transition">Política de Privacidade</Link>
             <Link to="/termos-de-uso" className="hover:text-white transition">Termos de Uso</Link>
             <Link to="/suporte" className="hover:text-white transition">Suporte</Link>
