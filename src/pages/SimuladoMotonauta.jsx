@@ -33,7 +33,7 @@ export default function SimuladoMotonauta() {
           Simulado para Motonauta
         </h1>
         <p className="text-lg md:text-xl text-slate-600 mb-10">
-          Pratique conteúdos relacionados à preparação teórica para Motonauta com os simulados disponíveis no aplicativo ArraisPro.
+          Fazer um <strong>simulado para Motonauta</strong> é a melhor forma de praticar os conteúdos da preparação teórica com os recursos disponíveis no aplicativo ArraisPro.
         </p>
 
         <section className="mb-12">

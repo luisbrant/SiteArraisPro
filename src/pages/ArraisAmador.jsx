@@ -33,7 +33,7 @@ export default function ArraisAmador() {
           Arrais-Amador: como se preparar para a prova
         </h1>
         <p className="text-lg md:text-xl text-slate-600 mb-10">
-          Esta página organiza recursos de preparação teórica para a prova de Arrais-Amador oferecidos no ArraisPro. Lembre-se: o aplicativo é um material de apoio e não substitui os requisitos, exames ou orientações oficiais das autoridades competentes.
+          <strong>Arrais-Amador: como se preparar para a prova</strong> teórica? Esta página organiza recursos oferecidos no ArraisPro. Lembre-se: o aplicativo é um material de apoio e não substitui requisitos, exames ou orientações oficiais das autoridades competentes.
         </p>
 
         <section className="mb-12">

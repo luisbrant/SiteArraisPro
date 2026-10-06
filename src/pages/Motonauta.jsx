@@ -33,7 +33,7 @@ export default function Motonauta() {
           Motonauta: como se preparar para a prova
         </h1>
         <p className="text-lg md:text-xl text-slate-600 mb-10">
-          Bem-vindo à página de apoio à preparação teórica para Motonauta. Nossos recursos ajudam você a revisar o conteúdo, mas lembre-se de que treinamento prático e requisitos oficiais não são substituídos por nenhum aplicativo.
+          <strong>Motonauta: como se preparar para a prova</strong> teórica? Nossos recursos ajudam você a revisar o conteúdo, mas lembre-se de que treinamento prático e requisitos oficiais não são substituídos por nenhum aplicativo.
         </p>
 
         <section className="mb-12">

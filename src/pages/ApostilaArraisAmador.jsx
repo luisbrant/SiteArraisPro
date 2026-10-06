@@ -33,7 +33,7 @@ export default function ApostilaArraisAmador() {
           Apostila digital para Arrais-Amador
         </h1>
         <p className="text-lg md:text-xl text-slate-600 mb-10">
-          A Apostila ArraisPro é um material digital de apoio organizado para facilitar a compreensão dos temas exigidos na preparação teórica de Arrais-Amador.
+          A <strong>apostila digital para Arrais-Amador</strong> do ArraisPro é um material de apoio organizado para facilitar a compreensão dos temas exigidos na preparação teórica.
         </p>
 
         <section className="mb-12">
