@@ -763,7 +763,7 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     title: 'Sinais sonoros do RIPEAM: apitos de manobra e ultrapassagem',
     date: '2026-10-09T12:00:00',
     readTime: '5 min',
-    draft: true,
+    draft: false,
     excerpt: 'Saiba o significado de um, dois ou três apitos curtos e dos sinais de advertência e ultrapassagem em canais estreitos previstos no RIPEAM.',
     content: `
 # Sinais sonoros do RIPEAM: como entender os apitos
@@ -836,7 +836,7 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     title: 'Quem deve manobrar? Cruzamento e ultrapassagem no RIPEAM',
     date: '2026-10-12T12:00:00',
     readTime: '6 min',
-    draft: true,
+    draft: false,
     excerpt: 'Entenda quem deve manobrar em situações de roda a roda, rumos cruzados e ultrapassagem, e por que “ter preferência” não dispensa cuidados.',
     content: `
 # Quem deve manobrar? Regras de passagem entre embarcações
