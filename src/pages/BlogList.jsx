@@ -91,10 +91,21 @@ export default function BlogList() {
         </div>
       </main>
 
-      {/* FOOTER SIMPLES */}
-      <footer className="bg-slate-950 text-slate-400 py-8 text-center text-sm border-t border-slate-900 mt-auto">
-        <div className="max-w-4xl mx-auto px-6">
-          <p>© 2026 ArraisPro. Todos os direitos reservados.</p>
+      {/* FOOTER */}
+      <footer className="bg-slate-950 text-slate-400 py-12 mt-auto">
+        <div className="max-w-4xl mx-auto px-6 text-sm flex flex-col gap-6">
+          <div className="flex flex-wrap gap-4 justify-center text-center">
+            <Link to="/sobre" className="hover:text-white">Sobre o ArraisPro</Link>
+            <Link to="/como-produzimos-o-conteudo" className="hover:text-white">Como produzimos o conteúdo</Link>
+            <Link to="/fontes-e-referencias" className="hover:text-white">Fontes e referências</Link>
+            <Link to="/politica-editorial" className="hover:text-white">Política editorial</Link>
+            <Link to="/politica-de-privacidade" className="hover:text-white">Política de privacidade</Link>
+            <Link to="/termos-de-uso" className="hover:text-white">Termos de uso</Link>
+            <Link to="/suporte" className="hover:text-white">Suporte</Link>
+          </div>
+          <p className="text-center text-slate-500 border-t border-slate-800 pt-6">
+            O ArraisPro é uma plataforma independente de apoio aos estudos para Arrais-Amador e Motonauta. Não emite habilitações e não possui vínculo, homologação ou endosso da Marinha do Brasil.
+          </p>
         </div>
       </footer>
     </div>
