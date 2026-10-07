@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Footer from '../components/Footer';
 import { Helmet } from 'react-helmet-async';
 import { Link } from 'react-router-dom';
 import '../App.css'; // ajustado import
@@ -17,14 +18,14 @@ const Header = () => {
         
         {/* Menu Desktop */}
         <nav className="hidden lg:flex gap-8 xl:gap-12 font-semibold text-slate-700 text-lg items-center">
-          <a href="#recursos" className="hover:text-blue-600 transition">Recursos</a>
-          <a href="#bonus" className="hover:text-blue-600 transition">Apostila</a>
-          <a href="#preco" className="hover:text-blue-600 transition">Preço</a>
-          <a href="#faq" className="hover:text-blue-600 transition">Dúvidas</a>
-          <a href="/blog" className="text-blue-600 font-bold hover:text-blue-800 transition">Blog</a>
+          <Link to="/" className="hover:text-blue-600 transition">Início</Link>
+          <Link to="/arrais-amador" className="hover:text-blue-600 transition">Arrais-Amador</Link>
+          <Link to="/motonauta" className="hover:text-blue-600 transition">Motonauta</Link>
+          <Link to="/blog" className="hover:text-blue-600 transition">Blog</Link>
+          <Link to="/suporte" className="hover:text-blue-600 transition">Suporte</Link>
           {/* Botão de CTA no desktop movido para dentro da nav para melhor alinhamento */}
           <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=header_cta" target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-500 text-white font-semibold py-2.5 px-6 rounded-full transition shadow-md whitespace-nowrap ml-4">
-            Baixar o ArraisPro grátis no Google Play
+            Baixar o app
           </a>
         </nav>
         
@@ -45,13 +46,13 @@ const Header = () => {
       {/* Menu Mobile Dropdown */}
       {isMobileMenuOpen && (
         <div className="lg:hidden absolute top-full left-0 w-full bg-white border-b border-slate-200 shadow-2xl flex flex-col py-4 px-6 gap-3 font-semibold text-slate-700 text-lg max-h-[80vh] overflow-y-auto z-50">
-          <a href="#recursos" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Recursos</a>
-          <a href="#bonus" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Apostila</a>
-          <a href="#preco" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Preço</a>
-          <a href="#faq" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Dúvidas</a>
-          <a href="/blog" onClick={() => setIsMobileMenuOpen(false)} className="text-blue-600 font-bold hover:text-blue-800 transition block py-2">Blog ArraisPro</a>
+          <Link to="/" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Início</Link>
+          <Link to="/arrais-amador" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Arrais-Amador</Link>
+          <Link to="/motonauta" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Motonauta</Link>
+          <Link to="/blog" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Blog</Link>
+          <Link to="/suporte" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-blue-600 transition block py-2 border-b border-slate-100">Suporte</Link>
           <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=header_cta" target="_blank" rel="noopener noreferrer" className="bg-blue-600 text-center text-white font-bold py-3.5 px-6 rounded-xl mt-4 shadow-lg active:scale-95 transition-transform">
-            Baixar o ArraisPro grátis no Google Play
+            Baixar o app
           </a>
         </div>
       )}
@@ -102,6 +103,25 @@ export default function Home() {
       <Helmet>
         <title>Simulados para Arrais-Amador e Motonauta | ArraisPro</title>
         <meta name="description" content="Estude para Arrais-Amador e Motonauta com simulados, questões comentadas, apostila e trilha de estudos. Baixe o ArraisPro." />
+        <meta property="og:title" content="Simulados para Arrais-Amador e Motonauta | ArraisPro" />
+        <meta property="og:description" content="Estude para Arrais-Amador e Motonauta com simulados, questões comentadas, apostila e trilha de estudos. Baixe o ArraisPro." />
+        <meta property="og:url" content="https://www.arraispro.com.br/" />
+        <meta property="og:site_name" content="ArraisPro" />
+        <meta property="og:image" content="https://www.arraispro.com.br/og-home.jpg" />
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "ArraisPro",
+            "url": "https://www.arraispro.com.br/",
+            "description": "Plataforma independente de apoio aos estudos para Arrais-Amador e Motonauta.",
+            "sameAs": [
+              "https://www.instagram.com/arraispro/",
+              "https://www.facebook.com/profile.php?id=61595228090694",
+              "https://play.google.com/store/apps/details?id=br.com.arraispro.app"
+            ]
+          })}
+        </script>
       </Helmet>
 
       <a href="#conteudo-principal" className="sr-only focus:not-sr-only bg-blue-600 text-white p-4 absolute z-[100] left-0 top-0">Ir para o conteúdo principal</a>
@@ -126,7 +146,7 @@ export default function Home() {
               <span className="bg-gradient-to-r from-blue-400 via-blue-300 to-cyan-300 bg-clip-text text-transparent drop-shadow-sm">Arrais-Amador e Motonauta</span>
             </h1>
             <p className="text-base sm:text-lg md:text-xl text-slate-300 leading-relaxed max-w-xl mx-auto md:mx-0 mt-4 relative z-10">
-              Prepare-se com simulados, questões comentadas, trilha de estudos e apostila digital de apoio para sua habilitação náutica. Conteúdo organizado com base no programa de estudos oficial <span className="whitespace-nowrap text-blue-300 font-medium">(NORMAM-211 e 212/DPC)</span>.
+              Prepare-se com simulados, questões comentadas, trilha de estudos e apostila digital de apoio para sua habilitação náutica. Conteúdo organizado com referência aos temas de estudo das categorias e a documentos públicos aplicáveis, incluindo as <span className="whitespace-nowrap text-blue-300 font-medium">NORMAM-211/DPC e NORMAM-212/DPC</span>.
             </p>
             
             <div className="flex flex-col gap-3 mt-6 w-full items-center md:items-start relative z-10">
@@ -252,7 +272,7 @@ export default function Home() {
             Estude por temas e acompanhe seu progresso
           </h2>
           <p className="text-base sm:text-lg text-slate-600 leading-relaxed mt-6 text-pretty">
-            Cansado de materiais pouco claros e questões espalhadas em arquivos confusos? O ArraisPro ajuda na sua preparação organizando os estudos em uma sequência lógica: você lê a teoria de apoio (com base nas normas <span className="whitespace-nowrap">NORMAM-211 e 212/DPC</span>), pratica com simulados, reforça a memória com <em>flashcards</em> e revisa os pontos em que errou. Nossa plataforma abrange as habilitações de Arrais-Amador e Motonauta.
+            Cansado de materiais pouco claros e questões espalhadas em arquivos confusos? O ArraisPro ajuda na sua preparação organizando os estudos em uma sequência lógica: você lê a teoria de apoio, pratica com simulados, reforça a memória com <em>flashcards</em> e revisa os pontos em que errou. Nossa plataforma abrange as habilitações de Arrais-Amador e Motonauta.
           </p>
           <div className="mt-8">
             <a href="#recursos" className="inline-flex items-center gap-2 text-blue-600 font-bold hover:text-blue-700 transition group">
@@ -480,7 +500,7 @@ export default function Home() {
               O ArraisPro reúne os recursos necessários para organizar a sua preparação para as provas teóricas de Arrais-Amador e Motonauta. Em vez de depender de materiais espalhados, você pode combinar simulados, questões comentadas, apostila digital e uma trilha de estudos gamificada para revisar os temas no seu próprio ritmo e identificar rapidamente quais assuntos merecem mais atenção antes do exame.
             </p>
             <p>
-              Use os simulados categorizados para praticar os conhecimentos adquiridos, consulte os comentários detalhados para entender o motivo de cada resposta e retome os módulos da apostila sempre que precisar revisar um conceito de marinharia ou legislação. O ecossistema foi desenvolvido para proporcionar confiança real. Vale ressaltar que o ArraisPro é uma plataforma totalmente independente de apoio aos estudos e não possui vínculo, homologação ou endosso da Marinha do Brasil.
+              Use os simulados categorizados para praticar os conhecimentos adquiridos, consulte os comentários detalhados para entender o motivo de cada resposta e retome os módulos da apostila sempre que precisar revisar um conceito de marinharia ou legislação. O ecossistema foi desenvolvido para ajudar você a estudar de forma mais organizada, identificar os temas que precisam de revisão e praticar com consistência antes da prova. Vale ressaltar que o ArraisPro é uma plataforma totalmente independente de apoio aos estudos e não possui vínculo, homologação ou endosso da Marinha do Brasil.
             </p>
           </div>
         </div>
@@ -489,24 +509,38 @@ export default function Home() {
       {/* 7.6 ESTUDE PARA SUA CATEGORIA (Links Internos SEO) */}
       <section className="py-24 px-6 bg-slate-50 border-t border-slate-100">
         <div className="max-w-4xl mx-auto">
-          <h2 className="text-3xl md:text-4xl font-black text-slate-800 mb-12 tracking-tighter text-center">Estude para sua categoria</h2>
           <div className="grid md:grid-cols-2 gap-8">
-            <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200">
-              <h3 className="text-xl font-bold text-slate-800 mb-3"><Link to="/arrais-amador" className="hover:text-blue-600 transition">Arrais-Amador</Link></h3>
-              <p className="text-slate-600">Conheça os temas da preparação teórica, os simulados e os recursos de revisão para Arrais-Amador.</p>
+            <div className="bg-white p-10 rounded-3xl shadow-sm border border-slate-200 hover:-translate-y-1 transition-transform duration-300">
+              <h2 className="text-2xl font-black text-slate-800 mb-4 tracking-tight">Vai fazer a prova de Arrais-Amador?</h2>
+              <p className="text-slate-600 mb-8 leading-relaxed">Prepare-se com simulados, questões comentadas, apostila digital, flashcards e uma trilha de estudos para organizar sua revisão.</p>
+              <Link to="/arrais-amador" className="inline-flex items-center gap-2 bg-slate-900 hover:bg-blue-600 text-white font-bold py-3.5 px-6 rounded-xl transition-colors">
+                Estudar para Arrais-Amador &rarr;
+              </Link>
             </div>
-            <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200">
-              <h3 className="text-xl font-bold text-slate-800 mb-3"><Link to="/motonauta" className="hover:text-blue-600 transition">Motonauta</Link></h3>
-              <p className="text-slate-600">Revise conteúdos relacionados à preparação teórica para Motonauta e pratique com questões por tema.</p>
+            
+            <div className="bg-white p-10 rounded-3xl shadow-sm border border-slate-200 hover:-translate-y-1 transition-transform duration-300">
+              <h2 className="text-2xl font-black text-slate-800 mb-4 tracking-tight">Vai fazer a prova de Motonauta?</h2>
+              <p className="text-slate-600 mb-8 leading-relaxed">Revise segurança, navegação interior, balizamento, RIPEAM e outros conteúdos relevantes com simulados e materiais de apoio.</p>
+              <Link to="/motonauta" className="inline-flex items-center gap-2 bg-slate-900 hover:bg-blue-600 text-white font-bold py-3.5 px-6 rounded-xl transition-colors">
+                Estudar para Motonauta &rarr;
+              </Link>
             </div>
-            <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200">
-              <h3 className="text-xl font-bold text-slate-800 mb-3"><Link to="/simulado-arrais-amador" className="hover:text-blue-600 transition">Simulados para Arrais-Amador</Link></h3>
-              <p className="text-slate-600">Pratique questões e acompanhe seu desempenho por assunto.</p>
-            </div>
-            <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200">
-              <h3 className="text-xl font-bold text-slate-800 mb-3"><Link to="/simulado-motonauta" className="hover:text-blue-600 transition">Simulados para Motonauta</Link></h3>
-              <p className="text-slate-600">Treine os temas relacionados à categoria de Motonauta no aplicativo.</p>
-            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* 7.7 REDES SOCIAIS */}
+      <section className="py-24 px-6 bg-white border-t border-slate-100 text-center">
+        <div className="max-w-2xl mx-auto">
+          <h2 className="text-3xl md:text-4xl font-black text-slate-800 mb-6 tracking-tighter">Acompanhe o ArraisPro</h2>
+          <p className="text-lg text-slate-600 mb-10">Receba dicas de estudo, questões, explicações e novidades sobre Arrais-Amador e Motonauta pelas redes oficiais do ArraisPro.</p>
+          <div className="flex flex-col sm:flex-row justify-center gap-4">
+            <a href="https://www.instagram.com/arraispro/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-2 bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold py-3 px-8 rounded-full transition-colors border border-slate-200">
+              Siga o ArraisPro no Instagram
+            </a>
+            <a href="https://www.facebook.com/profile.php?id=61595228090694" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-2 bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold py-3 px-8 rounded-full transition-colors border border-slate-200">
+              Acompanhe o ArraisPro no Facebook
+            </a>
           </div>
         </div>
       </section>
@@ -567,24 +601,7 @@ export default function Home() {
       </main>
 
       {/* 10. FOOTER */}
-      <footer className="bg-slate-950 text-slate-400 pt-12 pb-24 md:pb-12 px-6 text-sm border-t border-slate-900">
-        <div className="max-w-6xl mx-auto flex flex-col items-center gap-6">
-          <img src="/logo.png" alt="ArraisPro" className="h-10 opacity-60 hover:opacity-100 transition" />
-          <div className="flex flex-wrap gap-4 md:gap-6 justify-center">
-            <Link to="/sobre" className="hover:text-white transition">Sobre o ArraisPro</Link>
-            <Link to="/como-produzimos-o-conteudo" className="hover:text-white transition">Como produzimos o conteúdo</Link>
-            <Link to="/politica-editorial" className="hover:text-white transition">Política Editorial</Link>
-            <Link to="/fontes-e-referencias" className="hover:text-white transition">Fontes e Referências</Link>
-            <Link to="/politica-de-privacidade" className="hover:text-white transition">Política de Privacidade</Link>
-            <Link to="/termos-de-uso" className="hover:text-white transition">Termos de Uso</Link>
-            <Link to="/suporte" className="hover:text-white transition">Suporte</Link>
-          </div>
-          <p className="max-w-xl mx-auto mt-2 text-xs text-center opacity-60 leading-relaxed">
-            O ArraisPro é uma plataforma independente de apoio aos estudos para Arrais-Amador e Motonauta. Não emite habilitações e não possui vínculo, homologação ou endosso da Marinha do Brasil.
-          </p>
-          <p className="text-xs opacity-50">© 2026 ArraisPro. Todos os direitos reservados.</p>
-        </div>
-      </footer>
+      <Footer />
 
       {/* FLOATING CTA — Botão fixo no rodapé (Mobile Only, definido em App.css) */}
       <div className="floating-cta md:hidden">

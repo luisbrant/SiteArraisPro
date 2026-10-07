@@ -49,7 +49,7 @@ Para Arrais-Amador, consulte a **NORMAM-211/DPC e seu Anexo 5-A**. Para Motonaut
 
 Escolha primeiro a categoria correspondente à embarcação que deseja conduzir. Em seguida, estude o programa do exame e pratique questões para identificar os assuntos que precisam de revisão.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para você praticar e acompanhar seu desempenho.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para você praticar e acompanhar seu desempenho.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -116,7 +116,7 @@ A CHA tem, em regra, validade de **10 anos**. Conforme as condições de emissã
 
 ## Prepare-se com o ArraisPro
 
-O **ArraisPro** é um aplicativo educacional independente para quem estuda para as avaliações teóricas de Arrais-Amador e Motonauta. Nele, você encontra apostila, flashcards, quizzes e simulados com questões autorais para praticar e acompanhar seu desempenho.
+O **ArraisPro** é um aplicativo educacional independente para quem estuda para as avaliações teóricas de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Nele, você encontra apostila, flashcards, quizzes e simulados com questões autorais para praticar e acompanhar seu desempenho. Ainda com dúvidas se precisa de Motonauta? Leia sobre a [diferença entre Arrais-Amador e Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -298,7 +298,7 @@ Se ocorrer um acidente, os fatos também poderão ser examinados nas esferas com
 
 Antes de sair, confira se quem assumirá a condução possui **habilitação para aquele tipo de embarcação e para a área de navegação**. Se um familiar ou amigo ainda não é habilitado, oriente-o a seguir o processo de treinamento e exame da categoria adequada, em vez de praticar durante um passeio informal.
 
-Para estudar a parte teórica, o **ArraisPro** reúne apostila, flashcards, quizzes e simulados com questões autorais voltados à preparação para Arrais-Amador e Motonauta.
+Para estudar a parte teórica, o **ArraisPro** reúne apostila, flashcards, quizzes e simulados com questões autorais voltados à preparação para [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ainda não sabe qual escolher? Entenda a [diferença entre Arrais-Amador e Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -358,7 +358,7 @@ Essas informações operacionais podem variar conforme a unidade e a forma de ap
 
 Comece pelo programa da categoria que você deseja obter. Depois, alterne a leitura da teoria com questões e simulados: ao errar, volte ao assunto correspondente e entenda a regra antes de tentar novamente.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para você praticar e acompanhar seu desempenho.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para você praticar e acompanhar seu desempenho. Se você tem dúvida sobre os limites de cada categoria, veja a [diferença entre Arrais-Amador e Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -411,7 +411,7 @@ Um material antigo não está automaticamente errado em tudo; o problema é usar
 
 ## Pratique com o ArraisPro
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com **questões autorais**.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ele reúne apostila, flashcards, quizzes e simulados com **questões autorais**. Se não souber se precisa focar nas duas categorias, veja a [diferença entre Arrais-Amador e Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
 
 Nos simulados, você pode acompanhar o tempo e conferir o resultado para identificar os assuntos que precisam de mais revisão. Use essas informações para planejar a próxima sessão de estudo, em vez de olhar apenas a pontuação final.
 
@@ -423,16 +423,16 @@ Nos simulados, você pode acompanhar o tempo e conferir o resultado para identif
   {
     id: 8,
     slug: 'questoes-mais-reprovam-prova-arrais-motonauta',
-    title: '6 regras de RIPEAM e balizamento para Arrais e Motonauta',
-    description: 'Revise seis situações de RIPEAM, balizamento e segurança perto de praias que exigem atenção na preparação para Arrais-Amador e Motonauta.',
+    title: 'Questões que exigem mais atenção na prova de Arrais-Amador e Motonauta',
+    description: 'Revise situações de RIPEAM, balizamento e segurança perto de praias que exigem atenção na preparação para Arrais-Amador e Motonauta.',
     date: '2026-08-05',
     author: 'Equipe ArraisPro',
     content: `
-# 6 regras de RIPEAM e balizamento para revisar antes da prova
+# Questões que exigem mais atenção na prova de Arrais-Amador e Motonauta
 
-Algumas questões de Arrais-Amador e Motonauta não dependem apenas de lembrar uma cor ou uma palavra-chave. Para responder corretamente, você precisa identificar **a situação descrita**: que embarcações estão envolvidas, em que sentido navegam e quais condições fazem a regra valer.
+Algumas questões de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta) não dependem apenas de lembrar uma cor ou uma palavra-chave. Para responder corretamente, você precisa identificar **a situação descrita**: que embarcações estão envolvidas, em que sentido navegam e quais condições fazem a regra valer.
 
-Veja seis exemplos para revisar com atenção. **Esta não é uma lista estatística das questões que mais reprovam**, mas uma seleção de regras que vale estudar com seus respectivos contextos.
+Veja alguns exemplos para revisar com atenção. **Esta não é uma lista estatística de reprovação**, mas uma seleção de regras que vale estudar com seus respectivos contextos.
 
 ## 1. Rumos cruzados: quem deve manobrar?
 
@@ -474,9 +474,9 @@ Para **moto aquática em atividade de esporte e recreio**, a NORMAM-212/DPC esta
 
 ## Como transformar essas regras em acertos?
 
-Depois de estudar cada regra, resolva questões que mudem um detalhe do cenário: tipo de embarcação, posição relativa, direção do balizamento ou finalidade da aproximação à praia. Ao errar, volte ao texto da regra e identifique **qual condição você deixou passar**.
+Depois de estudar cada regra, resolva questões que mudem um detalhe do cenário: tipo de embarcação, posição relativa, direção do balizamento ou finalidade da aproximação à praia. Ao errar, volte ao texto da regra e identifique **qual condição você deixou passar**. Se ainda está em dúvida sobre qual habilitação atende melhor ao seu perfil, leia nosso artigo sobre a [diferença entre Arrais-Amador e Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para praticar e acompanhar seu desempenho.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para praticar e acompanhar seu desempenho.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -615,7 +615,7 @@ Evite tratar dicas de outra Capitania como regras universais: siga as instruçõ
 
 Faça uma rodada curta de questões dos assuntos em que ainda tem dúvidas. Ao errar, revise a regra correspondente e pare de repetir a questão quando perceber que está apenas memorizando a alternativa.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para você revisar e acompanhar seu desempenho.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para você revisar e acompanhar seu desempenho. Se você ainda tem dúvidas sobre qual categoria focar, leia sobre a [diferença entre Arrais-Amador e Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -684,7 +684,7 @@ Em vez de decorar uma frase por regra, tente responder a esta sequência em cada
 
 Essa sequência ajuda a interpretar cenários de prova sem transformar uma regra específica em uma resposta automática para qualquer encontro entre embarcações.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de Arrais-Amador e Motonauta. Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para você praticar esses conceitos e acompanhar seu desempenho.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ele reúne apostila, flashcards, quizzes e simulados com questões autorais para você praticar esses conceitos e acompanhar seu desempenho. Caso precise entender qual regra se aplica ao seu objetivo, veja a [diferença entre Arrais-Amador e Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 

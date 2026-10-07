@@ -1,6 +1,8 @@
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
 import { Link } from 'react-router-dom';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 
 const referencias = [
   {
@@ -54,16 +56,7 @@ export default function FontesEReferencias() {
         <link rel="canonical" href="https://www.arraispro.com.br/fontes-e-referencias" />
       </Helmet>
 
-      <header className="bg-white border-b border-slate-200 shadow-sm py-6">
-        <div className="max-w-4xl mx-auto px-6 flex justify-between items-center">
-          <Link to="/">
-            <img src="/logo.png" alt="ArraisPro" className="h-16 sm:h-20 md:h-24 w-auto max-w-[220px] object-contain" />
-          </Link>
-          <Link to="/sobre" className="text-blue-600 font-bold hover:text-blue-800 transition">
-            &larr; Sobre o ArraisPro
-          </Link>
-        </div>
-      </header>
+      <Header variant="simple" />
 
       <main className="flex-1 max-w-3xl mx-auto px-6 py-16 w-full">
         <h1 className="text-3xl md:text-4xl font-black text-slate-900 mb-6 tracking-tight">Fontes e referências</h1>
@@ -127,12 +120,7 @@ export default function FontesEReferencias() {
         </div>
       </main>
 
-      <footer className="bg-slate-950 text-slate-400 py-8 text-center text-sm border-t border-slate-900 mt-auto">
-        <div className="max-w-4xl mx-auto px-6">
-          <p className="mb-3">O ArraisPro é uma plataforma independente de apoio aos estudos para Arrais-Amador e Motonauta. Não emite habilitações e não possui vínculo, homologação ou endosso da Marinha do Brasil.</p>
-          <p>© 2026 ArraisPro. Todos os direitos reservados.</p>
-        </div>
-      </footer>
+      <Footer />
     </div>
   );
 }

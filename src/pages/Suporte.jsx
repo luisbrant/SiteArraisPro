@@ -1,6 +1,8 @@
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
 import { Link } from 'react-router-dom';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 
 export default function Suporte() {
   return (
@@ -10,16 +12,7 @@ export default function Suporte() {
         <meta name="description" content="Entre em contato com a equipe de suporte do ArraisPro." />
       </Helmet>
 
-      <header className="bg-white border-b border-slate-200 shadow-sm py-6">
-        <div className="max-w-4xl mx-auto px-6 flex justify-between items-center">
-          <Link to="/">
-            <img src="/logo.png" alt="ArraisPro" className="h-10 w-auto object-contain" />
-          </Link>
-          <Link to="/" className="text-blue-600 font-bold hover:text-blue-800 transition">
-            &larr; Voltar
-          </Link>
-        </div>
-      </header>
+      <Header variant="simple" />
 
       <main className="flex-1 max-w-3xl mx-auto px-6 py-20 w-full text-center">
         <div className="bg-white p-10 rounded-2xl shadow-sm border border-slate-200">
@@ -40,11 +33,7 @@ export default function Suporte() {
         </div>
       </main>
 
-      <footer className="bg-slate-950 text-slate-400 py-8 text-center text-sm border-t border-slate-900 mt-auto">
-        <div className="max-w-4xl mx-auto px-6">
-          <p>© 2026 ArraisPro. Todos os direitos reservados.</p>
-        </div>
-      </footer>
+      <Footer />
     </div>
   );
 }
