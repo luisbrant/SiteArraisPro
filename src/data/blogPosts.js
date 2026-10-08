@@ -1544,4 +1544,592 @@ Sempre confirme documentos, taxas e prazos nos sites oficiais da Marinha do Bras
 O ArraisPro é uma plataforma independente de apoio aos estudos para Arrais-Amador e Motonauta. Não emite habilitações e não possui vínculo, homologação ou endosso da Marinha do Brasil.
 `
   }
+,
+  {
+    id: 25,
+    slug: 'o-que-arrais-amador-pode-conduzir',
+    title: 'O que o Arrais-Amador pode conduzir? Entenda os limites da habilitação',
+    description: 'Entenda o que o Arrais-Amador pode conduzir, os limites da navegação interior e a diferença para Motonauta, Mestre-Amador e Capitão-Amador.',
+    date: '2026-10-14',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# O que o Arrais-Amador pode conduzir? Entenda os limites da habilitação
+
+A habilitação de Arrais-Amador é a porta de entrada para quem deseja conduzir embarcações de esporte e recreio. Mas você sabe exatamente quais são os limites dessa categoria?
+
+De acordo com a NORMAM-211/DPC, o Arrais-Amador está habilitado para conduzir embarcações nos limites da **navegação interior**.
+
+## O que a categoria permite?
+
+Com a habilitação de Arrais-Amador, você pode conduzir lanchas, veleiros com propulsão a motor e outras embarcações de esporte e recreio, desde que respeite os limites das águas abrigadas e as determinações da Capitania dos Portos da sua jurisdição.
+
+É importante lembrar que **Arrais-Amador não pode conduzir moto aquática**. Para isso, é necessária a habilitação de [Motonauta](/motonauta). Se você quer saber mais sobre essa distinção, leia nosso artigo sobre a [diferença entre Arrais-Amador e Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
+
+## E além da navegação interior?
+
+Se você deseja navegar além das águas interiores, precisará avançar nas categorias de amadores:
+- **Mestre-Amador:** para navegação costeira (até os limites da visibilidade da costa).
+- **Capitão-Amador:** para navegação oceânica (sem limites geográficos).
+
+As áreas de navegação interior são delimitadas localmente pelas Capitanias, Delegacias ou Agências competentes. Portanto, consulte a autoridade da sua região para conhecer os limites exatos.
+
+## Próximo passo
+
+Pronto para iniciar sua jornada? Use os simulados do ArraisPro para fixar o conteúdo exigido no exame.
+
+[Acesse a página inicial de Arrais-Amador](/arrais-amador)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 26,
+    slug: 'o-que-motonauta-pode-conduzir',
+    title: 'O que o Motonauta pode conduzir? Entenda os limites da habilitação',
+    description: 'Saiba o que o Motonauta pode conduzir, onde pode navegar e por que a habilitação é específica para moto aquática.',
+    date: '2026-10-17',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# O que o Motonauta pode conduzir? Entenda os limites da habilitação
+
+Motonauta é a categoria específica para quem deseja conduzir motos aquáticas (jet skis) nos limites da navegação interior.
+
+Segundo a NORMAM-212/DPC, a habilitação de Motonauta não permite a condução de outras embarcações de esporte e recreio, como lanchas. Para esses casos, é necessária a carteira de [Arrais-Amador](/arrais-amador). 
+
+## Regras e limites de navegação
+
+O Motonauta deve respeitar rigorosamente os limites da navegação interior e as regras de segurança estabelecidas. A navegação de moto aquática, por exemplo, exige cuidados redobrados em relação a banhistas, distâncias mínimas da costa e equipamentos obrigatórios (como colete salva-vidas de classe adequada).
+
+Se tiver dúvidas sobre as categorias, recomendamos a leitura sobre a [diferença entre Arrais-Amador e Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
+
+## Próximo passo
+
+Revise o conteúdo com foco nas especificidades da NORMAM-212/DPC e treine com as questões do nosso simulado de Motonauta.
+
+[Acesse a página de Motonauta](/motonauta)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 27,
+    slug: 'arrais-amador-pode-pilotar-jet-ski',
+    title: 'Arrais-Amador pode pilotar jet ski? Entenda a habilitação necessária',
+    description: 'Descubra se a habilitação de Arrais-Amador permite conduzir jet ski e entenda quando a categoria Motonauta é necessária.',
+    date: '2026-10-21',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Arrais-Amador pode pilotar jet ski? Entenda a habilitação necessária
+
+Uma dúvida muito comum entre iniciantes no mundo náutico é: "Se eu tirar a carteira de Arrais-Amador, posso pilotar jet ski?"
+
+A resposta, de acordo com as diretrizes da NORMAM-211/DPC e NORMAM-212/DPC, é **não**.
+
+## A diferença entre as categorias
+
+A habilitação de [Arrais-Amador](/arrais-amador) permite a condução de embarcações de esporte e recreio nos limites da navegação interior, **exceto** motos aquáticas. 
+
+Para conduzir uma moto aquática (popularmente conhecida como jet ski), é obrigatório possuir a habilitação de [Motonauta](/motonauta).
+
+Muitos candidatos optam por prestar o exame para as duas categorias ao mesmo tempo, realizando os treinamentos práticos de ambas e estudando os conteúdos complementares. Entenda mais no nosso artigo detalhado sobre a [diferença entre Arrais-Amador e Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
+
+## Próximo passo
+
+Se o seu foco for apenas a moto aquática, certifique-se de praticar os simulados focados na legislação pertinente.
+
+[Acesse o Simulado de Motonauta](/simulado-motonauta)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 28,
+    slug: 'habilitacao-motonauta-como-funciona',
+    title: 'Habilitação de Motonauta: como funciona a preparação e a categoria',
+    description: 'Entenda como funciona a habilitação de Motonauta, o que estudar e quais cuidados devem ser observados antes de iniciar o processo.',
+    date: '2026-10-24',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Habilitação de Motonauta: como funciona a preparação e a categoria
+
+Obter a carteira de [Motonauta](/motonauta) é o passo necessário para conduzir motos aquáticas legalmente. Mas como funciona o processo?
+
+## Passos para a habilitação
+
+A obtenção da carteira exige a realização de um treinamento prático obrigatório em entidade credenciada, além da aprovação no exame teórico aplicado pela Capitania dos Portos (ou Delegacia/Agência).
+
+O exame foca em questões de navegação, segurança, primeiros socorros, RIPEAM e legislação, com atenção especial à NORMAM-212/DPC. 
+
+Para quem também pensa em conduzir lanchas no futuro, é comum fazer a formação conjunta. Leia sobre a [diferença entre Arrais-Amador e Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
+
+Lembre-se: os procedimentos, datas e taxas devem ser confirmados na Capitania, Delegacia ou Agência da sua jurisdição.
+
+## Próximo passo
+
+Sua aprovação no exame teórico depende de bons estudos. Para organizar a revisão, use os simulados e os recursos educacionais independentes oferecidos no aplicativo.
+
+[Conheça o Simulado de Motonauta](/simulado-motonauta)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 29,
+    slug: 'navegacao-interior-o-que-e',
+    title: 'O que é navegação interior? Entenda onde o Arrais-Amador pode navegar',
+    description: 'Saiba o que é navegação interior, como as áreas são definidas e por que esse conceito é importante para quem pretende tirar Arrais-Amador ou Motonauta.',
+    date: '2026-10-28',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# O que é navegação interior? Entenda onde o Arrais-Amador pode navegar
+
+Ao estudar para [Arrais-Amador](/arrais-amador) ou [Motonauta](/motonauta), o termo "navegação interior" aparece em praticamente todos os tópicos. O que ele significa?
+
+Navegação interior, segundo a NORMAM-211/DPC, engloba águas abrigadas, como lagos, rios, canais e áreas marítimas parcialmente abrigadas.
+
+## Divisão das áreas de navegação interior
+
+Normalmente, essas áreas se dividem em:
+- **Área 1:** Águas abrigadas que não estão sujeitas a ondas significativas ou variações severas do tempo (ex: rios, lagoas).
+- **Área 2:** Águas parcialmente abrigadas, onde ondas e condições meteorológicas podem apresentar alguma adversidade (ex: baías, enseadas).
+
+As áreas de navegação interior são delimitadas localmente pelas Capitanias, Delegacias ou Agências competentes. Se você for navegar no limite dessas águas e atingir a navegação costeira (mar aberto), será necessário possuir a habilitação de Mestre-Amador. 
+
+Leia também nosso texto sobre a [diferença entre Arrais-Amador e Motonauta](/blog/diferenca-arrais-amador-e-motonauta) para entender o foco de cada carteira.
+
+## Próximo passo
+
+Entender bem a área de operação da embarcação é assunto recorrente em prova. Estude utilizando o simulado focado em legislação.
+
+[Faça o Simulado Arrais-Amador](/simulado-arrais-amador)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 30,
+    slug: 'moto-aquatica-pode-navegar-a-noite',
+    title: 'Moto aquática pode navegar à noite? Entenda as regras de segurança',
+    description: 'Entenda as regras de segurança aplicáveis à condução de moto aquática e saiba por que o planejamento de navegação é essencial.',
+    date: '2026-10-31',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Moto aquática pode navegar à noite? Entenda as regras de segurança
+
+Diferente de muitas lanchas e veleiros de esporte e recreio, a condução de moto aquática (jet ski) possui regulamentos específicos devido às suas características de alta velocidade e ausência de sinalização luminosa adequada de fábrica.
+
+## Regras de navegação noturna
+
+Na grande maioria dos casos e segundo diretrizes da NORMAM-212/DPC, a navegação de moto aquática é restrita ao período diurno (do nascer ao pôr do sol). A exceção ocorre se a embarcação estiver registrada para operação noturna e provida com as luzes de navegação obrigatórias exigidas pelo RIPEAM.
+
+Se você está estudando para [Motonauta](/motonauta), o planejamento diurno e os limites de navegação são temas cruciais na preparação teórica. Vale complementar a leitura com o artigo sobre [como estudar RIPEAM e regras básicas de ouro](/blog/ripeam-descomplicado-regras-ouro).
+
+## Próximo passo
+
+Questões de segurança e período de navegação são comuns nas avaliações. Pratique as questões comentadas no ArraisPro.
+
+[Pratique no Simulado de Motonauta](/simulado-motonauta)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 31,
+    slug: 'como-estudar-ripeam-para-prova',
+    title: 'Como estudar RIPEAM para a prova de Arrais-Amador e Motonauta',
+    description: 'Aprenda uma forma organizada de estudar RIPEAM para a prova de Arrais-Amador e Motonauta com revisão por situações e prática de questões.',
+    date: '2026-11-04',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Como estudar RIPEAM para a prova de Arrais-Amador e Motonauta
+
+O RIPEAM (Regulamento Internacional para Evitar Abalroamentos no Mar) é o "código de trânsito" das embarcações. Ele costuma ser o tópico que mais gera dúvidas na prova de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta).
+
+## Estratégia de estudos
+
+A melhor forma de assimilar as regras (como a quem pertence a preferência em um cruzamento ou rumos encontrados) não é apenas memorizar o texto da norma, mas sim imaginar o cenário de encontro.
+
+1. Identifique o tipo de embarcação.
+2. Defina quem é a embarcação "alcançadora" e a "alcançada".
+3. Visualize os sinais luminosos, como as regras fundamentais detalhadas em [RIPEAM descomplicado: regras de ouro](/blog/ripeam-descomplicado-regras-ouro).
+
+Estudar por situações práticas ajuda a eliminar a confusão nas questões de prova. A apostila do ArraisPro traz esses esquemas desenhados de forma fácil de entender.
+
+## Próximo passo
+
+Para reter o RIPEAM, a repetição é essencial. Teste o seu conhecimento no simulado específico do nosso app.
+
+[Acesse o Simulado de Arrais-Amador](/simulado-arrais-amador)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 32,
+    slug: 'como-estudar-balizamento-para-prova-arrais',
+    title: 'Como estudar balizamento para a prova de Arrais-Amador e Motonauta',
+    description: 'Veja como estudar balizamento para a prova de Arrais-Amador e Motonauta, com foco em revisão, interpretação e prática de questões.',
+    date: '2026-11-07',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Como estudar balizamento para a prova de Arrais-Amador e Motonauta
+
+Junto ao RIPEAM, o sistema de balizamento IALA Região B (o modelo adotado no Brasil) é base na preparação teórica para [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta).
+
+## Revisando o balizamento
+
+Para garantir sucesso nesse tópico, concentre-se nas **cores**, **formatos (sinais de tope)** e **luzes**. Saber interpretar se um sinal cilíndrico verde exige deixar a bóia a bombordo ou a boreste faz toda a diferença. Recomendamos a leitura do nosso guia [Entendendo o balizamento marítimo](/blog/entendendo-o-balizamento-maritimo).
+
+O segredo aqui é praticar com as questões do simulado que contêm imagens. Ao ver os sinais de perigo isolado ou águas seguras desenhados, a memorização ocorre naturalmente.
+
+## Próximo passo
+
+Não basta ler a teoria; resolva os exercícios do aplicativo para garantir que as regras de balizamento se consolidem antes da avaliação.
+
+[Estude pela Apostila de Arrais-Amador](/apostila-arrais-amador)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 33,
+    slug: 'carteira-habilitacao-amador-cha-o-que-e',
+    title: 'CHA: o que é a Carteira de Habilitação de Amador e para que serve?',
+    description: 'Entenda o que é a CHA, a Carteira de Habilitação de Amador, quais categorias existem e por que ela é importante para a navegação de esporte e recreio.',
+    date: '2026-11-14',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# CHA: o que é a Carteira de Habilitação de Amador e para que serve?
+
+A CHA (Carteira de Habilitação de Amador) é o documento emitido pela Marinha do Brasil que autoriza cidadãos não profissionais a conduzirem embarcações de esporte e recreio.
+
+Ela é concedida aos candidatos que cumprem todos os requisitos administrativos, treinamentos práticos e aprovação na prova teórica das diversas categorias (como [Arrais-Amador](/arrais-amador), [Motonauta](/motonauta), Veleiro, Mestre-Amador e Capitão-Amador). A NORMAM-211/DPC rege todo o funcionamento dessas certificações.
+
+Para entender as regras gerais de acesso, veja o passo a passo sobre [como tirar a carteira de Arrais-Amador](/blog/passo-a-passo-carteira-arrais-amador-2026).
+
+## Próximo passo
+
+Mantenha sua preparação teórica organizada resolvendo exercícios direcionados ao seu nível de habilitação pretendido.
+
+[Veja o Simulado Arrais-Amador](/simulado-arrais-amador)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 34,
+    slug: 'documentos-necessarios-arrais-amador',
+    title: 'Documentos para Arrais-Amador: o que verificar antes da inscrição',
+    description: 'Veja quais documentos costumam ser solicitados para a inscrição de Arrais-Amador e saiba por que é importante confirmar os requisitos com a Capitania competente.',
+    date: '2026-11-21',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Documentos para Arrais-Amador: o que verificar antes da inscrição
+
+Antes de submeter a inscrição do exame na Capitania, Delegacia ou Agência competente, o candidato deve organizar os documentos necessários exigidos pela NORMAM-211/DPC.
+
+Geralmente, são exigidos:
+- Documento de identidade com CPF.
+- Comprovante de residência.
+- Comprovante do atestado de treinamento prático (feito em escola náutica).
+- Atestado médico (que, conforme as normas em vigor, pode vir a ser substituído pela CNH dentro da validade).
+- Comprovante de recolhimento da taxa GRU.
+
+**Aviso:** Consulte a Capitania, Delegacia ou Agência da sua jurisdição para verificar procedimentos atualizados, datas, taxas e toda a documentação aplicável. Não se baseie apenas em relatos da internet, pois detalhes podem mudar de jurisdição para jurisdição.
+
+Se você está iniciando o processo, leia o [passo a passo para a carteira de Arrais-Amador](/blog/passo-a-passo-carteira-arrais-amador-2026).
+
+## Próximo passo
+
+Depois da parte burocrática, foque na prova. Use o ArraisPro para consolidar sua preparação teórica.
+
+[Estude no Simulado Arrais-Amador](/simulado-arrais-amador)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 35,
+    slug: 'equipamentos-seguranca-embarcacao-navegacao-interior',
+    title: 'Equipamentos de segurança para embarcação em navegação interior: guia de estudo',
+    description: 'Entenda os principais equipamentos de segurança e navegação para embarcações de esporte e recreio em navegação interior.',
+    date: '2026-11-28',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Equipamentos de segurança para embarcação em navegação interior
+
+A segurança da navegação depende, em grande parte, dos equipamentos presentes a bordo. Na prova teórica de [Arrais-Amador](/arrais-amador), as exigências contidas na NORMAM-211/DPC sobre os equipamentos essenciais aparecem com frequência.
+
+Os equipamentos exigidos para a **navegação interior** podem incluir (dependendo do comprimento da embarcação):
+- Coletes salva-vidas nas classes e quantidades adequadas.
+- Boias salva-vidas (para lanchas de porte superior, por exemplo).
+- Extintores de incêndio (de classes corretas como ABC, B ou C).
+- Âncora (ferro) adequada, cabos, entre outros equipamentos básicos.
+
+Os requisitos variam conforme a embarcação. Saiba mais detalhes estudando no artigo de [diferenças de navegação](/blog/diferenca-arrais-amador-e-motonauta).
+
+## Próximo passo
+
+Dominar a distribuição de extintores e classes de coletes é vital. Pratique a memorização lendo nossa apostila.
+
+[Conheça a Apostila Digital para Arrais](/apostila-arrais-amador)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 36,
+    slug: 'colete-salva-vidas-embarcacao-guia',
+    title: 'Colete salva-vidas em embarcações: como estudar esse tema para a prova',
+    description: 'Saiba por que o colete salva-vidas é um tema importante para Arrais-Amador e Motonauta e como revisar segurança da navegação para a prova.',
+    date: '2026-12-05',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Colete salva-vidas em embarcações: como estudar esse tema
+
+Na navegação de esporte e recreio, a presença de coletes salva-vidas adequados é exigência absoluta, e o tópico é certeza na avaliação de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta).
+
+A Marinha categoriza os coletes salva-vidas de acordo com a área de navegação. A Classe V, por exemplo, é comum em atividades esportivas e muito cobrada para jet skis. Já a Classe III (ou Classe II, Classe I dependendo da distância de águas abrigadas) é exigida para tripulantes e passageiros em embarcações maiores.
+
+Veja nosso conteúdo detalhado sobre as exigências em navegação no artigo das [diferenças entre Arrais e Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
+
+## Próximo passo
+
+Não decore apenas as classes; resolva exercícios que simulem situações reais. O ArraisPro oferece blocos temáticos de segurança da navegação.
+
+[Faça o Simulado Motonauta](/simulado-motonauta)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 37,
+    slug: 'diferenca-navegacao-interior-costeira-oceanica',
+    title: 'Navegação interior, costeira e oceânica: entenda as diferenças',
+    description: 'Entenda as diferenças entre navegação interior, costeira e oceânica e veja qual habilitação de amador corresponde a cada área.',
+    date: '2026-12-12',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Navegação interior, costeira e oceânica: entenda as diferenças
+
+Para não errar na prova nem nas águas, é imperativo conhecer a distinção entre as áreas de navegação definidas na NORMAM-211/DPC.
+
+- **Navegação Interior:** compreende lagos, lagoas, rios e áreas parcialmente abrigadas (Área 1 e 2). Essa é a jurisdição principal das carteiras de [Arrais-Amador](/arrais-amador).
+- **Navegação Costeira (ou Cabotagem Amadora):** ocorre com o afastamento em relação à costa nos limites da visibilidade (cerca de 20 milhas náuticas em muitos referenciais práticos). A carteira exigida aqui é a de **Mestre-Amador**.
+- **Navegação Oceânica:** sem limite de afastamento da costa. Exige a carteira de **Capitão-Amador**.
+
+Para quem quer aprofundar, veja sobre o tema da navegação interior também no artigo de [diferenças da habilitação](/blog/diferenca-arrais-amador-e-motonauta).
+
+## Próximo passo
+
+Estudar os limites é a base para acertar perguntas de geografia e jurisdição marítima.
+
+[Acesse a Apostila Arrais-Amador](/apostila-arrais-amador)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 38,
+    slug: 'moto-aquatica-diferenca-jet-ski',
+    title: 'Moto aquática e jet ski: existe diferença? Entenda o termo correto',
+    description: 'Entenda o que é moto aquática, por que jet ski é um termo popular e qual habilitação é exigida para a condução responsável.',
+    date: '2026-12-19',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Moto aquática e jet ski: existe diferença? Entenda o termo correto
+
+Muitos perguntam na hora de se inscrever para a carteira de [Motonauta](/motonauta): qual a diferença entre jet ski e moto aquática?
+
+Na verdade, **não existe diferença**. "Jet Ski" é uma marca comercial registrada da Kawasaki que se popularizou muito na década de 1980 e tornou-se sinônimo do veículo no Brasil. O termo normativo oficial utilizado nas regras da NORMAM-212/DPC e documentos legais da Marinha do Brasil é **moto aquática**.
+
+Na prova e nos simulados de [Motonauta](/simulado-motonauta), o termo que aparecerá é o correto do ponto de vista técnico, portanto leia atenciosamente as opções de questões. Leia também o artigo detalhado [Entenda a habilitação de Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
+
+## Próximo passo
+
+Se você quer atuar com segurança pilotando, o foco no treinamento do exame foca inteiramente na moto aquática. 
+
+[Vá para o Simulado Motonauta](/simulado-motonauta)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 39,
+    slug: 'idade-minima-motonauta',
+    title: 'Qual é a idade mínima para tirar habilitação de Motonauta?',
+    description: 'Saiba qual idade verificar para a habilitação de Motonauta e entenda por que a confirmação junto à Capitania competente é importante.',
+    date: '2026-12-26',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Qual é a idade mínima para tirar habilitação de Motonauta?
+
+A exigência normativa, conforme a NORMAM-212/DPC, define que para iniciar o processo da CHA (Carteira de Habilitação de Amador) na categoria de [Motonauta](/motonauta), o indivíduo deve ser maior de **18 anos de idade**.
+
+Por se tratar de uma responsabilidade civil, criminal e de segurança, não são abertas exceções legais para condutores de moto aquática no Brasil. A restrição é semelhante à CNH para carros. Você pode conferir os limites também lendo sobre a [diferença de Arrais-Amador e Motonauta](/blog/diferenca-arrais-amador-e-motonauta).
+
+As regras podem ser atualizadas; confirme a versão vigente da norma e as orientações locais antes de realizar procedimentos.
+
+## Próximo passo
+
+Para os maiores de idade prontos para começar, praticar a avaliação teórica é o passo crucial.
+
+[Treine pelo Simulado Motonauta](/simulado-motonauta)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 40,
+    slug: 'distancia-moto-aquatica-banhistas',
+    title: 'Moto aquática perto de banhistas: entenda os cuidados e as áreas de segurança',
+    description: 'Saiba por que a condução de moto aquática exige atenção redobrada perto de banhistas e como estudar esse tema para a habilitação de Motonauta.',
+    date: '2027-01-02',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Moto aquática perto de banhistas: entenda os cuidados e as áreas de segurança
+
+Um dos focos cruciais da avaliação de [Motonauta](/motonauta) é o distanciamento das praias, banhistas e a prevenção de acidentes severos.
+
+A condução de motos aquáticas exige atenção contínua. Em geral (salvo se as diretrizes locais apontarem áreas flutuadas específicas em contrário), existe o limite de segurança de **200 metros da linha base da arrebentação das ondas ou da praia**. A operação da moto aquática nesse limite deve ocorrer de maneira extremamente cautelosa, apenas para a entrada e saída da água.
+
+Entenda outras proibições no artigo sobre as [regras 5 a 8 do RIPEAM e os cuidados perto da praia](/blog/ripeam-descomplicado-regras-ouro). E confira também o que estipula o regulamento da Capitania da sua jurisdição.
+
+## Próximo passo
+
+Acidentes na orla estão entre os temas que mais caem nas provas. Estude a fundo a legislação pertinente no app.
+
+[Estude no Simulado Motonauta](/simulado-motonauta)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 41,
+    slug: 'chave-seguranca-moto-aquatica',
+    title: 'Chave de segurança da moto aquática: por que esse item é importante?',
+    description: 'Entenda a função da chave de segurança da moto aquática e por que esse item é essencial para uma condução mais segura.',
+    date: '2027-01-09',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Chave de segurança da moto aquática: por que esse item é importante?
+
+O uso da "chave de segurança" atrelada ao punho do condutor ou ao colete salva-vidas (também chamada de *kill switch* ou colar de segurança) é regra de ouro na condução da moto aquática e no exame de [Motonauta](/motonauta).
+
+A finalidade deste equipamento de segurança da NORMAM-212/DPC é desativar imediatamente o motor se o condutor cair da embarcação. Isso previne que a moto aquática desgovernada atinja o condutor que está na água ou avance perigosamente sobre outras embarcações ou banhistas. 
+
+Aprenda a aplicar esse conceito em situações práticas, conforme a base teórica de [regras de navegação](/blog/entendendo-o-balizamento-maritimo).
+
+## Próximo passo
+
+Praticar os equipamentos obrigatórios fará você conquistar acertos importantes. Veja simulados e apostilas focadas.
+
+[Baixe ou acesse o Simulado Motonauta](/simulado-motonauta)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 42,
+    slug: 'luzes-navegacao-como-memorizar',
+    title: 'Luzes de navegação: como memorizar para a prova de Arrais-Amador',
+    description: 'Veja como memorizar luzes de navegação para a prova de Arrais-Amador e Motonauta usando lógica, situações práticas e questões de revisão.',
+    date: '2027-01-16',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Luzes de navegação: como memorizar para a prova de Arrais-Amador
+
+As luzes de navegação no RIPEAM ajudam a identify que tipo de embarcação está na água, seu rumo e seu estado de operação. Para quem presta [Arrais-Amador](/arrais-amador), entender a combinação de luzes é decisivo.
+
+Luzes fundamentais para focar:
+- **Luz de mastro:** Branca (visível num arco de 225°).
+- **Luzes de borda:** Boreste é Verde (112,5°) e Bombordo é Encarnada/Vermelha (112,5°).
+- **Luz de alcançado:** Branca (135° voltada para a ré).
+
+Se o tema parece complexo, associe cada luz aos ângulos visuais de embarcações que cruzam a sua proa. Recomendamos o estudo da nossa série sobre [RIPEAM descomplicado](/blog/ripeam-descomplicado-regras-ouro).
+
+## Próximo passo
+
+Organize os simulados de luzes para consolidar o que você compreendeu na apostila.
+
+[Explore o Simulado de Arrais-Amador](/simulado-arrais-amador)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 43,
+    slug: 'sinais-sonoros-navegacao-como-estudar',
+    title: 'Sinais sonoros de navegação: como estudar para a prova',
+    description: 'Entenda como estudar os sinais sonoros de navegação para a prova de Arrais-Amador e Motonauta com uma estratégia simples de revisão.',
+    date: '2027-01-23',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Sinais sonoros de navegação: como estudar para a prova
+
+Os sinais sonoros fazem parte vital do RIPEAM. No estudo para [Arrais-Amador](/arrais-amador), é importante distinguir os sinais de manobra (curtos) e advertência dos sinais de visibilidade restrita (longos).
+
+- **1 apito curto:** Estou guinando para boreste.
+- **2 apitos curtos:** Estou guinando para bombordo.
+- **3 apitos curtos:** Estou dando máquinas a ré.
+- **5 ou mais apitos curtos e rápidos:** Sinal de perigo / não entendo sua manobra.
+
+O segredo para dominar esse tópico é evitar as famosas "decorebas" e desenhar as situações de encontro de embarcações enquanto você repassa o texto. Leia nosso post fundamental sobre [regras de RIPEAM descomplicadas](/blog/ripeam-descomplicado-regras-ouro).
+
+## Próximo passo
+
+Ao resolver questões simuladas, faça associações visuais com cada apito e entenda se o encontro é diurno, no visual, ou sob nevoeiro espesso.
+
+[Testar simulados na Apostila Arrais](/apostila-arrais-amador)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  },
+  {
+    id: 44,
+    slug: 'estrategia-simulados-arrais-motonauta',
+    title: 'Como usar simulados para estudar Arrais-Amador e Motonauta',
+    description: 'Saiba como usar simulados para estudar Arrais-Amador e Motonauta, revisar erros, identificar dificuldades e organizar uma rotina de preparação.',
+    date: '2027-01-30',
+    draft: true,
+    author: 'Equipe ArraisPro',
+    content: `
+# Como usar simulados para estudar Arrais-Amador e Motonauta
+
+A resolução contínua de exercícios organizados é a base da preparação teórica efetiva. Ao iniciar o seu preparo para [Arrais-Amador](/arrais-amador) ou [Motonauta](/motonauta), é recomendável criar um ciclo.
+
+O ciclo se compõe de:
+1. **Leitura dos módulos (Apostila):** Comece por temas basilares, como RIPEAM e balizamento.
+2. **Treino Setorial:** Faça pequenos blocos de questões isoladas sobre o tema que você acabou de ler para aferir seu entendimento.
+3. **Mapeamento de Erros:** Avalie os comentários explicativos do ArraisPro quando você errar e anote qual regra te escapou. 
+4. **Simulado Completo:** Nos fins de semana ou quando cobrir todos os módulos, faça o simulado com o mesmo número de questões do exame para treinar tempo e concentração. Veja a nossa página de orientação que explora as [diferenças das habilitações](/blog/diferenca-arrais-amador-e-motonauta).
+
+## Próximo passo
+
+Não perca tempo com materiais desorganizados. Use o aplicativo para organizar seus treinos e acompanhar as estatísticas reais.
+
+[Baixe o ArraisPro ou acesse o Simulado Arrais-Amador](/simulado-arrais-amador)
+
+> **Aviso importante:** este conteúdo é informativo e foi produzido de forma independente para apoio aos estudos. O ArraisPro não possui vínculo, homologação ou endosso da Marinha do Brasil, Capitanias dos Portos, Delegacias, Agências ou outros órgãos governamentais. Confirme sempre os procedimentos e requisitos vigentes junto à autoridade marítima competente.
+`
+  }
 ];
