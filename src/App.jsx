@@ -1,6 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { HelmetProvider } from 'react-helmet-async';
+
 import Home from './pages/Home';
 import BlogList from './pages/BlogList';
 import BlogPost from './pages/BlogPost';
@@ -16,12 +15,13 @@ import Motonauta from './pages/Motonauta';
 import SimuladoArraisAmador from './pages/SimuladoArraisAmador';
 import SimuladoMotonauta from './pages/SimuladoMotonauta';
 import ApostilaArraisAmador from './pages/ApostilaArraisAmador';
+import NotFound from './pages/NotFound';
+
+import { Routes, Route } from 'react-router-dom';
 
 export default function App() {
   return (
-    <HelmetProvider>
-      <Router>
-        <Routes>
+    <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/blog" element={<BlogList />} />
           <Route path="/blog/:slug" element={<BlogPost />} />
@@ -37,9 +37,8 @@ export default function App() {
           <Route path="/simulado-arrais-amador" element={<SimuladoArraisAmador />} />
           <Route path="/simulado-motonauta" element={<SimuladoMotonauta />} />
           <Route path="/apostila-arrais-amador" element={<ApostilaArraisAmador />} />
-        </Routes>
-      </Router>
-    </HelmetProvider>
+          <Route path="*" element={<NotFound />} />
+    </Routes>
   );
 }
 

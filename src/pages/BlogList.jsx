@@ -59,7 +59,11 @@ export default function BlogList() {
 
         <div className="grid gap-8">
           {blogPosts
-            .filter(post => !post.draft)
+            .filter(post => {
+              if (post.draft) return false;
+              const postDate = new Date(post.date.length === 10 ? post.date + 'T12:00:00-03:00' : post.date);
+              return postDate <= new Date();
+            })
             .sort((a, b) => new Date(b.date) - new Date(a.date))
             .map((post) => (
             <article key={post.id} className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200 hover:shadow-xl hover:-translate-y-1 transition duration-300">

@@ -1,0 +1,114 @@
+{
+  "/apostila-arrais-amador": {
+    "title": "Apostila para Arrais-Amador | ArraisPro",
+    "desc": "Conheça a Apostila ArraisPro: material digital de apoio com conteúdos para a preparação teórica de Arrais-Amador.",
+    "ogTitle": "",
+    "ogDesc": "",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  },
+  "/arrais-amador": {
+    "title": "Arrais-Amador: como se preparar para a prova | ArraisPro",
+    "desc": "Entenda os temas da preparação teórica para Arrais-Amador e pratique com simulados, questões comentadas e apostila digital.",
+    "ogTitle": "Arrais-Amador: como se preparar para a prova | ArraisPro",
+    "ogDesc": "Conheça os principais temas de estudo para Arrais-Amador e organize sua preparação com o ArraisPro.",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-arrais.jpg"
+  },
+  "/blog": {
+    "title": "Blog ArraisPro | Arrais-Amador e Motonauta",
+    "desc": "Guias e dicas para estudar para Arrais-Amador e Motonauta. Explore conteúdos sobre provas, navegação e segurança náutica no blog ArraisPro.",
+    "ogTitle": "Blog ArraisPro | Arrais-Amador e Motonauta",
+    "ogDesc": "Conteúdos de apoio para estudar para Arrais-Amador e Motonauta.",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  },
+  "/como-produzimos-o-conteudo": {
+    "title": "Como o ArraisPro produz seus conteúdos",
+    "desc": "Entenda as referências, o método editorial e os limites dos conteúdos educacionais do ArraisPro.",
+    "ogTitle": "",
+    "ogDesc": "",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  },
+  "/fontes-e-referencias": {
+    "title": "Fontes e Referências | ArraisPro",
+    "desc": "Referências normativas e institucionais consultadas na elaboração dos conteúdos educacionais do ArraisPro: NORMAM-211, NORMAM-212, RIPEAM-72, LESTA e RLESTA.",
+    "ogTitle": "",
+    "ogDesc": "",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  },
+  "/motonauta": {
+    "title": "Motonauta: como se preparar para a prova | ArraisPro",
+    "desc": "Prepare-se para a prova de Motonauta com simulados, questões comentadas e conteúdos de revisão para moto aquática.",
+    "ogTitle": "Motonauta: como se preparar para a prova | ArraisPro",
+    "ogDesc": "Revise temas da preparação teórica para Motonauta e pratique com os recursos do ArraisPro.",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-motonauta.jpg"
+  },
+  "/politica-editorial": {
+    "title": "Política Editorial e de Correções | ArraisPro",
+    "desc": "Entenda como os conteúdos do ArraisPro são elaborados, revisados, corrigidos e atualizados.",
+    "ogTitle": "",
+    "ogDesc": "",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  },
+  "/simulado-arrais-amador": {
+    "title": "Simulado para Arrais-Amador | ArraisPro",
+    "desc": "Pratique para Arrais-Amador com simulados por tema, questões comentadas e acompanhamento de desempenho no ArraisPro.",
+    "ogTitle": "",
+    "ogDesc": "",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  },
+  "/simulado-motonauta": {
+    "title": "Simulado para Motonauta | ArraisPro",
+    "desc": "Pratique para a prova de Motonauta com simulados, questões comentadas e recursos de revisão no ArraisPro.",
+    "ogTitle": "",
+    "ogDesc": "",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  },
+  "/sobre": {
+    "title": "Sobre o ArraisPro | Apoio aos estudos náuticos",
+    "desc": "Conheça o ArraisPro, plataforma independente de apoio aos estudos para Arrais-Amador e Motonauta.",
+    "ogTitle": "",
+    "ogDesc": "",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  },
+  "/": {
+    "title": "Simulados para Arrais-Amador e Motonauta | ArraisPro",
+    "desc": "Estude para Arrais-Amador e Motonauta com simulados, questões comentadas, apostila e trilha de estudos. Baixe o ArraisPro.",
+    "ogTitle": "ArraisPro: Arrais e Motonauta",
+    "ogDesc": "Estude para Arrais-Amador e Motonauta com simulados, questões comentadas, apostila e trilha de estudos. Baixe o ArraisPro.",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  },
+  "/politica-de-privacidade": {
+    "title": "Política de Privacidade | ArraisPro",
+    "desc": "Leia a Política de Privacidade do ArraisPro.",
+    "ogTitle": "Política de Privacidade | ArraisPro",
+    "ogDesc": "Leia a Política de Privacidade do ArraisPro.",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  },
+  "/termos-de-uso": {
+    "title": "Termos de Uso | ArraisPro",
+    "desc": "Leia os Termos de Uso do ArraisPro.",
+    "ogTitle": "Termos de Uso | ArraisPro",
+    "ogDesc": "Leia os Termos de Uso do ArraisPro.",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  },
+  "/suporte": {
+    "title": "Suporte | ArraisPro",
+    "desc": "Precisa de ajuda com o ArraisPro? Entre em contato.",
+    "ogTitle": "Suporte | ArraisPro",
+    "ogDesc": "Precisa de ajuda com o ArraisPro? Entre em contato.",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  }
+}

@@ -1,7 +1,8 @@
 import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import { useParams, Link, Navigate } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
+import NotFound from './NotFound';
 import { Helmet } from 'react-helmet-async';
 import ReactMarkdown from 'react-markdown';
 import { blogPosts } from '../data/blogPosts';
@@ -9,18 +10,28 @@ import { blogPosts } from '../data/blogPosts';
 export default function BlogPost() {
   const { slug } = useParams();
   
-  // Procura o post pelo slug, mas apenas se não for um rascunho (draft)
-  const post = blogPosts.find((p) => p.slug === slug && !p.draft);
+  const now = new Date();
+  
+  // Procura o post pelo slug, verifica se não é rascunho e se a data já chegou
+  const post = blogPosts.find((p) => {
+    if (p.slug !== slug) return false;
+    if (p.draft) return false;
+    
+    // Tratamento seguro para data
+    const postDate = new Date(p.date.length === 10 ? p.date + 'T12:00:00-03:00' : p.date);
+    return postDate <= now;
+  });
 
-  // Se não encontrou o post ou se for um rascunho, exibe tela de não encontrado
+  // Se não encontrou o post, se for um rascunho, ou se for post futuro, exibe tela de não encontrado
   if (!post) {
-    return <Navigate to="/blog" replace />;
+    return <NotFound />;
   }
+
 
   return (
     <div className="min-h-screen bg-white font-sans text-slate-800 flex flex-col">
       <Helmet>
-        <title>{post.title} | Blog ArraisPro</title>
+        <title>{`${post.title} | Blog ArraisPro`}</title>
         <meta name="description" content={post.description} />
         <link rel="canonical" href={`https://www.arraispro.com.br/blog/${post.slug}`} />
         

@@ -8,12 +8,12 @@ export default function Motonauta() {
   return (
     <div className="min-h-screen bg-slate-50 font-sans text-slate-800 flex flex-col">
       <Helmet>
-        <title>Simulado Motonauta: estude para a prova de jet ski | ArraisPro</title>
-        <meta name="description" content="Prepare-se para a prova de Motonauta com simulados, questões comentadas, apostila digital, flashcards e trilha de estudos no ArraisPro." />
+        <title>Motonauta: como se preparar para a prova | ArraisPro</title>
+        <meta name="description" content="Prepare-se para a prova de Motonauta com simulados, questões comentadas e conteúdos de revisão para moto aquática." />
         <link rel="canonical" href="https://www.arraispro.com.br/motonauta" />
         <meta name="robots" content="index,follow" />
-        <meta property="og:title" content="Simulado Motonauta: estude para a prova de jet ski | ArraisPro" />
-        <meta property="og:description" content="Prepare-se para a prova de Motonauta com simulados, questões comentadas, apostila digital, flashcards e trilha de estudos no ArraisPro." />
+        <meta property="og:title" content="Motonauta: como se preparar para a prova | ArraisPro" />
+        <meta property="og:description" content="Revise temas da preparação teórica para Motonauta e pratique com os recursos do ArraisPro." />
         <meta property="og:url" content="https://www.arraispro.com.br/motonauta" />
         <meta property="og:site_name" content="ArraisPro" />
         <meta property="og:image" content="https://www.arraispro.com.br/og-motonauta.jpg" />
@@ -41,7 +41,7 @@ export default function Motonauta() {
         </nav>
 
         <h1 className="text-3xl md:text-4xl font-black text-slate-900 mb-6 leading-tight tracking-tight">
-          Simulado para Motonauta: prepare-se para a prova de jet ski
+          Motonauta: como se preparar para a prova
         </h1>
         <div className="text-lg text-slate-600 mb-10 space-y-4">
           <p>
@@ -91,8 +91,11 @@ export default function Motonauta() {
         </section>
 
         <div className="bg-slate-50 border border-slate-200 rounded-3xl p-8 text-center mt-12">
-          <h2 className="text-2xl font-black text-slate-900 mb-4">Comece a estudar para Motonauta</h2>
+          <h2 className="text-2xl font-black text-slate-900 mb-4">Pratique com simulados de Motonauta no aplicativo</h2>
           <p className="text-slate-600 mb-8 max-w-md mx-auto">Faça simulados, revise os conteúdos e acompanhe o seu progresso no aplicativo ArraisPro.</p>
+          <Link to="/simulado-motonauta" className="inline-block bg-white text-blue-600 font-bold py-3 px-6 rounded-full border border-blue-200 hover:bg-blue-50 transition mb-4 mx-2">
+            Ver página de simulados
+          </Link>
           <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app" target="_blank" rel="noopener noreferrer" className="inline-block bg-blue-600 text-white font-bold py-4 px-8 rounded-full hover:bg-blue-700 transition shadow-lg mb-6">
             Baixar o ArraisPro na Google Play
           </a>
