@@ -98,7 +98,13 @@ export default function BlogPost() {
 
         {/* CONTEÚDO MARKDOWN (ESTILIZADO COM TAILWIND TYPOGRAPHY) */}
         <article className="prose prose-slate prose-lg md:prose-xl mx-auto prose-a:text-blue-600 hover:prose-a:text-blue-800 prose-headings:font-black prose-img:rounded-xl">
-          <ReactMarkdown>{post.content}</ReactMarkdown>
+          <ReactMarkdown
+            components={{
+              h1: ({ node, ...props }) => <h2 {...props} />
+            }}
+          >
+            {post.content}
+          </ReactMarkdown>
         </article>
 
         {/* CTA FINAL DO ARTIGO */}
