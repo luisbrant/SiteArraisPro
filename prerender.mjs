@@ -43,8 +43,14 @@ const { render } = await import('./dist-server/entry-server.js');
 for (const url of routes) {
   // Use HelmetContext merely to prevent warnings, but don't rely on it
   const helmetContext = {};
-  const { html } = render(url, helmetContext);
+  let { html } = render(url, helmetContext);
 
+  // React 19 Native Hoisting faz com que tags SEO do componente sejam anexadas na string do renderToString.
+  // Como as injetamos manualmente na <head>, removemos do html do <body> para evitar tag duplicada.
+  html = html.replace(/<title[^>]*>.*?<\/title>/gi, '');
+  html = html.replace(/<meta\s+(?:name|property)=["'](?:description|robots|og:[^"']+)["'][^>]*>/gi, '');
+  html = html.replace(/<link\s+rel=["']canonical["'][^>]*>/gi, '');
+  
   const h1Match = html.match(/<h1[^>]*>(.*?)<\/h1>/i);
   console.log(`[DEBUG] ${url} -> H1: ${h1Match ? h1Match[1] : 'NONE'}`);
 
