@@ -81,6 +81,7 @@ export default function ArraisAmador() {
             <li><Link to="/blog/passo-a-passo-carteira-arrais-amador-2026" className="hover:underline">Passo a passo para tirar a carteira de Arrais-Amador</Link></li>
             <li><Link to="/blog/simulado-arrais-amador-gratis-atualizado" className="hover:underline">Simulado Arrais-Amador: como praticar melhor</Link></li>
             <li><Link to="/blog/ripeam-descomplicado-regras-ouro" className="hover:underline">RIPEAM para Arrais-Amador: regras explicadas</Link></li>
+            <li><Link to="/blog/entendendo-o-balizamento-maritimo" className="hover:underline">Entendendo o balizamento marítimo: IALA B</Link></li>
             <li><Link to="/blog/questoes-mais-reprovam-prova-arrais-motonauta" className="hover:underline">Questões que exigem mais atenção na prova de Arrais e Motonauta</Link></li>
             <li><Link to="/blog/diferenca-arrais-amador-e-motonauta" className="hover:underline">Qual é a diferença entre Arrais-Amador e Motonauta?</Link></li>
           </ul>

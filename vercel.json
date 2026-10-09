@@ -1,4 +1,11 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/fontes-e-atualizacoes",
+      "destination": "/fontes-e-referencias",
+      "permanent": true
+    }
+  ]
 }
