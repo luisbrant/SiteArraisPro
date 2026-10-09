@@ -102,8 +102,8 @@ for (const url of routes) {
     
     // Remove o bloco de SEO antigo
     finalHtml = finalHtml.replace(
-      /<!-- SEO Primário[\s\S]*?<!-- Google Analytics/i,
-      '<!-- Google Analytics'
+      /<!-- SEO-START -->[\s\S]*?<!-- SEO-END -->/i,
+      ''
     );
     
     // Injeta tags customizadas no HEAD
