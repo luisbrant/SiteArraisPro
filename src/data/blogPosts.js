@@ -761,6 +761,7 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     id: 13,
     slug: 'sinais-sonoros-navegacao',
     title: 'Sinais sonoros do RIPEAM: apitos de manobra e ultrapassagem',
+    description: 'Saiba o significado de um, dois ou três apitos curtos e dos sinais de advertência e ultrapassagem em canais estreitos previstos no RIPEAM.',
     date: '2026-10-09',
     readTime: '5 min',
     draft: false,
@@ -768,7 +769,7 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     content: `
 # Sinais sonoros do RIPEAM: como entender os apitos
 
-Os sinais sonoros do <Link to="/blog/ripeam-regras-5-8">**RIPEAM**</Link> ajudam a comunicar manobras, intenções e dúvidas entre embarcações. Para interpretá-los corretamente, você precisa reconhecer **a sequência dos sons e a situação em que ela é usada**.
+Os sinais sonoros do [**RIPEAM**](/blog/ripeam-regras-5-8) ajudam a comunicar manobras, intenções e dúvidas entre embarcações. Para interpretá-los corretamente, você precisa reconhecer **a sequência dos sons e a situação em que ela é usada**.
 
 Neste guia, veja os sinais básicos de manobra, o alerta de dúvida e os sinais específicos para ultrapassagem em canal estreito ou via de acesso.
 
@@ -823,7 +824,7 @@ Separe primeiro a situação descrita no enunciado:
 3. **É uma ultrapassagem em canal estreito nas condições descritas pela regra?** Procure os dois apitos **longos** seguidos de um ou dois **curtos**.
 4. **De qual embarcação é o bordo mencionado?** Na intenção de ultrapassar, o sinal nomeia o bordo da embarcação **alcançada**.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para praticar regras de navegação e revisar os temas em que você tem dúvidas.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ele reúne [apostila](/apostila-arrais-amador), flashcards, quizzes e [simulados](/simulado-arrais-amador) com questões autorais para praticar regras de navegação e revisar os temas em que você tem dúvidas.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -834,6 +835,7 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     id: 14,
     slug: 'regras-de-preferencia-quem-passa-primeiro',
     title: 'Quem deve manobrar? Cruzamento e ultrapassagem no RIPEAM',
+    description: 'Entenda quem deve manobrar em situações de roda a roda, rumos cruzados e ultrapassagem, e por que “ter preferência” não dispensa cuidados.',
     date: '2026-10-12',
     readTime: '6 min',
     draft: false,
@@ -841,7 +843,7 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     content: `
 # Quem deve manobrar? Regras de passagem entre embarcações
 
-No <Link to="/blog/ripeam-regras-5-8">RIPEAM</Link>, a pergunta mais útil não é simplesmente **“quem tem prioridade?”**, mas **“quem deve manter-se fora do caminho e quem deve manter rumo e velocidade nesta situação?”** A resposta depende de como as embarcações se aproximam, do tipo de embarcação e das condições de navegação.
+No [RIPEAM](/blog/ripeam-regras-5-8), a pergunta mais útil não é simplesmente **“quem tem prioridade?”**, mas **“quem deve manter-se fora do caminho e quem deve manter rumo e velocidade nesta situação?”** A resposta depende de como as embarcações se aproximam, do tipo de embarcação e das condições de navegação.
 
 Os exemplos de roda a roda, rumos cruzados e ultrapassagem abaixo consideram **embarcações no visual uma da outra**. Antes de aplicar qualquer regra, verifique se há risco de abalroamento e se o enunciado descreve alguma condição especial.
 
@@ -892,7 +894,7 @@ Para estudar, pergunte sempre:
 4. Quais são os **tipos e as condições** das embarcações?
 5. Existe alguma **regra específica** para o local, como canal estreito?
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para praticar cenários de navegação e revisar seus erros.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ele reúne [apostila](/apostila-arrais-amador), flashcards, quizzes e [simulados](/simulado-arrais-amador) com questões autorais para praticar cenários de navegação e revisar seus erros.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -903,9 +905,10 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     id: 15,
     slug: 'luzes-de-navegacao-noturna',
     title: 'Luzes de navegação no RIPEAM: cores e setores',
-    date: '2026-10-14T12:00:00',
+    description: 'Entenda as cores e os setores das luzes de mastro, bordos e alcançado e saiba por que uma luz isolada não basta para definir uma manobra.',
+    date: '2026-10-14',
     readTime: '6 min',
-    draft: true,
+    draft: false,
     excerpt: 'Entenda as cores e os setores das luzes de mastro, bordos e alcançado e saiba por que uma luz isolada não basta para definir uma manobra.',
     content: `
 # Luzes de navegação no RIPEAM: como interpretar o que você vê
@@ -956,13 +959,13 @@ Por isso, a forma mais segura de estudar é separar duas perguntas:
 1. **O que cada luz significa e qual é seu setor?**
 2. **Quais luzes aquela embarcação deve exibir naquela situação?**
 
-**Atenção para <Link to="/motonauta">Motonauta</Link>:** reconhecer luzes de outras embarcações faz parte do estudo de segurança, mas isso **não autoriza navegar de moto aquática à noite**. A NORMAM-212/DPC restringe sua condução ao período entre o nascer e o pôr do sol.
+**Atenção para [Motonauta](/motonauta):** reconhecer luzes de outras embarcações faz parte do estudo de segurança, mas isso **não autoriza navegar de moto aquática à noite**. A NORMAM-212/DPC restringe sua condução ao período entre o nascer e o pôr do sol.
 
 ## Pratique a identificação com contexto
 
 Ao resolver uma questão, observe quais luzes aparecem, qual é o tipo de embarcação descrito e se ela está em movimento ou fundeada. Só depois avalie qual regra de navegação se aplica.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para praticar esses cenários e acompanhar seu desempenho.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ele reúne [apostila](/apostila-arrais-amador), flashcards, quizzes e [simulados](/simulado-arrais-amador) com questões autorais para praticar esses cenários e acompanhar seu desempenho.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -973,9 +976,10 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     id: 16,
     slug: 'classes-de-incendio-a-bordo',
     title: 'Classes de incêndio a bordo: A, B e C',
-    date: '2026-10-18T12:00:00',
+    description: 'Entenda as classes A, B e C de incêndio previstas na NORMAM-211 para embarcações de esporte e recreio e saiba por que a escolha do extintor importa.',
+    date: '2026-10-18',
     readTime: '5 min',
-    draft: true,
+    draft: false,
     excerpt: 'Entenda as classes A, B e C de incêndio previstas na NORMAM-211 para embarcações de esporte e recreio e saiba por que a escolha do extintor importa.',
     content: `
 # Classes de incêndio a bordo: como diferenciar A, B e C
@@ -1008,7 +1012,7 @@ Se for possível **desligar a alimentação elétrica com segurança**, isso eli
 
 A **Classe D** diz respeito a incêndios em **metais combustíveis específicos** e pode exigir agentes extintores especiais. É uma classificação existente na literatura de combate a incêndio, mas **não integra a lista de classes A, B e C apresentada no item 4.27.2 da NORMAM-211/DPC** para os extintores tratados nesse ponto.
 
-Para a preparação de <Link to="/arrais-amador">Arrais-Amador</Link>, concentre a revisão na classificação e na dotação de extintores previstas no programa e na norma aplicáveis à sua categoria. Não escolha um agente para um fogo em metal com base apenas na sigla “pó químico”: o produto precisa ser apropriado ao metal e ao cenário.
+Para a preparação de [Arrais-Amador](/arrais-amador), concentre a revisão na classificação e na dotação de extintores previstas no programa e na norma aplicáveis à sua categoria. Não escolha um agente para um fogo em metal com base apenas na sigla “pó químico”: o produto precisa ser apropriado ao metal e ao cenário.
 
 ## Como estudar esse assunto?
 
@@ -1019,7 +1023,7 @@ Ao resolver uma questão, faça duas perguntas:
 
 Depois, confira a explicação e volte à regra correspondente. Saber a letra da classe é útil; entender **por que ela se aplica** é mais importante para responder bem e navegar com segurança.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para revisar temas de segurança.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ele reúne [apostila](/apostila-arrais-amador), flashcards, quizzes e [simulados](/simulado-arrais-amador) com questões autorais para revisar temas de segurança.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 

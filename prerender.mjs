@@ -61,11 +61,12 @@ for (const url of routes) {
     const slug = url.split('/')[2];
     const post = blogPosts.find(p => p.slug === slug);
     if (post) {
+      const desc = post.description || post.excerpt || '';
       seo = {
         title: `${post.title} | Blog ArraisPro`,
-        desc: post.description,
+        desc,
         ogTitle: `${post.title} | Blog ArraisPro`,
-        ogDesc: post.description,
+        ogDesc: desc,
         ogType: 'article',
         ogImage: 'https://www.arraispro.com.br/og-image.jpg',
         canonical: `https://www.arraispro.com.br/blog/${post.slug}`

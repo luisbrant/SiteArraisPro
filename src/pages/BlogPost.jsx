@@ -1,5 +1,4 @@
 import React from 'react';
-import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { useParams, Link } from 'react-router-dom';
 import NotFound from './NotFound';
@@ -28,16 +27,19 @@ export default function BlogPost() {
   }
 
 
+  const description = post.description || post.excerpt || '';
+  const processedContent = (post.content || '').replace(/<Link\s+to=["']([^"']+)["']>([\s\S]*?)<\/Link>/gi, '[$2]($1)');
+
   return (
     <div className="min-h-screen bg-white font-sans text-slate-800 flex flex-col">
       <Helmet>
         <title>{`${post.title} | Blog ArraisPro`}</title>
-        <meta name="description" content={post.description} />
+        <meta name="description" content={description} />
         <link rel="canonical" href={`https://www.arraispro.com.br/blog/${post.slug}`} />
         
         {/* Open Graph / Social Media */}
         <meta property="og:title" content={`${post.title} | Blog ArraisPro`} />
-        <meta property="og:description" content={post.description} />
+        <meta property="og:description" content={description} />
         <meta property="og:type" content="article" />
         <meta property="og:url" content={`https://www.arraispro.com.br/blog/${post.slug}`} />
         <meta property="og:site_name" content="ArraisPro" />
@@ -48,7 +50,7 @@ export default function BlogPost() {
             "@context": "https://schema.org",
             "@type": "Article",
             "headline": post.title,
-            "description": post.description,
+            "description": description,
             "author": {
               "@type": "Person",
               "name": post.author || "ArraisPro"
@@ -100,10 +102,16 @@ export default function BlogPost() {
         <article className="prose prose-slate prose-lg md:prose-xl mx-auto prose-a:text-blue-600 hover:prose-a:text-blue-800 prose-headings:font-black prose-img:rounded-xl">
           <ReactMarkdown
             components={{
-              h1: ({ node, ...props }) => <h2 {...props} />
+              h1: ({ node: _node, ...props }) => <h2 {...props} />,
+              a: ({ node: _node, href, children, ...props }) => {
+                if (href && href.startsWith('/')) {
+                  return <Link to={href} {...props}>{children}</Link>;
+                }
+                return <a href={href} {...props}>{children}</a>;
+              }
             }}
           >
-            {post.content}
+            {processedContent}
           </ReactMarkdown>
         </article>
 

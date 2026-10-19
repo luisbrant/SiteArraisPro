@@ -74,7 +74,7 @@ export default function BlogList() {
                 <Link to={`/blog/${post.slug}`}>{post.title}</Link>
               </h2>
               <p className="text-slate-600 mb-6 leading-relaxed">
-                {post.description}
+                {post.description || post.excerpt}
               </p>
               <Link 
                 to={`/blog/${post.slug}`} 
