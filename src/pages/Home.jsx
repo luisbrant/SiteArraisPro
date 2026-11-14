@@ -160,8 +160,8 @@ export default function Home() {
                   <img alt="Disponível no Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" className="h-[68px]" />
                 </a>
               </div>
-              <p className="text-[11px] text-slate-400 text-center md:text-left px-2 sm:px-4 mt-2 font-medium"><span className="text-blue-400 font-bold">Leve, rápido e sem compromisso.</span> Comece em 30 segundos.</p>
-              <p className="text-[11px] text-slate-400 text-center md:text-left px-2 sm:px-4 mt-1">Escolha entre Arrais Amador e Motonauta • Estude pelo celular • Conteúdo organizado por temas</p>
+              <p className="text-[11px] text-slate-400 text-center md:text-left px-2 sm:px-4 mt-2 font-medium"><span className="text-blue-400 font-bold">Acesso total a partir de R$&nbsp;9,99.</span> Comece grátis em 30 segundos.</p>
+              <p className="text-[11px] text-slate-400 text-center md:text-left px-2 sm:px-4 mt-1">Escolha entre Arrais-Amador e Motonauta • Estude pelo celular • Conteúdo organizado por temas</p>
             </div>
             
             {/* Prova Social / Encorajamento inicial */}
@@ -247,16 +247,16 @@ export default function Home() {
       <section className="bg-blue-600 py-12 px-4 sm:px-6 relative z-20 shadow-xl border-y border-blue-700">
         <div className="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-3 gap-6 text-center divide-y sm:divide-y-0 sm:divide-x divide-blue-500/50">
           <div className="px-4 py-2 sm:py-0">
-            <p className="text-3xl md:text-4xl font-black text-white mb-2">+1.000</p>
-            <p className="text-xs md:text-sm text-blue-100 font-medium">Questões para praticar</p>
+            <p className="text-3xl md:text-4xl font-black text-white mb-2">+900</p>
+            <p className="text-xs md:text-sm text-blue-100 font-medium">Questões comentadas</p>
           </div>
           <div className="px-4 py-2 sm:py-0">
-            <p className="text-3xl md:text-4xl font-black text-white mb-2">Programa</p>
-            <p className="text-xs md:text-sm text-blue-100 font-medium">Baseado nas NORMAM-211 e 212</p>
+            <p className="text-3xl md:text-4xl font-black text-white mb-2">+450</p>
+            <p className="text-xs md:text-sm text-blue-100 font-medium">Flashcards interativos</p>
           </div>
           <div className="px-4 py-2 sm:py-0">
-            <p className="text-3xl md:text-4xl font-black text-white mb-2">15</p>
-            <p className="text-xs md:text-sm text-blue-100 font-medium">Temas para revisar</p>
+            <p className="text-3xl md:text-4xl font-black text-white mb-2">NORMAM</p>
+            <p className="text-xs md:text-sm text-blue-100 font-medium">Baseado nas 211 e 212/DPC</p>
           </div>
         </div>
       </section>
@@ -298,13 +298,13 @@ export default function Home() {
             <div className="bg-white p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
               <div className="w-14 h-14 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center mb-6 text-3xl shadow-inner border border-blue-100">🎯</div>
               <h3 className="font-black text-xl mb-4 text-slate-800 tracking-tight">Simulados</h3>
-              <p className="text-slate-600 leading-relaxed">Mais de 1.000 questões, com filtros por tema e por nível de dificuldade. Pratique com questões organizadas por tema e acompanhe seu desempenho.</p>
+              <p className="text-slate-600 leading-relaxed">Mais de 900 questões comentadas, com filtros por tema e por nível de dificuldade. Pratique e acompanhe seu desempenho.</p>
             </div>
 
             <div className="bg-white p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
               <div className="w-14 h-14 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center mb-6 text-3xl shadow-inner border border-blue-100">⚡</div>
               <h3 className="font-black text-xl mb-4 text-slate-800 tracking-tight">Flashcards</h3>
-              <p className="text-slate-600 leading-relaxed">Revisões dinâmicas para você reforçar a memorização de luzes, sinais, regras, limites e os conceitos essenciais da navegação de forma prática.</p>
+              <p className="text-slate-600 leading-relaxed">Mais de 450 flashcards interativos para você reforçar a memorização de luzes, sinais, regras, limites e conceitos essenciais da navegação.</p>
             </div>
 
             <div className="bg-white p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
@@ -349,97 +349,151 @@ export default function Home() {
             </div>
           </div>
           <div className="order-1 md:order-2 flex flex-col gap-6">
-            <div className="inline-block bg-gradient-to-r from-blue-900/50 to-blue-800/30 border border-blue-400/50 text-blue-300 px-5 py-1.5 rounded-full text-sm font-bold uppercase tracking-widest w-max shadow-lg shadow-blue-900/20 backdrop-blur-sm">
-              Bônus Exclusivo da Versão Pro
+            <div className="inline-block bg-gradient-to-r from-amber-500/20 to-emerald-500/20 border border-amber-400/50 text-amber-300 px-5 py-1.5 rounded-full text-sm font-bold uppercase tracking-widest w-max shadow-lg shadow-amber-900/20 backdrop-blur-sm">
+              Download em PDF exclusivo no Acesso vitalício
             </div>
             <h2 className="text-3xl md:text-4xl font-black leading-tight text-balance tracking-tighter">
               Apostila digital ArraisPro
             </h2>
             <p className="text-lg text-slate-300 leading-relaxed text-pretty">
-              O conteúdo é essencial para a sua preparação. Por isso, ao desbloquear o acesso Pro, você ganha o download da <strong>Apostila ArraisPro</strong>. São 152 páginas, divididas em 8 módulos, que abrangem legislação, manobras, RIPEAM, balizamento, segurança, primeiros socorros e meteorologia. Estruturada com base no programa de estudos oficial do exame, ela é o complemento ideal para os simulados do aplicativo. Juntos, esses recursos formam o ecossistema de estudos que vai te apoiar no seu aprendizado.
+              O conteúdo é essencial para a sua preparação. A leitura completa da <strong>Apostila ArraisPro</strong> no aplicativo está disponível nos dois planos Premium, e quem escolhe o plano <strong>Acesso vitalício</strong> também recebe o <strong>download da apostila completa em arquivo PDF</strong>. São 152 páginas, divididas em 8 módulos, que abrangem legislação, manobras, RIPEAM, balizamento, segurança, primeiros socorros e meteorologia.
             </p>
           </div>
         </div>
       </section>
 
       {/* 6. PRICING */}
-      <section id="preco" className="py-24 px-6 bg-slate-50 scroll-mt-24">
-        <div className="max-w-4xl mx-auto">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-slate-800 mb-4 tracking-tighter">Baixe o ArraisPro</h2>
-            <p className="text-slate-600 text-lg">Sem taxas de assinatura ou mensalidades. Pague apenas uma vez e obtenha acesso ilimitado a todo o ecossistema: simulados, gamificação e apostila completa.</p>
+      <section id="preco" className="py-24 px-4 sm:px-6 bg-slate-50 scroll-mt-24">
+        <div className="max-w-5xl mx-auto">
+          <div className="text-center mb-14 max-w-2xl mx-auto">
+            <div className="inline-flex items-center gap-2 bg-emerald-100 text-emerald-800 border border-emerald-200 px-4 py-1.5 rounded-full text-xs sm:text-sm font-bold uppercase tracking-wider mb-4">
+              Acesso total a partir de R$&nbsp;9,99
+            </div>
+            <h2 className="text-3xl md:text-4xl font-black text-slate-900 mb-4 tracking-tighter">
+              Estude, pratique e revise com o Premium
+            </h2>
+            <p className="text-slate-600 text-base sm:text-lg">
+              Prepare-se para Arrais-Amador e Motonauta com todo o conteúdo em um só lugar.
+            </p>
           </div>
 
-          <div className="grid md:grid-cols-2 gap-8 items-stretch">
-            
-            {/* Card Freemium */}
-            <div className="bg-white rounded-3xl p-8 border border-slate-200 shadow-sm flex flex-col">
-              <h3 className="text-2xl font-bold text-slate-800 mb-2">Versão Grátis</h3>
-              <div className="flex items-baseline gap-1 mb-6">
-                <span className="text-4xl font-black text-slate-800">R$ 0</span>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 items-stretch">
+
+            {/* Plano A — Passe de 7 dias */}
+            <div className="bg-white rounded-3xl p-6 sm:p-8 border border-slate-200 shadow-lg shadow-slate-200/60 flex flex-col">
+              <div className="mb-6">
+                <span className="inline-block text-xs font-bold uppercase tracking-wider text-emerald-700 bg-emerald-50 border border-emerald-200 px-3 py-1 rounded-full mb-3">
+                  Acesso Premium por 7 dias
+                </span>
+                <h3 className="text-2xl font-black text-slate-900 mb-2">Passe de 7 dias</h3>
+                <div className="flex items-baseline gap-2 mb-2 text-slate-900 whitespace-nowrap">
+                  <span className="text-xl font-bold text-slate-500">R$</span>
+                  <span className="text-5xl font-black tracking-tight">9,99</span>
+                </div>
+                <p className="text-sm font-semibold text-slate-600">
+                  Sem renovação automática
+                </p>
               </div>
-              <ul className="flex flex-col gap-4 text-slate-600 mb-8 flex-1">
-                <li className="flex items-center gap-3">
-                  <span className="text-green-500 font-bold">✓</span> Acesso aos primeiros módulos da apostila
+
+              <ul className="flex flex-col gap-3.5 text-slate-700 mb-8 flex-1 text-sm sm:text-base">
+                <li className="flex items-start gap-3">
+                  <span className="w-5 h-5 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center flex-shrink-0 mt-0.5 font-bold text-xs">✓</span>
+                  <span>Apostila preparatória completa (leitura no app)</span>
                 </li>
-                <li className="flex items-center gap-3">
-                  <span className="text-green-500 font-bold">✓</span> Simulado diagnóstico e flashcards introdutórios
+                <li className="flex items-start gap-3">
+                  <span className="w-5 h-5 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center flex-shrink-0 mt-0.5 font-bold text-xs">✓</span>
+                  <span>Simulados com mais de 900 questões</span>
                 </li>
-                <li className="flex items-center gap-3">
-                  <span className="text-green-500 font-bold">✓</span> Resultado por tema com pontos para reforço
+                <li className="flex items-start gap-3">
+                  <span className="w-5 h-5 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center flex-shrink-0 mt-0.5 font-bold text-xs">✓</span>
+                  <span>Trilhas de estudo e mais de 450 flashcards</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <span className="w-5 h-5 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center flex-shrink-0 mt-0.5 font-bold text-xs">✓</span>
+                  <span>Sem anúncios para estudar com foco</span>
+                </li>
+                <li className="flex items-start gap-3 text-slate-500">
+                  <span className="w-5 h-5 rounded-full bg-slate-100 text-slate-400 flex items-center justify-center flex-shrink-0 mt-0.5 font-bold text-xs">—</span>
+                  <span className="italic">Não inclui download da apostila em PDF</span>
                 </li>
               </ul>
-              <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=pricing_free" target="_blank" rel="noopener noreferrer" className="w-full block text-center bg-transparent border-2 border-blue-600 text-blue-600 hover:bg-blue-50 font-bold py-4 rounded-xl transition-all shadow-sm">
-                Baixe Grátis e Comece
+
+              <a
+                href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=pricing_7dias"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full block text-center bg-slate-900 hover:bg-slate-800 text-white font-bold py-4 px-5 rounded-xl transition-all shadow-md text-base sm:text-lg"
+              >
+                Liberar 7 dias no app
               </a>
             </div>
 
-            {/* Card Premium */}
-            <div className="bg-gradient-to-b from-[#0A2540] to-blue-900 rounded-3xl p-8 border-2 border-blue-500 shadow-2xl shadow-blue-900/40 flex flex-col relative transform md:-translate-y-4 ring-4 ring-blue-500/10 mt-6 md:mt-0">
-              <div className="absolute -top-4 left-1/2 transform -translate-x-1/2 flex flex-col items-center">
-                <div className="bg-amber-500 text-amber-950 px-6 py-1.5 rounded-full text-xs font-black uppercase tracking-widest shadow-lg shadow-amber-500/30 flex items-center gap-2 whitespace-nowrap">
-                  <span>★ ESCOLHA COMPLETA</span>
+            {/* Plano B — Acesso vitalício */}
+            <div className="bg-[#0b1120] rounded-3xl p-6 sm:p-8 border-2 border-emerald-500 shadow-2xl shadow-slate-900/30 flex flex-col relative">
+              <div className="mb-6">
+                <span className="inline-block text-xs font-bold uppercase tracking-wider text-amber-300 bg-amber-400/15 border border-amber-400/30 px-3 py-1 rounded-full mb-3">
+                  Pagamento único
+                </span>
+                <h3 className="text-2xl font-black text-white mb-2">Acesso vitalício</h3>
+                <div className="flex items-baseline gap-2 mb-2 text-white whitespace-nowrap">
+                  <span className="text-xl font-bold text-emerald-300">R$</span>
+                  <span className="text-5xl font-black tracking-tight">39,90</span>
                 </div>
-              </div>
-              <h3 className="text-2xl font-black text-white mb-2 mt-2">Versão Pro</h3>
-              <div className="flex items-baseline gap-1 mb-2 text-white">
-                <span className="text-xl font-medium text-blue-300">R$</span>
-                <span className="text-6xl font-black tracking-tight">39,90</span>
-                <span className="text-blue-300 font-medium ml-2 text-lg">/ único</span>
-              </div>
-              {/* Ancoragem de preço */}
-              <p className="text-blue-300 text-sm font-medium mb-8">Acesso definitivo e sem anúncios.</p>
-              
-              <ul className="flex flex-col gap-4 text-blue-100 mb-8 flex-1">
-                <li className="flex items-start gap-3">
-                  <div className="w-5 h-5 rounded-full bg-blue-500/20 text-blue-400 flex items-center justify-center flex-shrink-0 mt-0.5">✓</div>
-                  <span>Apostila integral: 152 páginas, 8 módulos</span>
-                </li>
-                <li className="flex items-start gap-3">
-                  <div className="w-5 h-5 rounded-full bg-blue-500/20 text-blue-400 flex items-center justify-center flex-shrink-0 mt-0.5">✓</div>
-                  <span>1.000+ Questões comentadas de Arrais e Motonauta</span>
-                </li>
-                <li className="flex items-start gap-3 font-bold text-white bg-blue-800/40 p-3 rounded-xl border border-blue-500/20">
-                  <span className="text-amber-400 text-xl flex-shrink-0">🎁</span> 
-                  <span>Simulados ilimitados + Modo Revisão de Erros</span>
-                </li>
-                <li className="flex items-start gap-3">
-                  <div className="w-5 h-5 rounded-full bg-blue-500/20 text-blue-400 flex items-center justify-center flex-shrink-0 mt-0.5">✓</div>
-                  <span>Atualizações automáticas inclusas</span>
-                </li>
-              </ul>
-              <div className="flex flex-col gap-3">
-                <p className="text-sm text-blue-200 text-center mb-1 font-medium">Desbloqueie todo o conteúdo agora:</p>
-                <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=pricing_pro" target="_blank" rel="noopener noreferrer" className="w-full block text-center bg-gradient-to-r from-blue-600 to-blue-400 hover:from-blue-500 hover:to-blue-300 text-white font-black py-4 rounded-xl transition-all duration-300 shadow-xl shadow-blue-500/40 hover:scale-[1.02] text-lg uppercase tracking-wide">
-                  Desbloquear Versão Pro
-                </a>
-                <p className="text-center text-xs text-blue-300 font-medium flex items-center justify-center gap-1">
-                  <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm0 18c-4.411 0-8-3.589-8-8s3.589-8 8-8 8 3.589 8 8-3.589 8-8 8zm3-11.5a1 1 0 00-1.414 0L10.5 11.586l-1.586-1.586A1 1 0 107.5 11.414l2.293 2.293a1 1 0 001.414 0l4.293-4.293A1 1 0 0015 8.5z"/></svg>
-                  Pagamento 100% seguro na Play Store
+                <p className="text-sm font-semibold text-emerald-300">
+                  Sem mensalidade · Inclui PDF
                 </p>
               </div>
+
+              <ul className="flex flex-col gap-3.5 text-slate-200 mb-8 flex-1 text-sm sm:text-base">
+                <li className="flex items-start gap-3">
+                  <span className="w-5 h-5 rounded-full bg-emerald-500/20 text-emerald-400 flex items-center justify-center flex-shrink-0 mt-0.5 font-bold text-xs">✓</span>
+                  <span>Tudo do Passe de 7 dias sem prazo de expiração</span>
+                </li>
+                <li className="flex items-start gap-3 font-bold text-white bg-emerald-500/15 p-3 rounded-xl border border-emerald-500/30">
+                  <span className="text-amber-400 flex-shrink-0">📄</span>
+                  <span>Download da Apostila preparatória completa em PDF</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <span className="w-5 h-5 rounded-full bg-emerald-500/20 text-emerald-400 flex items-center justify-center flex-shrink-0 mt-0.5 font-bold text-xs">✓</span>
+                  <span>Apostila preparatória completa no app</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <span className="w-5 h-5 rounded-full bg-emerald-500/20 text-emerald-400 flex items-center justify-center flex-shrink-0 mt-0.5 font-bold text-xs">✓</span>
+                  <span>Simulados com mais de 900 questões</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <span className="w-5 h-5 rounded-full bg-emerald-500/20 text-emerald-400 flex items-center justify-center flex-shrink-0 mt-0.5 font-bold text-xs">✓</span>
+                  <span>Trilhas de estudo e mais de 450 flashcards</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <span className="w-5 h-5 rounded-full bg-emerald-500/20 text-emerald-400 flex items-center justify-center flex-shrink-0 mt-0.5 font-bold text-xs">✓</span>
+                  <span>Sem anúncios para estudar com foco</span>
+                </li>
+              </ul>
+
+              <a
+                href="https://play.google.com/store/apps/details?id=br.com.arraispro.app&utm_source=website&utm_medium=organic&utm_campaign=pricing_vitalicio"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full block text-center bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black py-4 px-5 rounded-xl transition-all duration-300 shadow-xl shadow-emerald-500/25 hover:scale-[1.01] text-base sm:text-lg"
+              >
+                Liberar Premium no app
+              </a>
             </div>
 
+          </div>
+
+          <div className="mt-8 text-center text-xs sm:text-sm text-slate-600 flex flex-col items-center gap-2">
+            <p className="font-medium text-slate-700">Compra processada pelo Google Play</p>
+            <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-1">
+              <a href="/termos-de-compra.html" className="text-blue-600 hover:text-blue-800 underline font-medium">
+                Termos de compra
+              </a>
+              <span aria-hidden="true" className="text-slate-400">•</span>
+              <a href="/politica-de-reembolso.html" className="text-blue-600 hover:text-blue-800 underline font-medium">
+                Política de reembolso
+              </a>
+            </div>
           </div>
         </div>
       </section>
@@ -553,22 +607,22 @@ export default function Home() {
             
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
               <h4 className="font-bold text-lg text-slate-800 mb-2">O aplicativo cobra alguma mensalidade?</h4>
-              <p className="text-slate-600 text-justify">Não! Você investe R$ 39,90 uma única vez, de forma segura pela Play Store, e desbloqueia todo o ecossistema: simulados ilimitados, gamificação completa e o download da nossa apostila de 152 páginas. O acesso é seu para sempre.</p>
+              <p className="text-slate-600 text-justify">Não. O ArraisPro Premium oferece duas opções sem assinatura recorrente: o <strong>Passe de 7 dias</strong> (<span className="whitespace-nowrap">R$ 9,99</span>), um plano pré-pago que libera todo o conteúdo no aplicativo por 7 dias corridos sem renovação automática, e o <strong>Acesso vitalício</strong> (<span className="whitespace-nowrap">R$ 39,90</span>), em pagamento único, sem mensalidade e que também inclui o download da Apostila preparatória completa em PDF.</p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
               <h4 className="font-bold text-lg text-slate-800 mb-2">O material serve também para a prova de Motonauta?</h4>
-              <p className="text-slate-600 text-justify">Sim! Todo o nosso ecossistema — simulados, trilha de estudos gamificada e apostila — engloba o conteúdo programático das provas de Arrais Amador <span className="whitespace-nowrap">(NORMAM-211)</span> e de Motonauta <span className="whitespace-nowrap">(NORMAM-212)</span>, incluindo as regras específicas para moto aquática (jet ski).</p>
+              <p className="text-slate-600 text-justify">Sim. Todo o nosso ecossistema — mais de 900 questões comentadas, mais de 450 flashcards, trilhas de estudo e apostila — engloba o conteúdo programático das provas de Arrais-Amador <span className="whitespace-nowrap">(NORMAM-211/DPC)</span> e de Motonauta <span className="whitespace-nowrap">(NORMAM-212/DPC)</span>, incluindo as regras específicas para moto aquática (jet ski).</p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
-              <h4 className="font-bold text-lg text-slate-800 mb-2">O que a apostila aborda exatamente?</h4>
-              <p className="text-slate-600 text-justify">O material possui 152 páginas, distribuídas em 8 módulos e 18 capítulos. Os temas incluem: trâmites para habilitação e prova, legislação náutica (LESTA/RLESTA), terminologia e manobra, motores e segurança, RIPEAM (com luzes e marcas), balizamento, comunicações, meteorologia e marés. Além disso, disponibilizamos um checklist para a véspera da prova e um glossário náutico de A a Z. O arquivo é um PDF digital com download imediato logo após a ativação da versão Pro.</p>
+              <h4 className="font-bold text-lg text-slate-800 mb-2">O que a apostila aborda e como funciona o PDF?</h4>
+              <p className="text-slate-600 text-justify">O material possui 152 páginas, distribuídas em 8 módulos e 18 capítulos, cobrindo trâmites para habilitação, legislação náutica (LESTA/RLESTA), manobra, segurança, RIPEAM, balizamento, comunicações, meteorologia e marés. A leitura completa no aplicativo está disponível nos dois planos Premium, mas o download do arquivo em PDF é um benefício exclusivo do plano <strong>Acesso vitalício</strong>.</p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
-              <h4 className="font-bold text-lg text-slate-800 mb-2">Como e onde eu realizo o pagamento?</h4>
-              <p className="text-slate-600 text-justify">Todo o processo é feito de forma segura pela Google Play Store. Você baixa o ArraisPro gratuitamente, experimenta os simulados básicos e conhece a nossa gamificação. Quando se sentir confortável, pode desbloquear a versão Pro diretamente pelo aplicativo. Em apenas um clique, você libera os simulados ilimitados e a apostila completa.</p>
+              <h4 className="font-bold text-lg text-slate-800 mb-2">Como e onde eu realizo a compra?</h4>
+              <p className="text-slate-600 text-justify">Você baixa o ArraisPro gratuitamente no Google Play, experimenta os recursos gratuitos e, quando quiser, escolhe entre o Passe de 7 dias ou o Acesso vitalício diretamente dentro do aplicativo. Toda compra é processada pelo Google Play. Consulte os <a href="/termos-de-compra.html" className="text-blue-600 underline hover:text-blue-800">Termos de compra</a> e a <a href="/politica-de-reembolso.html" className="text-blue-600 underline hover:text-blue-800">Política de reembolso</a> para mais detalhes.</p>
             </div>
 
           </div>

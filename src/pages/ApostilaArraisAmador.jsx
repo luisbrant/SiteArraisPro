@@ -50,7 +50,7 @@ export default function ApostilaArraisAmador() {
         <section className="mb-12">
           <h2 className="text-2xl font-bold text-slate-900 mb-4">Formato e acesso</h2>
           <p className="text-slate-600 mb-4">
-            O material está embutido no aplicativo ArraisPro, permitindo que você estude pelo celular a qualquer hora. Parte do material pode estar disponível gratuitamente, enquanto o conteúdo integral faz parte da versão Pro do app.
+            O material está embutido no aplicativo ArraisPro, permitindo que você estude pelo celular a qualquer hora. Parte do conteúdo é gratuita, enquanto a leitura integral no aplicativo está disponível nos planos ArraisPro Premium (Passe de 7 dias e Acesso vitalício).
           </p>
         </section>
 
@@ -66,7 +66,7 @@ export default function ApostilaArraisAmador() {
           <div className="space-y-4">
             <div>
               <h3 className="font-bold text-slate-800">Posso baixar a apostila em PDF?</h3>
-              <p className="text-slate-600">Não. O material é acessado exclusivamente por dentro do aplicativo ArraisPro para melhor integração com as questões.</p>
+              <p className="text-slate-600">Sim, o download da Apostila preparatória completa em PDF é um benefício exclusivo do plano <strong>Acesso vitalício</strong>. No <strong>Passe de 7 dias</strong>, a leitura completa da apostila fica disponível apenas dentro do aplicativo.</p>
             </div>
             <div>
               <h3 className="font-bold text-slate-800">O conteúdo é suficiente para passar?</h3>
@@ -76,8 +76,8 @@ export default function ApostilaArraisAmador() {
         </section>
 
         <div className="bg-slate-50 border border-slate-200 rounded-3xl p-8 text-center">
-          <h2 className="text-2xl font-black text-slate-900 mb-4">Conheça a versão Pro</h2>
-          <p className="text-slate-600 mb-8 max-w-md mx-auto">Baixe o ArraisPro para acessar a apostila, recursos premium de simulados e ter sua preparação completa na palma da mão.</p>
+          <h2 className="text-2xl font-black text-slate-900 mb-4">Estude, pratique e revise com o Premium</h2>
+          <p className="text-slate-600 mb-8 max-w-md mx-auto">Acesso total a partir de R$&nbsp;9,99 no Passe de 7 dias ou Acesso vitalício por R$&nbsp;39,90 (pagamento único com download da apostila em PDF).</p>
           <a href="https://play.google.com/store/apps/details?id=br.com.arraispro.app" target="_blank" rel="noopener noreferrer" className="inline-block bg-blue-600 text-white font-bold py-4 px-8 rounded-full hover:bg-blue-700 transition shadow-lg">
             Conhecer a Apostila ArraisPro no aplicativo
           </a>
