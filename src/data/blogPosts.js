@@ -547,7 +547,7 @@ Organizar a inscrição resolve a parte administrativa; estudar o programa do ex
   {
     id: 10,
     slug: 'o-que-estudar-vespera-prova-marinha',
-    title: 'O que revisar na véspera da prova de Arrais e Motonauta',
+    title: 'O que revisar na véspera da prova de Arrais-Amador e Motonauta',
     description: 'Confira um checklist para a véspera da prova de Arrais-Amador ou Motonauta: sinais sonoros, luzes, coletes e orientações para o dia do exame.',
     date: '2026-09-28',
     author: 'Equipe ArraisPro',
@@ -820,7 +820,7 @@ Se concordar com a ultrapassagem, a embarcação alcançada responde com **um ap
 Separe primeiro a situação descrita no enunciado:
 
 1. **É uma manobra entre embarcações no visual?** Verifique os sinais de um, dois ou três apitos curtos.
-2. **Há dúvida sobre a intenção ou a segurança da manobra?** Lembrese dos cinco ou mais apitos curtos e rápidos.
+2. **Há dúvida sobre a intenção ou a segurança da manobra?** Lembre-se dos cinco ou mais apitos curtos e rápidos.
 3. **É uma ultrapassagem em canal estreito nas condições descritas pela regra?** Procure os dois apitos **longos** seguidos de um ou dois **curtos**.
 4. **De qual embarcação é o bordo mencionado?** Na intenção de ultrapassar, o sinal nomeia o bordo da embarcação **alcançada**.
 
@@ -1372,7 +1372,7 @@ O ArraisPro é uma plataforma independente de apoio aos estudos para Arrais-Amad
     id: 103,
     slug: 'balizamento-iala-regiao-b',
     title: 'Balizamento IALA Região B: cores e sinais para estudar',
-    description: 'Entenda o Sistema de Balizamento Marítimo IALA Região B. Guia focado no estudo das cores, marcas e sinais para as provas de Arrais e Motonauta.',
+    description: 'Entenda o Sistema de Balizamento Marítimo IALA Região B. Guia focado no estudo das cores, marcas e sinais para as provas de Arrais-Amador e Motonauta.',
     date: '2026-10-06',
     author: 'Equipe ArraisPro',
     content: `
@@ -1521,15 +1521,15 @@ Pilotar uma moto aquática exige uma categoria específica de habilitação: Mot
 
 ## O que verificar antes de iniciar a preparação
 
-Todo candidato deve ser maior de idade e realizar treinamento prático em instituição habilitada pela Marinha. Certifique-se sempre das exigências da Capitania, Delegacia ou Agência responsável.
+Todo candidato deve ter pelo menos 18 anos e realizar o treinamento náutico exigido (com atividades teóricas e práticas previstas na norma) em estabelecimento ou instrutor habilitado perante a Marinha. Certifique-se sempre das exigências da Capitania, Delegacia ou Agência responsável.
 
 ## Temas teóricos para estudar
 
 O exame engloba segurança, RIPEAM, balizamento marítimo, primeiros socorros e legislação. Diferentemente de Arrais-Amador, Motonauta possui ênfase total nos aspectos operacionais e perigos inerentes às motos aquáticas.
 
-## Treinamento prático e exigências aplicáveis
+## Treinamento náutico e exigências aplicáveis
 
-O treinamento prático atestado é requisito indispensável. Não se deixe enganar por promessas de habilitação baseadas apenas na teoria. A segurança da navegação exige destreza na condução.
+O atestado de treinamento náutico (que contempla o treinamento teórico e prático previsto na NORMAM-212/DPC) é requisito indispensável para a inscrição no exame. Não se deixe enganar por promessas de habilitação baseadas apenas na teoria. A segurança da navegação exige destreza na condução.
 
 ## Como usar simulados e revisões
 
