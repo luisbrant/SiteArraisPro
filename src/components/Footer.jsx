@@ -19,18 +19,20 @@ export default function Footer() {
               <li><Link to="/blog/simulado-arrais-amador-gratis-atualizado" className="hover:text-white transition">Simulado Arrais-Amador</Link></li>
               <li><Link to="/blog/ripeam-descomplicado-regras-ouro" className="hover:text-white transition">RIPEAM para Arrais-Amador</Link></li>
               <li><Link to="/suporte" className="hover:text-white transition">Suporte</Link></li>
-              <li><Link to="/politica-de-privacidade" className="hover:text-white transition">Política de Privacidade</Link></li>
             </ul>
           </div>
 
           <div>
-            <h3 className="text-white font-bold mb-4 uppercase tracking-wider text-xs">Institucional</h3>
+            <h3 className="text-white font-bold mb-4 uppercase tracking-wider text-xs">Institucional e Legal</h3>
             <ul className="space-y-3">
               <li><Link to="/sobre" className="hover:text-white transition">Sobre o ArraisPro</Link></li>
               <li><Link to="/como-produzimos-o-conteudo" className="hover:text-white transition">Como produzimos o conteúdo</Link></li>
               <li><Link to="/politica-editorial" className="hover:text-white transition">Política Editorial</Link></li>
               <li><Link to="/fontes-e-referencias" className="hover:text-white transition">Fontes e Referências</Link></li>
               <li><Link to="/termos-de-uso" className="hover:text-white transition">Termos de Uso</Link></li>
+              <li><Link to="/politica-de-privacidade" className="hover:text-white transition">Política de Privacidade</Link></li>
+              <li><Link to="/termos-de-compra" className="hover:text-white transition">Termos de Compra</Link></li>
+              <li><Link to="/politica-de-reembolso" className="hover:text-white transition">Política de Reembolso</Link></li>
             </ul>
           </div>
 

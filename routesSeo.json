@@ -78,5 +78,21 @@
     "ogDesc": "",
     "ogType": "website",
     "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  },
+  "/termos-de-compra": {
+    "title": "Termos de Compra — ArraisPro Premium | ArraisPro",
+    "desc": "Termos de Compra do ArraisPro Premium: modalidades de acesso (Passe de 7 dias e Acesso vitalício), processamento pelo Google Play, restauração e suporte.",
+    "ogTitle": "Termos de Compra — ArraisPro Premium | ArraisPro",
+    "ogDesc": "Termos de Compra do ArraisPro Premium: modalidades de acesso, processamento pelo Google Play, restauração e suporte.",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
+  },
+  "/politica-de-reembolso": {
+    "title": "Política de Reembolso — ArraisPro Premium | ArraisPro",
+    "desc": "Política de Reembolso do ArraisPro Premium: prazos, direito de arrependimento (Art. 49 do CDC), solicitação pelo Google Play e suporte oficial.",
+    "ogTitle": "Política de Reembolso — ArraisPro Premium | ArraisPro",
+    "ogDesc": "Política de Reembolso do ArraisPro Premium: prazos, direito de arrependimento (Art. 49 do CDC) e solicitação pelo Google Play.",
+    "ogType": "website",
+    "ogImage": "https://www.arraispro.com.br/og-image.jpg"
   }
 }

@@ -5,6 +5,8 @@ import BlogList from './pages/BlogList';
 import BlogPost from './pages/BlogPost';
 import TermosDeUso from './pages/TermosDeUso';
 import PoliticaDePrivacidade from './pages/PoliticaDePrivacidade';
+import TermosDeCompra from './pages/TermosDeCompra';
+import PoliticaDeReembolso from './pages/PoliticaDeReembolso';
 import Suporte from './pages/Suporte';
 import Sobre from './pages/Sobre';
 import ComoProduzimosoConteudo from './pages/ComoProduzimosoConteudo';
@@ -27,6 +29,10 @@ export default function App() {
           <Route path="/blog/:slug" element={<BlogPost />} />
           <Route path="/termos-de-uso" element={<TermosDeUso />} />
           <Route path="/politica-de-privacidade" element={<PoliticaDePrivacidade />} />
+          <Route path="/termos-de-compra" element={<TermosDeCompra />} />
+          <Route path="/termos-de-compra.html" element={<TermosDeCompra />} />
+          <Route path="/politica-de-reembolso" element={<PoliticaDeReembolso />} />
+          <Route path="/politica-de-reembolso.html" element={<PoliticaDeReembolso />} />
           <Route path="/suporte" element={<Suporte />} />
           <Route path="/sobre" element={<Sobre />} />
           <Route path="/como-produzimos-o-conteudo" element={<ComoProduzimosoConteudo />} />

@@ -19,6 +19,8 @@ const routes = [
   '/politica-editorial',
   '/politica-de-privacidade',
   '/termos-de-uso',
+  '/termos-de-compra',
+  '/politica-de-reembolso',
   '/suporte',
   '/blog',
   '/404'
@@ -134,6 +136,12 @@ for (const url of routes) {
   }
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
   fs.writeFileSync(filePath, finalHtml);
+
+  // Para páginas legais que também são acessadas diretamente com sufixo .html pelo app Android:
+  if (url === '/termos-de-compra' || url === '/politica-de-reembolso') {
+    const htmlFilePath = path.join(__dirname, 'dist', `${url}.html`);
+    fs.writeFileSync(htmlFilePath, finalHtml);
+  }
 }
 
 console.log('Prerender concluído.');
