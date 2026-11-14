@@ -103,7 +103,7 @@ export default function TermosDeCompra() {
               <li className="flex items-start gap-2.5 bg-[#0b1120] border border-slate-800/80 rounded-xl p-3.5">
                 <span className="text-emerald-400 font-bold mt-0.5">✓</span>
                 <span className="text-sm text-slate-200">
-                  Apostila preparatória completa no aplicativo e em PDF;
+                  <strong className="text-white">Apostila preparatória completa</strong> para leitura no aplicativo (e download do arquivo em PDF exclusivo no plano de <strong className="text-amber-300">Acesso vitalício</strong>);
                 </span>
               </li>
               <li className="flex items-start gap-2.5 bg-[#0b1120] border border-slate-800/80 rounded-xl p-3.5">
@@ -160,7 +160,7 @@ export default function TermosDeCompra() {
                     Acesso Premium por 7 dias · Sem renovação automática
                   </div>
                   <p className="text-slate-300 text-sm leading-relaxed">
-                    Plano pré-pago com duração fixa de 7 (sete) dias corridos a contar da confirmação do pagamento. Não possui renovação automática: ao final dos 7 dias, o acesso retorna ao modo gratuito sem qualquer nova cobrança.
+                    Plano pré-pago com duração fixa de <strong className="text-white">7 (sete) dias corridos</strong> a partir da confirmação do pagamento, liberando a leitura completa da apostila no aplicativo, simulados, trilhas de estudo e flashcards sem anúncios. <strong className="text-white">Não possui renovação automática</strong> e <strong className="text-white">não inclui o download da apostila em arquivo PDF</strong>.
                   </p>
                 </div>
               </div>
@@ -180,10 +180,10 @@ export default function TermosDeCompra() {
                     ID: <code>lifetime_compra</code> · Preço de referência: R$ 39,90
                   </p>
                   <div className="inline-block px-2.5 py-1 rounded-md bg-amber-400/10 border border-amber-400/30 text-amber-300 text-xs font-semibold mb-3">
-                    Pagamento único · Sem mensalidade
+                    Pagamento único · Sem mensalidade · Inclui PDF
                   </div>
                   <p className="text-slate-300 text-sm leading-relaxed">
-                    Compra de pagamento único, sem cobranças recorrentes ou mensalidades, garantindo acesso contínuo aos recursos do ArraisPro Premium vinculado à conta Google Play utilizada na compra.
+                    Compra de <strong className="text-white">pagamento único</strong>, sem cobranças recorrentes ou mensalidades, garantindo acesso contínuo a todos os recursos do ArraisPro Premium no aplicativo e <strong className="text-amber-300">incluindo o download da Apostila preparatória completa em PDF</strong>.
                   </p>
                 </div>
               </div>
