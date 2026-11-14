@@ -1034,9 +1034,10 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     id: 17,
     slug: 'uso-de-extintores-em-lanchas',
     title: 'Extintores para lanchas: água, espuma, CO₂ ou pó?',
-    date: '2026-10-21T12:00:00',
+    description: 'Entenda para quais classes de incêndio são indicados os extintores de água, espuma, CO₂ e pó químico e como conferir a dotação da embarcação.',
+    date: '2026-10-21',
     readTime: '6 min',
-    draft: true,
+    draft: false,
     excerpt: 'Entenda para quais classes de incêndio são indicados os extintores de água, espuma, CO₂ e pó químico e como conferir a dotação da embarcação.',
     content: `
 # Extintores para lanchas: qual é adequado a cada classe de incêndio?
@@ -1096,7 +1097,7 @@ Por isso, não use uma fórmula como “lancha a motor = um B-1”. Antes de com
 
 Para estudar, relacione o **material que está queimando**, a presença de **energia elétrica** e as **letras no rótulo** do extintor. Essa sequência é mais útil do que decorar que um único agente “serve para tudo”.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para revisar temas de segurança.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ele reúne [apostila](/apostila-arrais-amador), flashcards, quizzes e [simulados](/simulado-arrais-amador) com questões autorais para revisar temas de segurança.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
@@ -1107,16 +1108,17 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     id: 18,
     slug: 'equipamentos-de-salvatagem-obrigatorios',
     title: 'Coletes e boias obrigatórios na embarcação',
-    date: '2026-10-24T12:00:00',
+    description: 'Saiba como a NORMAM-211 trata coletes, boias salva-vidas e sinais de socorro em embarcações de esporte e recreio.',
+    date: '2026-10-24',
     readTime: '5 min',
-    draft: true,
+    draft: false,
     excerpt: 'Saiba como a NORMAM-211 trata coletes, boias salva-vidas e sinais de socorro em embarcações de esporte e recreio.',
     content: `
 # Coletes e boias salva-vidas: o que é obrigatório a bordo?
 
 **A dotação de segurança não é igual para toda embarcação.** As exigências dependem de fatores como seu enquadramento, porte e classificação de navegação. Por isso, antes de montar uma lista de equipamentos, consulte o **Título de Inscrição de Embarcação (TIE)** e os quadros aplicáveis da **NORMAM-211/DPC**.
 
-Para quem estuda para <Link to="/arrais-amador">Arrais-Amador</Link>, é importante lembrar: a categoria habilita a condução **nos limites da navegação interior**. A dotação exigida para uma embarcação classificada para navegação costeira ou oceânica **não amplia a habilitação do condutor**.
+Para quem estuda para [Arrais-Amador](/arrais-amador), é importante lembrar: a categoria habilita a condução **nos limites da navegação interior**. A dotação exigida para uma embarcação classificada para navegação costeira ou oceânica **não amplia a habilitação do condutor**.
 
 ## Coletes salva-vidas: um para cada pessoa
 
@@ -1148,7 +1150,7 @@ Os **artefatos pirotécnicos** incluem diferentes tipos de sinais, como fachos d
 
 Quando exigidos, verifique se os equipamentos estão em boas condições e dentro do prazo de validade. Não transporte um sinal vencido como se ele atendesse à dotação obrigatória.
 
-**Atenção:** levar equipamentos previstos para uma embarcação classificada para navegação costeira ou oceânica não autoriza um <Link to="/arrais-amador">Arrais-Amador</Link> a conduzi-la fora dos limites de sua própria habilitação.
+**Atenção:** levar equipamentos previstos para uma embarcação classificada para navegação costeira ou oceânica não autoriza um [Arrais-Amador](/arrais-amador) a conduzi-la fora dos limites de sua própria habilitação.
 
 ## Como conferir a dotação da sua embarcação?
 
@@ -1164,7 +1166,7 @@ A dotação normativa é um **mínimo**. O responsável pela embarcação també
 
 ## Revise com o ArraisPro
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para revisar temas de segurança e salvatagem.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ele reúne [apostila](/apostila-arrais-amador), flashcards, quizzes e [simulados](/simulado-arrais-amador) com questões autorais para revisar temas de segurança e salvatagem.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
