@@ -99,7 +99,7 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen font-sans text-slate-800 bg-white">
+    <div className="min-h-screen font-sans text-slate-800 bg-white overflow-x-clip">
       <Helmet>
         <title>Simulados para Arrais-Amador e Motonauta | ArraisPro</title>
         <meta name="description" content="Estude para Arrais-Amador e Motonauta com simulados, questões comentadas, apostila e trilha de estudos. Baixe o ArraisPro." />
@@ -146,7 +146,7 @@ export default function Home() {
               <span className="bg-gradient-to-r from-blue-400 via-blue-300 to-cyan-300 bg-clip-text text-transparent drop-shadow-sm">Arrais-Amador e Motonauta</span>
             </h1>
             <p className="text-base sm:text-lg md:text-xl text-slate-300 leading-relaxed max-w-xl mx-auto md:mx-0 mt-4 relative z-10">
-              Prepare-se com simulados, questões comentadas, trilha de estudos e apostila digital de apoio para sua habilitação náutica. Conteúdo organizado com referência aos temas de estudo das categorias e a documentos públicos aplicáveis, incluindo as <span className="whitespace-nowrap text-blue-300 font-medium">NORMAM-211/DPC e NORMAM-212/DPC</span>.
+              Prepare-se com simulados, questões comentadas, trilha de estudos e apostila digital de apoio para sua habilitação náutica. Conteúdo organizado com referência aos temas de estudo das categorias e a documentos públicos aplicáveis, incluindo as <span className="text-blue-300 font-medium"><span className="whitespace-nowrap">NORMAM-211/DPC</span> e <span className="whitespace-nowrap">NORMAM-212/DPC</span></span>.
             </p>
             
             <div className="flex flex-col gap-3 mt-6 w-full items-center md:items-start relative z-10">
@@ -264,7 +264,7 @@ export default function Home() {
       {/* 3. PROBLEMA / SOLUÇÃO - GARANTIA */}
       <section className="py-20 px-4 sm:px-6 bg-blue-50 text-center">
         <div className="max-w-3xl mx-auto flex flex-col gap-6">
-          <div className="inline-flex items-center justify-center gap-2 text-blue-600 bg-blue-100 px-4 py-1.5 rounded-full text-sm font-bold w-max mx-auto mb-2">
+          <div className="inline-flex items-center justify-center gap-2 text-blue-600 bg-blue-100 px-4 py-1.5 rounded-full text-sm font-bold w-fit max-w-full mx-auto mb-2">
             <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 1.944A11.954 11.954 0 012.166 5C2.056 5.642 2 6.319 2 7c0 5.225 3.34 9.67 8 11.317C14.66 16.67 18 12.225 18 7c0-.682-.057-1.358-.166-2.001A11.954 11.954 0 0110 1.944zM11 14a1 1 0 11-2 0 1 1 0 012 0zm0-7a1 1 0 10-2 0v3a1 1 0 102 0V7z" clipRule="evenodd" /></svg>
             Transparência Total
           </div>
@@ -284,30 +284,30 @@ export default function Home() {
       </section>
 
       {/* 4. FEATURES */}
-      <section id="recursos" className="py-24 px-6 bg-slate-50 scroll-mt-24">
+      <section id="recursos" className="py-20 sm:py-24 px-4 sm:px-6 bg-slate-50 scroll-mt-24">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-3xl md:text-4xl font-black text-center text-slate-800 mb-16 tracking-tight">Simulados e questões para sua preparação</h2>
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <h2 className="text-3xl md:text-4xl font-black text-center text-slate-800 mb-12 sm:mb-16 tracking-tight">Simulados e questões para sua preparação</h2>
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8">
             
-            <div className="bg-white p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
+            <div className="bg-white p-6 sm:p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
               <div className="w-14 h-14 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center mb-6 text-3xl shadow-inner border border-blue-100">📖</div>
               <h3 className="font-black text-xl mb-4 text-slate-800 tracking-tight">Apostila Guiada</h3>
               <p className="text-slate-600 leading-relaxed">Conteúdo organizado em módulos, com explicações, alertas sobre os exames e dicas práticas para que você compreenda a matéria em uma sequência lógica.</p>
             </div>
 
-            <div className="bg-white p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
+            <div className="bg-white p-6 sm:p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
               <div className="w-14 h-14 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center mb-6 text-3xl shadow-inner border border-blue-100">🎯</div>
               <h3 className="font-black text-xl mb-4 text-slate-800 tracking-tight">Simulados</h3>
               <p className="text-slate-600 leading-relaxed">Mais de 900 questões comentadas, com filtros por tema e por nível de dificuldade. Pratique e acompanhe seu desempenho.</p>
             </div>
 
-            <div className="bg-white p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
+            <div className="bg-white p-6 sm:p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
               <div className="w-14 h-14 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center mb-6 text-3xl shadow-inner border border-blue-100">⚡</div>
               <h3 className="font-black text-xl mb-4 text-slate-800 tracking-tight">Flashcards</h3>
               <p className="text-slate-600 leading-relaxed">Mais de 450 flashcards interativos para você reforçar a memorização de luzes, sinais, regras, limites e conceitos essenciais da navegação.</p>
             </div>
 
-            <div className="bg-white p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
+            <div className="bg-white p-6 sm:p-10 rounded-xl border border-slate-200 shadow-xl shadow-slate-200/50 hover:-translate-y-2 hover:shadow-2xl hover:shadow-blue-900/10 transition-all duration-300">
               <div className="w-14 h-14 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center mb-6 text-3xl shadow-inner border border-blue-100">📈</div>
               <h3 className="font-black text-xl mb-4 text-slate-800 tracking-tight">Progresso</h3>
               <p className="text-slate-600 leading-relaxed">Acompanhe o seu progresso de leitura e a sua taxa de acertos, e identifique exatamente quais temas precisam de reforço antes do grande dia.</p>
@@ -319,9 +319,9 @@ export default function Home() {
 
 
       {/* 5. A GRANDE OFERTA (BÔNUS) */}
-      <section id="bonus" className="py-24 px-6 bg-slate-900 text-white scroll-mt-24">
-        <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-16 items-center">
-          <div className="order-2 md:order-1 flex justify-center perspective-1000">
+      <section id="bonus" className="py-20 sm:py-24 px-4 sm:px-6 bg-slate-900 text-white scroll-mt-24 overflow-hidden">
+        <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 md:gap-16 items-center">
+          <div className="order-2 md:order-1 flex justify-center perspective-1000 min-w-0">
              {/* Capa real da apostila com efeito 3D */}
             {/* Capa real da apostila com efeito 3D (Refatorado para 3D real) */}
             <div className="relative w-56 md:w-64 group">
@@ -348,8 +348,8 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div className="order-1 md:order-2 flex flex-col gap-6">
-            <div className="inline-block bg-gradient-to-r from-amber-500/20 to-emerald-500/20 border border-amber-400/50 text-amber-300 px-5 py-1.5 rounded-full text-sm font-bold uppercase tracking-widest w-max shadow-lg shadow-amber-900/20 backdrop-blur-sm">
+          <div className="order-1 md:order-2 flex flex-col gap-6 min-w-0">
+            <div className="inline-block bg-gradient-to-r from-amber-500/20 to-emerald-500/20 border border-amber-400/50 text-amber-300 px-4 py-1.5 rounded-full text-xs sm:text-sm font-bold uppercase tracking-wider sm:tracking-widest w-fit max-w-full shadow-lg shadow-amber-900/20 backdrop-blur-sm">
               Download em PDF exclusivo no Acesso vitalício
             </div>
             <h2 className="text-3xl md:text-4xl font-black leading-tight text-balance tracking-tighter">
@@ -546,10 +546,10 @@ export default function Home() {
       </section>
 
       {/* 7.5 COMO O ARRAISPRO AJUDA (Conteúdo adicional SEO) */}
-      <section className="py-24 px-6 bg-white border-t border-slate-100">
+      <section className="py-20 sm:py-24 px-4 sm:px-6 bg-white border-t border-slate-100">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-black text-slate-800 mb-8 tracking-tighter text-center">Como o ArraisPro ajuda na sua preparação</h2>
-          <div className="flex flex-col gap-6 text-lg text-slate-600 leading-relaxed text-justify">
+          <div className="flex flex-col gap-6 text-base sm:text-lg text-slate-600 leading-relaxed text-left sm:text-justify">
             <p>
               O ArraisPro reúne os recursos necessários para organizar a sua preparação para as provas teóricas de Arrais-Amador e Motonauta. Em vez de depender de materiais espalhados, você pode combinar simulados, questões comentadas, apostila digital e uma trilha de estudos gamificada para revisar os temas no seu próprio ritmo e identificar rapidamente quais assuntos merecem mais atenção antes do exame.
             </p>
@@ -561,10 +561,10 @@ export default function Home() {
       </section>
 
       {/* 7.6 ESTUDE PARA SUA CATEGORIA (Links Internos SEO) */}
-      <section className="py-24 px-6 bg-slate-50 border-t border-slate-100">
+      <section className="py-20 sm:py-24 px-4 sm:px-6 bg-slate-50 border-t border-slate-100">
         <div className="max-w-4xl mx-auto">
-          <div className="grid md:grid-cols-2 gap-8">
-            <div className="bg-white p-10 rounded-3xl shadow-sm border border-slate-200 hover:-translate-y-1 transition-transform duration-300">
+          <div className="grid md:grid-cols-2 gap-6 sm:gap-8">
+            <div className="bg-white p-6 sm:p-10 rounded-3xl shadow-sm border border-slate-200 hover:-translate-y-1 transition-transform duration-300">
               <h2 className="text-2xl font-black text-slate-800 mb-4 tracking-tight">Vai fazer a prova de Arrais-Amador?</h2>
               <p className="text-slate-600 mb-8 leading-relaxed">Prepare-se com simulados, questões comentadas, apostila digital, flashcards e uma trilha de estudos para organizar sua revisão.</p>
               <Link to="/arrais-amador" className="inline-flex items-center gap-2 bg-slate-900 hover:bg-blue-600 text-white font-bold py-3.5 px-6 rounded-xl transition-colors">
@@ -572,7 +572,7 @@ export default function Home() {
               </Link>
             </div>
             
-            <div className="bg-white p-10 rounded-3xl shadow-sm border border-slate-200 hover:-translate-y-1 transition-transform duration-300">
+            <div className="bg-white p-6 sm:p-10 rounded-3xl shadow-sm border border-slate-200 hover:-translate-y-1 transition-transform duration-300">
               <h2 className="text-2xl font-black text-slate-800 mb-4 tracking-tight">Vai fazer a prova de Motonauta?</h2>
               <p className="text-slate-600 mb-8 leading-relaxed">Revise segurança, navegação interior, balizamento, RIPEAM e outros conteúdos relevantes com simulados e materiais de apoio.</p>
               <Link to="/motonauta" className="inline-flex items-center gap-2 bg-slate-900 hover:bg-blue-600 text-white font-bold py-3.5 px-6 rounded-xl transition-colors">
@@ -584,7 +584,7 @@ export default function Home() {
       </section>
 
       {/* 7.7 REDES SOCIAIS */}
-      <section className="py-24 px-6 bg-white border-t border-slate-100 text-center">
+      <section className="py-20 sm:py-24 px-4 sm:px-6 bg-white border-t border-slate-100 text-center">
         <div className="max-w-2xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-black text-slate-800 mb-6 tracking-tighter">Acompanhe o ArraisPro</h2>
           <p className="text-lg text-slate-600 mb-10">Receba dicas de estudo, questões, explicações e novidades sobre Arrais-Amador e Motonauta pelas redes oficiais do ArraisPro.</p>
@@ -600,29 +600,29 @@ export default function Home() {
       </section>
 
       {/* 8. FAQ */}
-      <section id="faq" className="py-24 px-6 bg-white scroll-mt-24">
+      <section id="faq" className="py-20 sm:py-24 px-4 sm:px-6 bg-white scroll-mt-24">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-3xl font-bold text-center text-slate-800 mb-12">Perguntas frequentes</h2>
           <div className="flex flex-col gap-6">
             
-            <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
+            <div className="bg-slate-50 p-5 sm:p-6 rounded-2xl border border-slate-100">
               <h4 className="font-bold text-lg text-slate-800 mb-2">O aplicativo cobra alguma mensalidade?</h4>
-              <p className="text-slate-600 text-justify">Não. O ArraisPro Premium oferece duas opções sem assinatura recorrente: o <strong>Passe de 7 dias</strong> (<span className="whitespace-nowrap">R$ 9,99</span>), um plano pré-pago que libera todo o conteúdo no aplicativo por 7 dias corridos sem renovação automática, e o <strong>Acesso vitalício</strong> (<span className="whitespace-nowrap">R$ 39,90</span>), em pagamento único, sem mensalidade e que também inclui o download da Apostila preparatória completa em PDF.</p>
+              <p className="text-slate-600 text-left sm:text-justify">Não. O ArraisPro Premium oferece duas opções sem assinatura recorrente: o <strong>Passe de 7 dias</strong> (<span className="whitespace-nowrap">R$ 9,99</span>), um plano pré-pago que libera todo o conteúdo no aplicativo por 7 dias corridos sem renovação automática, e o <strong>Acesso vitalício</strong> (<span className="whitespace-nowrap">R$ 39,90</span>), em pagamento único, sem mensalidade e que também inclui o download da Apostila preparatória completa em PDF.</p>
             </div>
 
-            <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
+            <div className="bg-slate-50 p-5 sm:p-6 rounded-2xl border border-slate-100">
               <h4 className="font-bold text-lg text-slate-800 mb-2">O material serve também para a prova de Motonauta?</h4>
-              <p className="text-slate-600 text-justify">Sim. Todo o nosso ecossistema — mais de 900 questões comentadas, mais de 450 flashcards, trilhas de estudo e apostila — engloba o conteúdo programático das provas de Arrais-Amador <span className="whitespace-nowrap">(NORMAM-211/DPC)</span> e de Motonauta <span className="whitespace-nowrap">(NORMAM-212/DPC)</span>, incluindo as regras específicas para moto aquática (jet ski).</p>
+              <p className="text-slate-600 text-left sm:text-justify">Sim. Todo o nosso ecossistema — mais de 900 questões comentadas, mais de 450 flashcards, trilhas de estudo e apostila — engloba o conteúdo programático das provas de Arrais-Amador <span className="whitespace-nowrap">(NORMAM-211/DPC)</span> e de Motonauta <span className="whitespace-nowrap">(NORMAM-212/DPC)</span>, incluindo as regras específicas para moto aquática (jet ski).</p>
             </div>
 
-            <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
+            <div className="bg-slate-50 p-5 sm:p-6 rounded-2xl border border-slate-100">
               <h4 className="font-bold text-lg text-slate-800 mb-2">O que a apostila aborda e como funciona o PDF?</h4>
-              <p className="text-slate-600 text-justify">O material possui 152 páginas, distribuídas em 8 módulos e 18 capítulos, cobrindo trâmites para habilitação, legislação náutica (LESTA/RLESTA), manobra, segurança, RIPEAM, balizamento, comunicações, meteorologia e marés. A leitura completa no aplicativo está disponível nos dois planos Premium, mas o download do arquivo em PDF é um benefício exclusivo do plano <strong>Acesso vitalício</strong>.</p>
+              <p className="text-slate-600 text-left sm:text-justify">O material possui 152 páginas, distribuídas em 8 módulos e 18 capítulos, cobrindo trâmites para habilitação, legislação náutica (LESTA/RLESTA), manobra, segurança, RIPEAM, balizamento, comunicações, meteorologia e marés. A leitura completa no aplicativo está disponível nos dois planos Premium, mas o download do arquivo em PDF é um benefício exclusivo do plano <strong>Acesso vitalício</strong>.</p>
             </div>
 
-            <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
+            <div className="bg-slate-50 p-5 sm:p-6 rounded-2xl border border-slate-100">
               <h4 className="font-bold text-lg text-slate-800 mb-2">Como e onde eu realizo a compra?</h4>
-              <p className="text-slate-600 text-justify">Você baixa o ArraisPro gratuitamente no Google Play, experimenta os recursos gratuitos e, quando quiser, escolhe entre o Passe de 7 dias ou o Acesso vitalício diretamente dentro do aplicativo. Toda compra é processada pelo Google Play. Consulte os <a href="/termos-de-compra.html" className="text-blue-600 underline hover:text-blue-800">Termos de compra</a> e a <a href="/politica-de-reembolso.html" className="text-blue-600 underline hover:text-blue-800">Política de reembolso</a> para mais detalhes.</p>
+              <p className="text-slate-600 text-left sm:text-justify">Você baixa o ArraisPro gratuitamente no Google Play, experimenta os recursos gratuitos e, quando quiser, escolhe entre o Passe de 7 dias ou o Acesso vitalício diretamente dentro do aplicativo. Toda compra é processada pelo Google Play. Consulte os <a href="/termos-de-compra.html" className="text-blue-600 underline hover:text-blue-800">Termos de compra</a> e a <a href="/politica-de-reembolso.html" className="text-blue-600 underline hover:text-blue-800">Política de reembolso</a> para mais detalhes.</p>
             </div>
 
           </div>

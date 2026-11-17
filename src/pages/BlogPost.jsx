@@ -31,7 +31,7 @@ export default function BlogPost() {
   const processedContent = (post.content || '').replace(/<Link\s+to=["']([^"']+)["']>([\s\S]*?)<\/Link>/gi, '[$2]($1)');
 
   return (
-    <div className="min-h-screen bg-white font-sans text-slate-800 flex flex-col">
+    <div className="min-h-screen bg-white font-sans text-slate-800 flex flex-col overflow-x-clip">
       <Helmet>
         <title>{`${post.title} | Blog ArraisPro`}</title>
         <meta name="description" content={description} />
@@ -85,13 +85,13 @@ export default function BlogPost() {
       </header>
 
       {/* ARTIGO */}
-      <main className="flex-1 max-w-3xl mx-auto px-6 py-12 md:py-20 w-full">
+      <main className="flex-1 max-w-3xl mx-auto px-4 sm:px-6 py-10 md:py-20 w-full">
         <div className="mb-10 text-center">
           <p className="text-blue-600 font-bold text-sm tracking-widest uppercase mb-4">Náutica & Preparação</p>
           <h1 className="text-3xl md:text-5xl font-black text-slate-900 mb-6 leading-tight tracking-tight">
             {post.title}
           </h1>
-          <div className="flex items-center justify-center gap-4 text-sm text-slate-500 font-medium">
+          <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-1 text-sm text-slate-500 font-medium">
             <span>Por {post.author || "ArraisPro"}</span>
             <span>•</span>
             <span>{new Date(post.date + 'T12:00:00').toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' })}</span>
@@ -99,10 +99,15 @@ export default function BlogPost() {
         </div>
 
         {/* CONTEÚDO MARKDOWN (ESTILIZADO COM TAILWIND TYPOGRAPHY) */}
-        <article className="prose prose-slate prose-lg md:prose-xl mx-auto prose-a:text-blue-600 hover:prose-a:text-blue-800 prose-headings:font-black prose-img:rounded-xl">
+        <article className="prose prose-slate prose-base sm:prose-lg md:prose-xl max-w-none mx-auto prose-a:text-blue-600 hover:prose-a:text-blue-800 prose-headings:font-black prose-img:rounded-xl break-words">
           <ReactMarkdown
             components={{
               h1: ({ node: _node, ...props }) => <h2 {...props} />,
+              table: ({ node: _node, ...props }) => (
+                <div className="overflow-x-auto my-6">
+                  <table {...props} />
+                </div>
+              ),
               a: ({ node: _node, href, children, ...props }) => {
                 if (href && href.startsWith('/')) {
                   return <Link to={href} {...props}>{children}</Link>;
