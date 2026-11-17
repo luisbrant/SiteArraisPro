@@ -1177,58 +1177,61 @@ O **ArraisPro** é um aplicativo educacional independente para a preparação te
     id: 19,
     slug: 'abandono-de-embarcacao-regras-e-dicas',
     title: 'Abandono de Embarcação: Procedimentos de Sobrevivência',
-    date: '2026-10-27T12:00:00',
+    description: 'Aprenda as regras essenciais de sobrevivência para o abandono de embarcação cobradas no exame, incluindo o salto correto e a fuga por barlavento.',
+    date: '2026-10-27',
     readTime: '5 min',
-    draft: true,
-    excerpt: 'Aprenda as regras essenciais de sobrevivência para o Abandono de Embarcação cobradas no exame, incluindo o salto correto e a fuga por barlavento.',
+    draft: false,
+    excerpt: 'Aprenda as regras essenciais de sobrevivência para o abandono de embarcação cobradas no exame, incluindo o salto correto e a fuga por barlavento.',
     content: `
 # Abandono de Embarcação: O que fazer em emergências extremas
 
-O comandante de uma embarcação deve tentar combater o perigo e salvar seu barco. Contudo, quando o risco à vida humana torna-se incontornável — como em incêndios descontrolados, alagamentos severos ou naufrágio iminente —, a ordem de "Abandono de Embarcação" deve ser dada.
+O comandante de uma embarcação deve tentar combater o perigo e salvar seu barco. Contudo, quando o risco à vida humana se torna incontornável — como em incêndios descontrolados, alagamentos severos ou naufrágio iminente —, a ordem de "Abandono de Embarcação" deve ser dada.
 
 Conhecer os procedimentos corretos de abandono e sobrevivência é exigência tanto da teoria quanto da prática marinheira.
 
 ---
 
 ## 1. O Salto em Último Caso
-A ordem para abandonar deve partir expressamente do comandante. Antes do abandono, sempre que as condições permitirem, a embarcação deve acionar seus meios de comunicação (como rádio VHF ou sinais pirotécnicos) para solicitar socorro e informar a posição.
+A ordem para abandonar a embarcação deve partir expressamente do comandante. Antes do abandono, sempre que as condições permitirem e conforme os equipamentos disponíveis a bordo, a embarcação deve acionar seus meios de comunicação (como rádio VHF ou sinais pirotécnicos, cuja dotação obrigatória varia conforme o porte e a área de navegação na NORMAM-211/DPC) para solicitar socorro e informar a posição.
 
 ## 2. Preparação do Colete
-A regra número um antes de entrar na água é vestir o colete salva-vidas adequadamente e ajustá-lo firmemente ao corpo. Um colete folgado pode se deslocar na hora do impacto com a água, correndo o risco de machucar o pescoço do usuário ou prejudicar a flutuação.
+A regra número um antes de entrar na água é vestir o colete salva-vidas de forma adequada e ajustá-lo firmemente ao corpo. Um colete folgado pode se deslocar na hora do impacto com a água, com risco de machucar o pescoço do usuário ou de prejudicar a flutuação.
 
 ## 3. A Técnica do Salto
 Para saltar da borda da embarcação para a água de forma segura, deve-se adotar uma postura defensiva:
-* **Proteja as vias aéreas:** Uma das mãos deve tapar o nariz e a boca.
-* **Trinque o colete:** A outra mão deve cruzar sobre o peito e segurar firmemente a alça/ombro oposto do colete, impedindo que ele suba no impacto.
+* **Proteção das vias aéreas:** Uma das mãos deve tapar o nariz e a boca.
+* **Fixação do colete:** A outra mão deve cruzar sobre o peito e segurar firmemente a alça ou o ombro oposto do colete, impedindo que ele suba no impacto.
 * **Corpo ereto:** As pernas devem estar esticadas, juntas e, de preferência, cruzadas na altura dos tornozelos.
-* **Entrada na água:** Pule sempre de pé ("de prego"). **Nunca mergulhe de cabeça**, pois a água abaixo pode conter destroços não visíveis, partes da embarcação ou bancos de areia rasos.
+* **Entrada na água:** Deve-se pular sempre em pé ("de prego") e **nunca mergulhar de cabeça**, pois a água abaixo pode conter destroços não visíveis, partes da embarcação ou bancos de areia rasos.
 
 ## 4. O Lado Correto: Salte por Barlavento
-Ao abandonar uma embarcação acidentada (especialmente se estiver em chamas ou derramando combustível), a regra cardinal de segurança é abandonar pelo lado de **barlavento** (o bordo de onde o vento está soprando).
-* Se você pular por *sotavento* (para onde o vento sopra), a força do vento e da correnteza empurrará o barco em chamas, o combustível ou a fumaça tóxica diretamente para cima de você na água.
+Ao abandonar uma embarcação acidentada (especialmente se estiver em chamas ou derramando combustível), a regra fundamental de segurança é abandoná-la pelo lado de **barlavento** (o bordo de onde o vento está soprando).
+
+Se você pular por *sotavento* (para onde o vento sopra), a força do vento empurrará o barco em chamas, o combustível ou a fumaça tóxica diretamente para cima de você na água.
 
 ## 5. Sobrevivência na Água
-Uma vez na água, os náufragos devem se afastar rapidamente da embarcação em perigo (evitando o efeito de sucção do naufrágio ou explosões) e, em seguida, manter-se agrupados (unidos em roda). Um grupo é mentalmente mais forte, preserva mais o calor corporal e é infinitamente mais fácil de ser avistado pelo resgate do que pessoas dispersas.
+Uma vez na água, os náufragos devem se afastar rapidamente da embarcação em perigo (evitando o efeito de sucção do naufrágio ou explosões) e, em seguida, manter-se agrupados (unidos em roda). Um grupo é mentalmente mais forte, preserva mais o calor corporal e é muito mais fácil de ser avistado pelas equipes de resgate do que pessoas dispersas.
 
-Revisar esses conceitos salva vidas. O **ArraisPro** conta com quizzes e <Link to="/simulado-arrais-amador">simulados</Link> focados em situações de sobrevivência para manter o candidato afiado para a prova teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>.
+Revisar esses conceitos salva vidas. O **ArraisPro** conta com quizzes e [simulados](/simulado-arrais-amador) focados em situações de sobrevivência para manter o candidato preparado para a prova teórica de [Arrais-Amador](/arrais-amador) (Anexo 5-A da NORMAM-211/DPC).
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
-*O ArraisPro não tem vínculo com a Marinha do Brasil.*
+*O ArraisPro não emite habilitações e não possui vínculo ou endosso da Marinha do Brasil.*
     `
   },
   {
     id: 20,
     slug: 'primeiros-socorros-no-mar-afogamento-e-hipotermia',
     title: 'Afogamento e hipotermia: primeiros socorros a bordo',
-    date: '2026-10-29T12:00:00',
+    description: 'Entenda as ações prioritárias diante de um afogamento ou de suspeita de hipotermia: segurança no resgate, pedido de socorro e cuidados até a chegada de ajuda.',
+    date: '2026-10-29',
     readTime: '6 min',
-    draft: true,
-    excerpt: 'Entenda as primeiras prioridades diante de um afogamento ou suspeita de hipotermia: segurança no resgate, pedido de socorro e cuidados até a chegada de ajuda.',
+    draft: false,
+    excerpt: 'Entenda as ações prioritárias diante de um afogamento ou de suspeita de hipotermia: segurança no resgate, pedido de socorro e cuidados até a chegada de ajuda.',
     content: `
 # Afogamento e hipotermia: noções de primeiros socorros a bordo
 
-Em uma emergência na água, **proteger quem presta socorro é a primeira prioridade**. Uma tentativa de resgate sem condições de segurança pode transformar uma vítima em duas.
+Em uma emergência na água, **proteger quem presta socorro é a prioridade máxima**. Uma tentativa de resgate sem condições de segurança pode transformar uma vítima em duas.
 
 Este artigo apresenta noções iniciais para reconhecer afogamento e suspeita de hipotermia. **Não substitui um curso prático de primeiros socorros, treinamento em reanimação cardiopulmonar (RCP) ou orientação de profissionais de emergência.**
 
@@ -1240,12 +1243,12 @@ Assim que a pessoa estiver em local seguro:
 
 1. **Verifique se responde e se respira normalmente.** Respiração ausente ou apenas movimentos respiratórios anormais exigem ação imediata.
 2. **Acione o socorro.** No Brasil, você pode buscar atendimento pelo **SAMU 192**, pelo **Corpo de Bombeiros 193** ou, em emergência de navegação, pelo **Salvamar 185** e pelo **canal 16 do rádio VHF**, quando disponível. Informe sua localização e o estado da vítima.
-3. **Se a pessoa não respirar normalmente, inicie RCP conforme seu treinamento e as instruções do serviço de emergência.** Em afogamento, as **ventilações de resgate são especialmente importantes**, pois a falta de oxigênio é a causa central da parada. Pessoas treinadas devem aplicá-las junto às compressões, conforme o protocolo aprendido.
+3. **Se a pessoa não respirar normalmente, inicie a RCP conforme seu treinamento e as instruções do serviço de emergência.** Em casos de afogamento, as **ventilações de resgate são especialmente importantes**, pois a falta de oxigênio é a causa central da parada. Pessoas treinadas devem aplicá-las junto às compressões, conforme o protocolo aprendido.
 4. **Se você não souber ou não puder fazer ventilações, não deixe de ajudar.** Faça compressões torácicas e siga as orientações do atendente até a chegada da equipe de emergência.
 
 Se a pessoa estiver **inconsciente, mas respirando normalmente**, mantenha a via aérea desobstruída, observe continuamente sua respiração e siga a orientação do serviço de emergência. Mesmo quando a vítima parece ter melhorado, **sintomas após um episódio de submersão exigem avaliação de saúde**.
 
-**Não perca tempo tentando “tirar a água do pulmão” com manobras improvisadas.** Priorize respiração, RCP quando indicada e atendimento profissional.
+**Não perca tempo tentando "tirar a água do pulmão" com manobras improvisadas.** Priorize a respiração, a RCP (quando indicada) e o atendimento profissional.
 
 ## Hipotermia: como reconhecer o risco?
 
@@ -1256,7 +1259,7 @@ Fique atento a **tremores, pele fria, dificuldade de coordenação, confusão, s
 ## O que fazer diante de suspeita de hipotermia?
 
 - **Leve a pessoa para um local protegido**, se isso puder ser feito com segurança, e evite manuseá-la bruscamente.
-- **Retire roupas molhadas com cuidado**, se possível, seque a pessoa e substitua-as por roupas ou cobertores secos.
+- **Retire as roupas molhadas com cuidado**, substitua-as por roupas ou cobertores secos e, se possível, seque a pessoa.
 - **Proteja-a do vento e da superfície fria**, cobrindo também a cabeça.
 - **Observe continuamente a consciência e a respiração** enquanto aguarda ajuda.
 - **Não ofereça bebidas alcoólicas.** Não ofereça nada pela boca se a pessoa estiver confusa, sonolenta ou não conseguir engolir com segurança.
@@ -1266,9 +1269,9 @@ Se a pessoa estiver inconsciente ou não respirar normalmente, **acione o socorr
 
 ## Como estudar primeiros socorros para a prova?
 
-Para Arrais-Amador e Motonauta, a preparação teórica deve ajudar você a reconhecer uma emergência e **não decorar uma sequência que substitua treinamento real**. Revise especialmente: segurança do socorrista, acionamento de ajuda, avaliação da respiração, papel das ventilações no afogamento e prevenção da perda adicional de calor.
+Para Arrais-Amador e Motonauta, a preparação teórica deve ajudar você a reconhecer uma emergência, e **não a decorar uma sequência que substitua o treinamento real**. Revise especialmente: segurança do socorrista, acionamento de ajuda, avaliação da respiração, papel das ventilações no afogamento e prevenção da perda adicional de calor.
 
-O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de <Link to="/arrais-amador">Arrais-Amador</Link> e <Link to="/motonauta">Motonauta</Link>. Ele reúne <Link to="/apostila-arrais-amador">apostila</Link>, flashcards, quizzes e <Link to="/simulado-arrais-amador">simulados</Link> com questões autorais para revisar os temas previstos para os exames.
+O **ArraisPro** é um aplicativo educacional independente para a preparação teórica de [Arrais-Amador](/arrais-amador) e [Motonauta](/motonauta). Ele reúne [apostila](/apostila-arrais-amador), flashcards, quizzes e [simulados](/simulado-arrais-amador) com questões autorais para revisar os temas previstos para os exames.
 
 [Conheça o ArraisPro na Google Play Store](https://play.google.com/store/apps/details?id=br.com.arraispro.app&pcampaignid=web_share)
 
